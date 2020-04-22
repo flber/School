@@ -1,0 +1,74 @@
+a = {q1 = "The social sin that most closely connects to my Anawim Project is __________.",
+     e1 = {"lack of funding for inner-city public schools/achievement gap in education",
+           "cycle of poverty (no health care/joblessness/lack of affordable housing)",
+           "lack of opportunities for disabled children in public schools/community recreation/sports programs",
+           "sexism in the education of young women",
+           "lack of quality pre-schools for low income fams",
+           "Age-ism (health care/financ. opps/lack of social/recreational opps/loneliness & lack of meaningful relationships/socialization)",
+           "disintegration of the family/domestic violence",
+           "globalization & poverty/poverty in developing countries",
+           "school to prison pipeline",
+           "lack of job opps/'re-entry' programs for formerly incarcerated folks"},
+     a1 = "The lack of funding for schools in lower-income areas "
+    }
+
+b = {q1 = "One structural solution to this sin is __________.",
+     e1 = {"Alameda County Ombudsman (investigates reports of elder abuse)",
+           "Charter School Movement",
+           "SF Public Library Homeless Outreach Program",
+           "plastic house movement in Mexico",
+           "Seattle’s Tent City",
+           "Adopt-a-grandparent program",
+           "SLC Homeless Urban Garden Program",
+           "HOST/Bonita House",
+           "create better mainstreaming programs for disabled students in public schools",
+           "Head Start",
+           "Cristo Rey Network",
+           "Adaptive PE",
+           "Senior Day Centers (not retirement or assisted living)",
+           "Prop 30",
+           "L’Arche Communities",
+           "GIRLS INC"}
+     a1 = "",
+     q2 = "This program/agency works by __________.",
+     a2 = ""
+     q3 = "It is funded by __________.",
+     a3 = ""
+     q4 = "The people/groups supporting this solution are __________.",
+     a4 = ""
+     q5 = "They support this particular idea becuz __________.",
+     a5 = ""
+     q6 = "A good resource for information on this option/approach is __________."
+     a6 = ""
+    }
+
+c = {q1 = "Another solution to this sin is __________.",
+     e1 = {"Kozol’s proposal for a new system of funding for public schools (i.e. the Oregon model)",
+           "fair trade movement",
+           "Americans with Disabilities Act",
+           "Prject Eye-to-Eye",
+           "Seattle’s Tent City Program",
+           "Youth Uprising",
+           "living wage laws (such as our recent incr. in Oakland city min. wage)",
+           "Affordable Care Act ('Obama-care')",
+           "AARP financial-insurance programs",
+           "Stepping Stones Growth Center",
+           "tax breaks for families who provide in-home care for elders",
+           "Charter School Movement",
+           "East Oakland Boxing Association",
+           "EcoDomum (plastic houses, Mexico)",
+           "Seattle’s City-wide Pre-School Program",
+           "HaywardPromiseNeighborhood/HarlemChildrenZone",
+           "Fair Trade Coffee Global Exchange"},
+     a1 = ""
+     q2 = "This program/agency works by __________.",
+     a2 = ""
+     q3 = "It is funded by __________.",
+     a3 = ""
+     q4 = "The people/groups supporting this solution are __________.",
+     a4 = ""
+     q5 = "They support this particular idea becuz __________.",
+     a5 = ""
+     q6 = "A good resource for information on this option/approach is __________."
+     a6 = ""
+    }

@@ -2,7 +2,11 @@
 "liberation theology is a way to view religion (and one's part in it) through the view of 'those left out of the benefits of the current global economy'. It is also the way through which one can view being in the christian faith while also being in a 'world of poverty'."
 
 -- Contrast the important biblical concepts of salvation and liberation using four sets of contrasting characteristics (key phrases from p. 184/5).
-""
+"salvation          v.s.     liberation"
+"after life          |       during life"
+"more general        |       about poverty"
+"one person          |       history"
+"kingdom in heaven   |       kingdom on earth"
 
 -- Describe the 3 levels of liberation. Describe Freire’s crucial point about the self-perception of the poor in the personal level.
 "Social liberation is the work to better the way societies interact internally and with other societies. It is the fight against social injustices such as racism, sexism, homophobia, and other social sins. Personal liberation is the liberation from self-destructive and self-harming behaviours that harm oneself and others. This is the level in which the poor also need to work to free themselves from the notion that they somehow deserve to be poor. Religious liberation is the restoration of one's relationship with god."
@@ -10,8 +14,12 @@
 -- What is CELAM? Cite two specific sentences from CELAM documents quoted by Groody that capture the essence of the liberation perspective.
 "CELAM is the Episcopal Conference of Latin American Bishops", "The Latin American episcopate cannot remain indifferent in the face of tremendous social injustices existent in Latin America, which keep the majority of our peoples in dismal poverty", "Analyzing this situation more deeply, we discover that this poverty is not a passing phase. Instead it is the product of economic, social, and political situations and structures, although there are also other causes for the state of misery"
 
--- In terms of method contrast traditional theology and liberation theology using four sets of contrasting characteristics/key questions/starting points/etc… .
-""
+-- In terms of method contrast traditional theology and liberation theology using four sets of contrasting characteristics/key questions/starting points/etc.
+"traditional theology         v.s.         liberation theology"
+"focused on the self           |           focused on society"
+"personal sins                 |           societal sins"
+"history & the powerful        |           current day & the powerless"
+"shorter view of importance    |           long-term view"
 
 -- Describe in some detail liberation theology’s 3-step method (NOT the 3 levels!).
 "1) reality: learning about the world and its inequities through study and travel"
@@ -32,6 +40,3 @@
 
 -- Describe the Vatican’s concerns over liberation theology in the years following CELAM’s Puebla document. Cite two statements from the Vatican affirming preferential option for the poor.
 "The Vatican was concerned that liberation theology would be seen as too Marxist, or that it would be used as a weapon to justify 'the existing social dis-order'", "they positively assert that love for the poor, the struggle for justice, and the hope of human liberation are at the heart of the Gospel message", "no way be interpreted as a disavowal of all those who want to respond generously and with an authentic evangelical spirit to the 'preferential option for the poor'"
-
--- To capture and emphasize the global face of liberation theology ... describe three of its diverse faces by naming a key voice (author), publication, quote, & emphasis of each face. (We will start with some queer theology as our first face in this task … then consider mujerista, minjung, South African, feminist, Black, womanist, indigenous theologies for your other two faces.)
-""

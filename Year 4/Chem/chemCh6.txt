@@ -1,0 +1,81 @@
+Chem Ch 6 #2, 4, 9, 10, 12, 14, 16, 17, 28, 34, 45, 51, 52, 58, 64, 96, 110, 115
+
+┌────────────────────────────────────────────────────┐
+│ ΔE = q + w                                         │
+│ w = -PΔV                                           │
+│ H = E + PV                                         │
+│ ΔH_r° = Σn_pΔH_f°(products) - Σn_rΔH_f°(reactants) │
+└────────────────────────────────────────────────────┘
+
+2. The term "lower in energy" relates to the potential energy stored in a system. For example, liquid water has a much lower energy than a mix of oxygen and hydrogen gas because it is far more stable. This stabilty is derived from the relatively large amount of energy required to break apart the water.
+
+4. The process of liquid water turning into ice is an exothermic change because the system (the freezing water) loses heat to the surroundings. This reduction in heat releases the kinetic energy stored in the movement of the water's atoms into the surrounding environment, which also decreases the potential energy of the ice.
+
+9. Hess's law states that the change in enthalpy from a set of reactant to a set of products is the same whether or not the reaction takes place in one step or in a series of steps. This is, in essence, a rephrasing of the first law of thermodynamics, which says that energy cannot be created or destroyed. These two statements are analagous because Hess's law essentially says that any unique reaction has one change in enthalpy which cannot be changed by altering the steps in the reaction, which is gauranteed by the first law of thermodynamics' statement that energy cannot be created or destoryed becuase to alter the final enthapy change in a reaction by adding or subtracting steps would be to create or destroy some of the final enthalpy of the reaction.
+
+10. In the equation `w = -PΔV` there is a negative sign because an increase in volume (which is a positive change) would result in a decrease in the energy of the system, which is always written as a negative change, so the negative sign is to align the results of a change in volume with the syntax of thermodynamics.
+
+12. To find the potential energies of the reactants and products of a reaction you must add the average bond strengths of all of the reactants, and seperately those of all the products.
+
+14. Energy is heat and work (PΔV), whereas enthalpy is heat a constant pressure and volume. Thus they are interchangeable onyl when there is no work being done in the system.
+
+16. HgO(s)  ->  Hg(l) + 1/2 O_2(g)  |  ΔH = +90.7 kJ
+a. 90.7 kJ of heat is required to produce one mole of Hg
+b. 181 kJ of heat is required to produce one mole of O_2
+c. 181 kJ of heat would be released in the given reaction (ΔH = -181 kJ)
+
+17. The enthalpy of vaporization for water is -88.0 kJ/mol
+
+28. The potential energy of ball B at point II is 12g, or 118
+
+34. Calculate the internal energy change for each of the folowing
+a. ΔE = 77 J
+b. ΔE = 350. + -(1.90 * -5.50)  ->  360. J
+c. ΔE = 1037 + -(1.00 * 17.9)  ->  1020 J
+
+45. 4 Fe(s) + 3 O_2(g)  ->  2 Fe_2O_3(s)  |  ΔH = -1652 kJ
+a. 1650 kJ of heat are released when 4 moles of Fe are reacted (ΔH = -1650 kJ)
+b. 826 kJ of heat are released when 1 mole of Fe_2O_3 is produced (ΔH = -826 kJ)
+c. 1g Fe  ->  1g / 55.845 g/mol = 0.01791 mol  -> 0.01791 mol * 413 kJ/mol = 7.40 kJ is released (ΔH = -7.40 kJ)
+d. 10g Fe & 2g O_2  ->  2g / 32 g/mol = 0.0625 mol  ->  0.0625 mol * (1652 kJ/mol / 3 mol)  ->  0.0625 mol * 550.67 kJ/mol = 34.4 kJ is released (ΔH = -34.4 kJ)
+10g Fe  ─>  10g / 55.845 g/mol = 0.1791 mol (this is more than we need, so O_2 is the limiting factor)
+
+51. Water requires the most energy to raise its heat, and increasing the heat of 25.0g of water from 15.0°C to 37.0°C would require 25.0g * 32.0°C * 4.18 J/°C = 3.34 kJ. Additionally, 550.g of mercury will have the highest heat increase when 10.7 kJ is absorbed, at an increase of 107000 J / (550. g * 0.14 J/°C) = 1400°C
+
+52. The specific heat capacity of silver is 0.24 J/°C * g
+a. 150g of Ag by 25°C: 150.0g * 25°C * 0.24 J/°C = 0.90 kJ
+b. 1 mole of Ag by 1°C: 107.8682g * 1°C * 0.24 J/°C = 26 J
+c. 1.25 kJ to heat Ag by 3.2°C: m * 3.2°C * 0.24 J/°C = 1250 J  -> m = 1250 J / (3.2°C * 0.24 J/°C) = 1600g
+
+58. 120. J/g * 5.0g + 50. J/g * 10.g = 1100 J
+1100 J / (50.0g * 4.18 J/°C) = 5.263°C  ->  Final temp: 30.°C
+
+64. 1.60g of NH_4NO_3 + 75.0g of water @ 25°C  ->  23.34°C & heat capacity of 4.18 J/°C
+76.6g * (23.34°C - 25.00°C) * 4.18 J/°C  ->  ΔH = -532 J
+
+96. 1g of fat = 7.7 kcal, 1 lb = 454g, 4.0 mph for an hour consumes 400 kcal
+7.7 * 454 = 3495.8 kcal for 1 lb of fat
+3495.8 / 400 = 8.7 hours
+
+110. FeO(s)  +  CO(g)  ->  Fe(s)  +  CO_2(g)
+Given:
+a. Fe_2O_3(s)  +  3CO(g)  ->  2Fe(s)  +  3CO_2(g)  |  ΔH = -23 kJ
+b. 3Fe_2O_3(s)  +  CO(g)  ->  2Fe_3O_4(s)  +  CO_2(g)  |  ΔH = -39 kJ
+c. Fe_3O_4(s)  +  CO(g)  ->  3FeO(s)  +  CO_2(g)  |  ΔH = 18 kJ
+Combine:
+3Fe_2O_3(s)  +  9CO(g)  ->  6Fe(s)  +  9CO_2(g)  |  ΔH = -69 kJ
+2Fe_3O_4(s)  +  CO_2(g)  ->  3Fe_2O_3(s)  +  CO(g)  |  ΔH = 39 kJ
+──────────────────────────────────────────────────────────────────
+2Fe_3O_4(s)  +  8CO(g)  ->  6Fe(s)  +  8CO_2(g)  |  ΔH = -30 kJ
+6FeO(s)  +  2CO_2(g)  ->  2Fe_3O_4(s)  +  2CO(g)  |  ΔH = -36 kJ
+─────────────────────────────────────────────────────────────────
+6FeO(s)  +  6CO(g)  ->  6Fe(s)  +  6CO_2(g)  |  ΔH = -66 kJ
+5Fe(s)  +  5CO_2(g)  ->  5FeO(s)  +  5CO(g)  |  ΔH = 55 kJ
+───────────────────────────────────────────────────────────
+FeO(s)  +  CO(g)  ->  Fe(s)  +  CO_2(g)  |  ΔH = -11 kJ
+
+115. Calculate ΔH
+a. C_2H_4(g)  +  O_3(g)  ->  CH_3CHO(g)  +  O_2(g)
+b. O_3(g)  +  NO(g)  ->  NO_2(g)  +  O_2(g)
+c. SO_3(g)  +  H_2O(l)  ->  H_2SO_4(aq)
+d. 2NO(g)  +  O_2(g)  ->  2NO_2(g)

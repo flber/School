@@ -1,0 +1,19 @@
+41
+a. 2.40 acidic
+b. 6.05 acidic
+c. 5.62 acidic
+
+43
+a. 10.7 basic
+b. 13.8 basic
+c. 6.46 acidic
+
+45
+a. pH = 9.68 basic
+b. pH = -22.9 acidic
+c. pH = 12.19 basic
+
+46
+a. pOH = 4.22 basic
+b. pOH = 9.99 acidic
+c. pOH = 2.790 acidic

@@ -1,0 +1,42 @@
+1
+a. 6
+b. 10
+c. 2.3
+d. 2.2
+e. 11
+f. 9.3
+
+2
+a. basic
+b. acidic
+c. acidic
+d. acidic
+e. acidic
+f. neutral
+g. neutral
+h. basic
+
+3
+a. pH = 6, pOH = 8
+b. pH = 11, pOH = 3
+c. pH = 3.1, pOH = 10.9
+d. pH = 11.4, pOH = 2.6
+
+4
+a. [H+] = 1.0 x 10^-3, [OH-] = 1.0 x 10^-11
+b. [H+] = 2.8 x 10^-5, [OH-] = 3.6 x 10^-10
+c. [H+] = 1.5 x 10^-13, [OH-] = 6.8 x 10^-2
+
+5
+a. 5.2 x 10^-4 M
+b. pH = 2.1
+c. pH = 3.3
+
+6
+a. 7.2 x 10^-11
+b. pH = 10.1
+
+7. 1000 (999.9) L
+
+8. 50. (49.6) L
+

@@ -1,0 +1,40 @@
+Ben Hammond
+26-Jul-2020
+
+Make it or Break it, Bond Energy
+
+1. Carbon tends to make the strongest bonds, and double bonds are roughly twice as strong as their single counterparts.
+
+2. C02 would be the hardest to break apart as a result of its two strong C=O bonds, then O2, with H2O being the easiest to break apart.
+
+3.     H
+       |                                                      O
+       C      +   2  O=O       =>    O=C=O      +     2     /   \
+     / | \                                                 H     H
+    H  H  H
+
+3.                  |  C-H  |  O=O  
+   -----------------|-------|-------
+   Bond Energy      |  413  |  495
+   Num broken bond  |   4   |   2                  +-----------+
+   Energy req.      | 1652  |  990.   =>    Total: |  2640 kJ  |
+                                                   +-----------+
+4.                  |  C=O  |  O-H  
+   -----------------|-------|-------
+   Bond Energy      |  799  |  467
+   Num formed bond  |   2   |   4                  +------------+
+   Energy req.      | -1598 | -1868   =>    Total: |  -3470 kJ  |
+                                                   +------------+
+5. Breaking 4 mol C-H: 1650 kJ
+   Breaking 2 mol O=O: 990. kJ
+   Forming 2 mol C=O: -16.0 x 10^2 kJ
+   Forming 4 mol O-H: -1870 kJ
+   Net energy change: -824 kJ
+
+6. For each mol of methane I would expect 824 kJ of energy to be released from the reaction.
+
+7. The energy released in a combustion reaction comes from a net loss of energy in the reaction as a result of more stable bonds being formed in the products, where the energy required to break the bonds is less than the energy released in the formation of the products
+
+8.   824 kJ/mol           824 kJ/mol                                        +---------------+
+     ----------    =>     ----------    =>    (41.118 kJ/g) / 4.181    =>   |  9.83 kcal/g  |
+   (16.0 + 4*1.01)        20.04 g/mol                                       +---------------+

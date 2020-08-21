@@ -1,0 +1,77 @@
+Math ch 2.2 #3-57 (%3 == 0) - 9 & 12
+
+3. f(x) = e^-x / x
+see fig. 1
+a. lim x -> ∞ = 0
+b. lim x -> -∞ = -∞
+c. horizontal asymptotes: y = 0
+
+6. f(x) = (2x - 1) / (|x| - 3)
+see fig. 2
+a. lim x -> ∞ = 0
+b. lim x -> -∞ = 0
+c. horizontal asymptotes: y = 2, -2
+
+15. lim x -> 2+ f(x) = 1 / (x + 3)
+see fig. 3
+lim x -> 2+ = 0.2
+
+18. lim x -> 0- f(x) = (int x) / x
+see fig. 4
+lim x -> 0- = 1
+
+21. f(x) = (2 - (x / (x + 1))) * (x^2 / (5 + x^2))
+a. lim x -> ∞ = 1
+b. lim x -> -∞ = 1
+
+24. f(x) = (2x + sin x) / x
+a. lim x -> ∞ = 0
+b. lim x -> -∞ = 0
+
+27. f(x) = 1 / (x^2 -4)
+a. vertical asymptotes: x = 2, -2
+b. behavior left & right of v_asyms: lim x -> -2- = ∞, lim x -> -2+ = -∞, lim x -> 2- = -∞, lim x -> 2+ = ∞
+
+30. f(x) = (1 - x) / (2x^2 - 5x - 3)
+a. vertical asymptotes: x = -0.5, 3
+b. behavior left & right of v_asyms: lim x -> -0.5- = ∞, lim x -> -0.5+ = -∞, lim x -> 3- = ∞, lim x -> 3+ = -∞
+
+33. f(x) = tan(x) / sin(x)
+a. vertical asymptotes: x = (n - 1/2pi)%pi == 0
+b. behavior left & right of v_asyms: flips btw ∞ and -∞ in pairs of two (∞, ∞, -∞, -∞)
+
+36. f(x) = (x^5 - x^4 + x + 1) / (2x^2 + x - 3)
+c: .-*
+
+39. f(x) = 3x^2 -  2x + 1
+a.
+power function: 
+end behavior model:
+b. horizontal symptotes: 
+
+42. f(x) = (3x^2 - x + 5) / (x^2 - 4)
+a.
+power function: 3x^2 / x^2
+end behavior model: g(x) = 3
+b. horizontal symptotes: y = 3
+
+45. f(x) = e^x - 2x
+a. basic function right end behaviour model: g(x) = e^x
+b. basic function left end behaviour model: g(x) = -2x
+
+48. f(x) = x^2 + sin(x)
+a. basic function right end behaviour model: g(x) = x^2
+b. basic function left end behaviour model: g(x) = x^2
+
+51. use y = f(1/x) to find f(x) = (ln |x|) / x
+a. lim x -> ∞ = 0
+b. lim x -> -∞ = 0
+
+54. f(x) = {(x - 2) / (x - 1), x <= 0; 1 / x^2, x > 0}
+a. lim x -> -∞ = 1
+b. lim x -> ∞ = 0
+c. lim x -> 0- = 2
+d. lim x -> 0+ = ∞
+
+57. g_1(x) is right a end behavior model for f_1(x) and g_2(x) is a right end behavior model for f_2(x). Why is g_1(x) / g_2(x) a right end behavior model for f_1(x) / f_2(x)
+Because if both end behaviour models are from the initial functions, then a division of both the initial functions by each other and the end behavior models by each other will retain their relative behaviors.

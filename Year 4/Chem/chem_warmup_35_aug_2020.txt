@@ -1,0 +1,6 @@
+Chem warmup 25-Aug-2020 
+
+LiCl solid has a density of 2.068 g/cm^3. If 84.25g of LiCl are dissolved in 100.0 mL of H_2O the density of the solution is 2.72 g/mL. What is the volume?
+
+84.25g + 100.0g = 184.25  (is only accurate to the 1/10's place, 4 sig figs)
+184.25g / 2.72 g/mL = 67.7 mL

@@ -1,0 +1,36 @@
+Ch 1 #6, 18, 32, 49, 53
+
+6.
+a. 5.5s -> (100% / 5.5s) * 0.2s = 4%%
+b. 55s -> (100% / 55s) * 0.2s = 0.4%
+c. 5.5 min -> (100% / (5.5 min * 60 s/min)) * 0.2s = 0.06%
+
+18.
+a. 1 km/h = 0.621371 m/h
+b. 1 m/s = 3.28084 ft/s
+c. 1 km/h = 0.277778 m/s
+
+32. You are in a hot air baloon, 200m above the flat Texas plains. You look out toward the horizon. How far out can you see - that is, how far is your horizon? The earth's radius is about 6400 km.
+d = √((R+h)^2 - R^2)
+d = √((6400 km + 0.2 km)^2 - 6400^2 km)
+d = √(6400.2^2 km - 6400^2 km)
+d = √(40962560.04 km - 40960000 km)
+d = √(2560.04 km)
+d = 50.5968 km
+You can see 50 km from 200m
+
+49. A storm dumps 1.0 cm of rain on a city 6 km wide and 8 km long in a 2 hour period. How many metric tons of water fell on the city? How many gallons was this?
+6 km * 100000 cm/km = 600000 cm
+8 km * 100000 cm/km = 800000 cm
+600000 cm * 800000 cm * 1cm = 4.8 x 10^11 cm^3
+4.8 x 10^11 cm^3 * 1 g/cm^3 = 4.8 x 10^11 g
+4.8 x 10^11 g * 0.001 g/kg * 0.001 kg/Mg = 480000 Mg -> 500000 metric tons
+4.8 x 10^11 cm^3 * 1 mL/cm^3 = 4.8 x 10^11 mL
+4.8 x 10^11 mL * 0.001 mL/L = 4.8 x 10^8 L
+4.8 x 10^8 L * 0.264 gal/L = 1.2672 x 10^8 gal -> 1 x 10^8 gal
+
+53.
+a. 10^-10 angstrom / 10^-9 nanometer = 0.1 angstrom/nanometer
+b. 10^-15 femtometer / 10^-10 angstrom = 100000 femtometers/angstrom
+c. 10^-10 angstrom / 10^0 meter = 10000000000 angstrom/meter
+d. 10000000000 angstrom/meter * 9.461 x 10^15 meter/lightyear = 9.461 x 10^25 angstrom/lightyear -> 9.5 x 10^25 angstrom/lightyear

@@ -1,0 +1,17 @@
+-- Warmup 25-Aug-2020 
+
+LiCl solid has a density of 2.068 g/cm^3. If 84.25g of LiCl are dissolved in 100.0 mL of H_2O the density of the solution is 2.72 g/mL. What is the volume?
+
+84.25g + 100.0g = 184.25  (is only accurate to the 1/10's place, 4 sig figs)
+184.25g / 2.72 g/mL = 67.7 mL
+
+
+-- Warmup 04-Sep-2020
+
+A sample of chloroform is fournd to contain 12.0g of carbon, 106.4g of chlorine, and 1.01g of hydrogen. If a second sample of chloroform is found to contain 30.0g of carbon, what is the total mass of chloroform in the second sample?
+
+(12.0 g + 106.4g + 1.01g) total / 12.0g carbon
+119.41 g total / 12.0 g carbon
+9.951 g total / 1g carbon
+30g carbon * 9.951 g total / 1g carbon
+299 g total

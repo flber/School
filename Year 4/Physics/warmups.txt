@@ -1,4 +1,6 @@
-Physics warmup 24-Aug-2020 
+Physics warmups
+
+-- 24-Aug-2020 
 
 Greeks estimated the radius of the earth to be 6.6 x 10^6 meters. Estimate the mass of the earth in kilograms, assuming the earth has an average density of 5.24 g/cm^3
 
@@ -10,3 +12,13 @@ Greeks estimated the radius of the earth to be 6.6 x 10^6 meters. Estimate the m
 6.31032 x 10^27 g
 6.31032 x 10^27 g * 0.001 kg/g
 6.31032 x 10^24 kg  ->  6.3 x 10^24 kg
+
+
+-- 08-Sep-2020
+
+Michael Jordan had a "hang time" of 1.0 sec. How high could he jump?
+
+x = x_0 + v_0t + 1/2at^2
+0 = h + -4.9 m/s^2 (0.5 s)^2
+h = 4.9 m/s^2 * 0.25 s^2
+h = 1.2 m

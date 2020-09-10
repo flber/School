@@ -15,3 +15,27 @@ A sample of chloroform is fournd to contain 12.0g of carbon, 106.4g of chlorine,
 9.951 g total / 1g carbon
 30g carbon * 9.951 g total / 1g carbon
 299 g total
+
+
+-- Warmup 09-Sep-2020
+
+a. (NH_4)_2HPO_4
+b. Hg_2S
+c. SiO_2
+d. NaSO_2
+e. AlH(SO_4)_2
+f. NCl_3
+g. HBr
+h. HBrO_2
+i. HBrO_4
+j. KHS
+k. CaI_2
+l. CeClO_4
+m. HIO_2
+n. PbS_2
+o. P_2O_5
+p. GaAs
+q. Co_3O_4
+r. Hg(ClO_4)_2
+s. Na_2HPO_3
+t. W_3(PO_3)_4

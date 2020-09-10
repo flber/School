@@ -22,3 +22,22 @@ x = x_0 + v_0t + 1/2at^2
 0 = h + -4.9 m/s^2 (0.5 s)^2
 h = 4.9 m/s^2 * 0.25 s^2
 h = 1.2 m
+
+
+-- 10-Sep-2020
+
+A student throws a set of keys up to a second student who is in a window 4.00 m above. The second student catches the keys 1.5 seconds later.
+
+a. With what inital velocity were the keys thrown?
+x = x_0 + v_0t + 1/2at^2
+4.00 m = v_0 (1.5 s) + -4.9 m/s^2 (1.5 s)^2
+4.00 m = v_0 (1.5 s) - 11.025 m
+15.025 m = v_0 (1.5 s)
+10.02 m/s = v_0
+
+b. What was the velocity of the keys just before they were caught?
+v^2 = v^2_0 + 2a(x - x_0)
+v^2 = (10.02 m/s)^2 + 2(-9.8 m/s^2)(4.00 m)
+v^2 = 100.3 m^2/s^2 - 78.4 m^2/s^2
+v^2 = 21.9 m^2/s^2
+v = -4.7 m/s

@@ -1,0 +1,6 @@
+Chem naming patterns
+
+hypo- -ite : 1 O
+-ite : 2 O
+-ate : 3 O
+per- -ate : 4 O

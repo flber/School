@@ -1,0 +1,20 @@
+Physics practice problems
+
+1. A grasshopper can accelerate at 4000. m/s^2 over a distance of 2.0 mm
+
+a. What is it's velocity after accecleration
+v^2 = v^2_0 + 2a(x - x_0)
+v^2 = 2 4000. m/s^2 (0.0020 m)
+v^2 = 16 m^s/s^2
+v = 4.0 m/s
+
+b. How long does it take to accelerate
+v = v_0 + at
+4.0 m/s = 4000. m/s^2 t^2
+0.0010 s = t^2
+0.0010 s = t
+
+c. How high could it jump
+v^2 = v^2_0 + 2a(x - x_0)
+0 = 4.0 m/s + 2 (-9.8 m/s^2) x
+-4.0 m/s = -19.6 m/s^2 x

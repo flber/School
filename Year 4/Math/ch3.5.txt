@@ -1,0 +1,57 @@
+Math ch 3.5 # 1 - 9 (odd), 21, 23, 25b, 29, 31, 35, 39, 47
+
+1. y' = 1 + sin(x)
+
+3. y' = 5 cos(x)
+
+5. -2x cos(x)
+
+7. y' = 4 sec(x) tan(x)
+
+9. y' = -csc^2(x) / (1 + cot(x))^2
+
+21. f(x) = sin(x) + 3 @ x = pi
+f(pi) = 3
+f'(x) = cos(x)
+f'(pi) = -1
+tangent: y = -(x - pi) + 3
+normal: y = (x - pi) + 3
+
+23. f(x) = x^2 sin(x) @ x = 3
+f(3) = 1.27
+f'(x) = 2x cos(x)
+f'(3) = -5.94
+tangent: y = -5.94(x - 3) + 1.27
+normal: y = 0.168(x - 3) + 1.27
+
+25b. d/dx sec(x) = sec(x) tan(x)
+d/dx 1/cos(x) = sin(x) / cos^2(x)
+... not really sure how to do this
+
+29. f(x) = sqrt(2) cos(x) @ (pi/4, 1)
+f'(x) = -sin(x)
+f'(pi/4) = 0.707
+tangent: y = 0.707(x - pi/4) + 1
+normal: y = -1.41(x - pi/4) + 1
+
+31. f(x) = 4 + cot(x) - 2 csc(x)
+f'(x) = -csc^2(x) + 2 csc(x) cot(x)
+f'(pi/2) = -1
+P tangent: y = -(x - pi/2) + 2
+f(1) = 2.27
+Q tangent: y = 2.27
+
+35. f(x) = csc(x)
+f'(x) = -csc(x) cot(x)
+f''(x) = csc(x) * -cot(x) * -csc^2(x)
+f''(x) = cot(x) csc^3(x)
+
+39. d^725/dx^725 sin(x) = -cos(x)
+
+47. f(x) = sin(x) + cos(x) @ x = pi
+f(pi) = 1
+f'(x) = cos(x) - sin(x)
+f'(pi) = 1
+tangent: y = (x - pi) - 1
+normal: t = -(x - pi) - 1
+B

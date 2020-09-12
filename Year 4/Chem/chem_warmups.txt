@@ -1,4 +1,6 @@
--- Warmup 25-Aug-2020 
+Chem warmups
+
+-- 25-Aug-2020 
 
 LiCl solid has a density of 2.068 g/cm^3. If 84.25g of LiCl are dissolved in 100.0 mL of H_2O the density of the solution is 2.72 g/mL. What is the volume?
 
@@ -6,7 +8,7 @@ LiCl solid has a density of 2.068 g/cm^3. If 84.25g of LiCl are dissolved in 100
 184.25g / 2.72 g/mL = 67.7 mL
 
 
--- Warmup 04-Sep-2020
+-- 04-Sep-2020
 
 A sample of chloroform is fournd to contain 12.0g of carbon, 106.4g of chlorine, and 1.01g of hydrogen. If a second sample of chloroform is found to contain 30.0g of carbon, what is the total mass of chloroform in the second sample?
 
@@ -17,7 +19,7 @@ A sample of chloroform is fournd to contain 12.0g of carbon, 106.4g of chlorine,
 299 g total
 
 
--- Warmup 09-Sep-2020
+-- 09-Sep-2020
 
 a. (NH_4)_2HPO_4
 b. Hg_2S
@@ -39,3 +41,11 @@ q. Co_3O_4
 r. Hg(ClO_4)_2
 s. Na_2HPO_3
 t. W_3(PO_3)_4
+
+
+-- 11-Sep-2020 
+
+Element X bonds with 16g of Oxygen in 3 ways, find the formulas for each compound
+compound 1: 70.90g -> 6:1 -> X_6O
+compound 2: 35.45g -> 3:1 -> X_3O
+compound 3: 11.82g -> 1:1 -> XO

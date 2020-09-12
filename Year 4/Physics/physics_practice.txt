@@ -8,13 +8,60 @@ v^2 = 2 4000. m/s^2 (0.0020 m)
 v^2 = 16 m^s/s^2
 v = 4.0 m/s
 
-b. How long does it take to accelerate
+b. How long does it take to accelerate?
 v = v_0 + at
 4.0 m/s = 4000. m/s^2 t^2
 0.0010 s = t^2
 0.0010 s = t
 
-c. How high could it jump
+c. How high could it jump?
 v^2 = v^2_0 + 2a(x - x_0)
-0 = 4.0 m/s + 2 (-9.8 m/s^2) x
--4.0 m/s = -19.6 m/s^2 x
+0 = (4.0 m/s)^2 + 2 (-9.8 m/s^2) x
+-16.0 m^2/s^2 = -19.6 m/s^2 x
+0.82 m = x
+
+
+2. A student needs to run 500. m in 2.0 minutes
+
+a. If her maximum acceleraion is 0.15 m/s^2, can she make it?
+1 mi * 1.60934 km/m = 1.60934 km
+1.60934 km * 1000 m/km - 500 m = 1109 m
+1109 m / 600 s = 1.8 m/s
+
+x = x_0 + v_0t + 1/2at^2
+x = 1.8 m/s t + 1/2 (0.15 m/s^2) t^2
+x = 1.8 m/s (120 s) + 0.75 m/s^2 (120 s)^2
+x = 216 m + 90 m
+x = 306 m
+She would not make it.
+
+b. If the answer is no, what is the acceleration needed?
+x = x_0 + v_0t + 1/2at^2
+500 m = 1.8 m/s 120 s + 1/2(a)(120 s)^2
+500 m = 216 m + (30 s)^2 (a)
+284 m = 900 s^2 a
+0.32 m/s^2 = a
+
+
+3. A 200. kg weather rocket is loaded with 100. kg and fired straight up. It accelerates upward at 30.0 m/s^2 for 30. seconds then runs out of fuel. 
+
+a. What is the rocket's maximum altitude?
+x = x_0 + v_0t + 1/2at^2
+x = 1/2 (20.2 m/s^2) (30 s)^2
+x = 10.1 m/s^2 900 s^2
+x = 9090 m
+
+v = v_0 + at
+v = 20.1 m/s^2 (30 s)
+v = 603 m/s
+
+v^2 = v^2_0 + 2a(x - x_0)
+0 = (603 m/s)^2 - 19.6 m/s^2 (x - 9090 m)
+0 = 363609 m^s/s^2 - 19.6 m/s^2 (x - 9090 m)
+-363609 m^s/s^2 = -19.6 m/s^2 (x - 9090 m)
+18551 m = x - 9090 m
+28000 m = x
+
+b. How long is the rocket in the air?
+
+c. Draw a velcity vs time graph for the rocket from liftoff until it hits the ground. Label the x axis with the appropriate important times.

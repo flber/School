@@ -1,0 +1,36 @@
+Chem ch 2 Notes
+
+-- scientists
+Boyle: pressure and volume
+Stahl: combustion & "phlogiston"
+Lavoisier: law of conservation of mass
+Proust: law of definite proportions
+Dalton: atomic theory, law of multiple proportions, table of atomic masses
+Lussac: volumes of reacting gases
+Avogadro: at the same temp & pressure, equal volumes of different gases contain the same number of particles
+Thomson: found electrons with cathode ray tubes, determined charge-to-mass, plum pudding model
+Millikan: oil drop experiment, determined mass of electron
+Rutherford: disproved plum pudding model with foil and alpha particles, found nucleus
+
+
+-- naming
+Type I binary ionic compounds
+  - normal salts and such
+Type II binary ionic compounds
+  - with metals
+  - specify metal charge
+Oxygen ions
+  hypo- -ite : 1 O
+  -ite : 2 O
+  -ate : 3 O
+  per- -ate : 4 O
+(Type III) Binary covalent compounds
+  - first element is prefixed with number root (never mono)
+  - second is also prefixed and has -ide suffix
+Acids
+  - w/o oxygen:
+    - hydro- (anion root) -ic
+  - hypo- -ite: hypo- -ous
+  - -ite: -ous
+  - -ate: -ic
+  - per- -ate: per- -ic

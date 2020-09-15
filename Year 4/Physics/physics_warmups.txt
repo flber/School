@@ -41,3 +41,16 @@ v^2 = (10.02 m/s)^2 + 2(-9.8 m/s^2)(4.00 m)
 v^2 = 100.3 m^2/s^2 - 78.4 m^2/s^2
 v^2 = 21.9 m^2/s^2
 v = -4.7 m/s
+
+
+-- 14-Sep-2020 
+
+You are driving in your tesla model s at 80.00 m/hr (35.76 m/s). The model s an decelerate at a rate of 7.1 m/s^2. Your reaction time is 0.25 seconds. 100 m ahead a boulder falls onto the road. Can you stop in time?
+
+v^2 = v^2_0 + 2a(x - x_0)
+0 = (35.76 m/s)^2 + -14.2 m/s^2 (100 m - 35.76 m/s * 0.25 s)
+0 = (35.76 m/s)^2 + -14.2 m/s^2 (91.06 m)
+0 = 1278.78 m^2/s^2 - 1293.05 m^2/s^2
+0 = -14.272 m^s/s^2
+
+Yes, you can stop in time

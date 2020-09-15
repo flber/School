@@ -49,3 +49,18 @@ Element X bonds with 16g of Oxygen in 3 ways, find the formulas for each compoun
 compound 1: 70.90g -> 6:1 -> X_6O
 compound 2: 35.45g -> 3:1 -> X_3O
 compound 3: 11.82g -> 1:1 -> XO
+
+
+-- 15-Sep-2020 
+
+What is the molar mass of Cs_2UO_2Cl_4?
+(132.905 * 2) + (238.029) + (16.000 * 2) + (35.453 * 4)
+677.65 g/mol
+
+On a distant planet chlorine exists in two isotopes: 35/17 Cl - 33.3% 37/17 Cl - 66.7%
+What is the average atomic mass?
+(35 * 0.333) + (37 * 0.667)
+36.3 g/mol
+
+How many spikes would there be in a mass spectrum of Cl_2+?
+3

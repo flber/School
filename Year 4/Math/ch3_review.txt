@@ -1,0 +1,18 @@
+Math ch 3 Review
+
+49.
+a. 0
+b. 4/3
+
+50. 
+a. 0
+b. 3/8
+
+43. & 44.
+I'm really not sure how to do these.
+
+7. y = c cos(t) + t^2 sin(t)
+... I don't know how to differentiate more than 2 variables
+
+26. y = 3x + 6 cos(x)
+a. find tangent @ (pi/3, pi + 3)

@@ -13,7 +13,7 @@ Greeks estimated the radius of the earth to be 6.6 x 10^6 meters. Estimate the m
 6.31032 x 10^27 g * 0.001 kg/g
 6.31032 x 10^24 kg  ->  6.3 x 10^24 kg
 
-
+Physics warmups
 -- 08-Sep-2020
 
 Michael Jordan had a "hang time" of 1.0 sec. How high could he jump?
@@ -45,7 +45,7 @@ v = -4.7 m/s
 
 -- 14-Sep-2020 
 
-You are driving in your tesla model s at 80.00 m/hr (35.76 m/s). The model s an decelerate at a rate of 7.1 m/s^2. Your reaction time is 0.25 seconds. 100 m ahead a boulder falls onto the road. Can you stop in time?
+You are driving in your tesla model s at 80.00 m/hr (35.76 m/s). The model s can decelerate at a rate of 7.1 m/s^2. Your reaction time is 0.25 seconds. 100 m ahead a boulder falls onto the road. Can you stop in time?
 
 v^2 = v^2_0 + 2a(x - x_0)
 0 = (35.76 m/s)^2 + -14.2 m/s^2 (100 m - 35.76 m/s * 0.25 s)
@@ -54,3 +54,18 @@ v^2 = v^2_0 + 2a(x - x_0)
 0 = -14.272 m^s/s^2
 
 Yes, you can stop in time
+
+
+-- 17-Sep-2020 
+
+Car jumps off 3.0 m cliff and lands 25 m away. How fast was he going?
+
+x = x_0 + v_0t + 1/2at^2
+0 m = 3.0 m + 1/2 -9.8 m/s^2 t^2
+-3.0 m = -4.9 m/s^2 t^2
+0.61 s = t^2
+0.78 s = t
+
+v = x / t
+v = 25 m / 0.78 s
+v = 32 m/s

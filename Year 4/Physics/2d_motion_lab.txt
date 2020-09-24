@@ -1,0 +1,116 @@
+2D Motion Nerf Gun Lab
+
+-- Initial
+
+Inital height: 0.36 m
+
+
+-- Part A
+
+Shots fired at 0°:
+1.65 m
+1.73 m
+1.79 m
+1.81 m
+1.87 m
+1.96 m
+1.98 m
+2.00 m
+2.06 m
+2.15 m
+Average Range: 1.900 m
+
+Time of flight: sqrt(2 * 0.36 / 9.8) = 0.27 s
+Initial velocity: 1.900 m / 0.27 s = 7.0 m/s
+
+
+-- Part B
+
+Calculations:
+
+7.0 m/s * sin(3)
+0.37 m/s
+
+0.32 m = 0.37 m/s t - 4.9 m/s^2 t^2
+0 = -4.9 m/s^2 t^2 + 0.37 m/s t + 0.32 m
+[solved by graphing on TI-84 Plus]
+t = 0.30 s
+
+Calculated Range: 7.0 m/s * 0.30 s = 2.1 m
+
+Shots fired at 3° (the size of the testing environment did not allow for larger angles):
+1.98 m
+2.24 m
+2.27 m
+2.28 m
+2.30 m
+2.37 m
+2.40 m
+2.42 m
+2.49 m
+2.92 m
+Average Range: 2.607 m
+
+
+-- Part C
+
+Calculations:
+
+7.0 m/s * sin(-3)
+-0.37 m/s
+
+0.32 m = -0.37 m/s t - 4.9 m/s^2 t^2
+0 = -4.9 m/s^2 t^2 - 0.37 m/s t + 0.32 m
+[solved by graphing on TI-84 Plus]
+t = 0.22 s
+
+Calculated Range: 7.0 m/s * 0.22 s = 1.5 m
+
+Shots fired at -3° (the size of the testing environment did not allow for smaller angles):
+0.91 m
+1.03 m
+1.04 m
+1.08 m
+1.20 m
+1.22 m
+1.24 m
+1.33 m
+1.34 m
+1.47 m
+Average Range: 1.186 m
+
+
+-- Analysis Questions
+
+1. Assuming air resistance is negligable, what other variable affect the range of a projectiles?
+
+Other than the velocity of the projectile and the angle at which it was fired, the only variable which affects the range of the projectile which comes to mind is the coreolis effect. This is only an important factor at longer distances, when the projectile is traveling for such a long time that the earth moves an appreciable distance under it before the projectile lands. Launching parallel to the earth's axis means this would slightly reduce the range of the projectile, as it effectively warps the trajectory. Launching perpendicular to the earth's axis and facing against the spin would actually increase your range, and facing towards the direction of spin would decrease your range.
+
+2. Qualitatively describe how close your predicted range is to your actual range in terms of accuracy (the relative distance between each test shot and the actual target) and precision (the grouping of the test shots). Use the tables below to help. Analyze separately for both the positive and negative angles.
+
+The positive angle prediction has a "very low" accuracy and a precision of "moderate"
+The negative angle prediction has a "very low" accuracy and a precision of "moderate"
+
+3. What are factors that may have caused your range prediction to be incorrect, and what could you have done differently to avoid them?
+
+The most important factor that may have affected the range prediction was the irregularity of the nerf gun itself. Even only 0.36 m off the ground the gun had a spread of half a meter, with no clear outliers. This indicates a fundamental randomness in the gun itself, which likely impacted the predictions. This is not easily fixed, except perhaps through more extensive testing. Additionally, the projectiles traveled quite quickly, and it was often difficult to accurately mark where they had landed. This could, in the future, be solved by videoing the projectiles in slow motion to precisely locate where each shot landed.
+
+(see figures for graphs)
+
+-- Synthesis Questions
+
+1. A ball player throws a ball horizontally. What variables affect the horizontal range of the ball?
+
+The angle and velocity at which it is thrown are the primary variable which affect horizontal range.
+
+2. For the same ball player, how would doubling the initial velocity affect the range, if at all?
+
+The range increases by a factor of 4
+
+3. For the same ball player, how would quadrupling the height affect the range, if at all?
+
+The range increases by a factor of 16
+
+4. For the same ball player, how would doubling the mass of the ball affect the range, if at all?
+
+Assuming the player can maintain the initial velocity, the range will not change. 

@@ -73,7 +73,7 @@ v = 32 m/s
 
 -- 21-Sep-2020 
 
-An athlete performing a long jump leaves the ground at an angle of 27 degrees and lands 7.8 m away. 
+An athlete performing a long jump leaves the ground at an angle of 27.0 degrees and lands 7.80 m away. 
 
 a. what is the takeoff speed?
 vy^2 = vy_0^2 + 2a(x - x_0)
@@ -86,7 +86,7 @@ tan(27) = 8.7 / vx
 vx = 8.7 / tan(27)
 vx = 17 m/s
 
-b. if the speed were increased by 5% how much longer would the jump be?
+b. if the speed were increased by 5.0% how much longer would the jump be?
 17 + (17 / 100) * 5 = 17.85 m/s
 tan(27) = y / 17.85
 y = tan(27) * 17.85

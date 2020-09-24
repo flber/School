@@ -64,3 +64,30 @@ What is the average atomic mass?
 
 How many spikes would there be in a mass spectrum of Cl_2+?
 3
+
+
+-- 18-Sep-2020 
+
+a. Copper (II) sulfate forms a hydrate (CuSO_4 nH_2O). To determine n, a student measures 1.33 grams of the hydrate. The hydrate is gently heated over a meeker burner for 10 min. The students measures it again and find the mass of CuSO_4 to be 0.85 grams. What is the formula for the copper (II) sulfate hydrate?
+
+(63.55) + (32.06) + (4*16)
+159.61 g/mol
+0.85 g / 159.61 g/mol
+0.0053 mol
+
+(1.01 * 2) + (16)
+18.02 g/mol
+0.48 g / 18.02 g/mol
+0.027 mol
+
+0.027 mol / 0.0053 mol
+n = 5
+
+CuSO_4 5H_2O
+
+
+-- 22-Sep-2020 
+
+a. 2C_4H_10 + 13O_2 -> 8CO_2 + 10H_2O
+
+b. 3Cu + 8HNO_3 -> 3Cu(NO_3)_2 + 2NO + 4H_2O

@@ -2,7 +2,7 @@ Motion at constant acceleration
 
 v = v_0 + at
 
-v^2 = v^2_0 + 2a(x - x_0)
+v^2 = v_0^2 + 2a(x - x_0)
 
 x = x_0 + v_0t + 1/2at^2
 

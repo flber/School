@@ -1,0 +1,102 @@
+Ch 3 #6, 13, 19, 23, 38, 43, 66, 71, 74, 77, 94, 102, 115 and 121
+
+6. It is necessary to know the molar masses of both chemicals to calculate the final amount of product which will be produced, assuming that "amount" in this case means moles. This is because though we may know the mass of the product (because it must be equal to the total mass of the reactants), we do not know the volumes of the reactants.
+
+13. (35)Cl is likely more abundant, as its ratio of neutrons to protons is 1:1, which is more stable than the 37:35 of (37)Cl.
+
+19. 3OD + 3SSD -> OSD + ODD
+OSDDD is left over
+
+23. Masses of (12)C and (13)C, realitve abundance of (12)C and (13)C in natural carbon, avg mass of carbon atom, numbers of (12)C and (13)C in 10,000 atoms of natural carbon, average mass and total mass of given sample, number of (12)C and (13)C atoms in 1 mole, average and total mass of 1 mole sample, and total mass of 1 mole sample.
+12 u and 13 u, 98.89% and 1.11%, 12.01 u, 98,890 atoms and 1,110 atoms, 12.0111 u and 120111 u, 5.955 x 10^23 atoms and 7.166 x 10^21 atoms, 12.02 u and 7.239 x 10^24 u
+
+38. (0.0800 * 46.0) + (0.0730 * 47.0) + (0.7380 * 47.9) + (0.0550 * 48.9) + (0.0540 * 49.9)
+47.8 u -> Ti
+
+43. Bromine has two isotopes...
+
+66. What amount is represented by each of these samples
+
+a. 20.0 mg C_8H_10N_4O_2
+20.0 mg / (194.2 g/mol * 1000 mg/g)
+1.03 x 10^-4 mol
+
+b. 2.72 x 10^21 molecules of C_2H_5OH
+(2.72 x 10^21) / (6.0221 x 10^23)
+0.00452 mol
+
+c. 1.50 g of CO_2
+1.50 g / 44.01 g/mol
+0.0341 mol
+
+71. C_2H_3Cl_3O_2
+
+a. molar mass
+165.4 g/mol
+
+b. moles in 500.0 g
+500.0 g / 165.4 g/mol
+3.023 mol
+
+c. mass of 2.0 x 10^-2 mol
+2.0 x 10^-2 mol * 165.4 g/mol
+3.3 g
+
+d. atoms in 5.0 g
+165.4 g/mol / 5.0 g
+33.08 mol * 6.0221 x 10^23 atoms/mol
+2.0 x 10^25 atoms
+
+e. mass with 1.0 g of Cl
+1.0 g / 35.45 g/mol
+0.03 mol / 3
+0.01 mol * 165.4 g/mol
+2.0 g
+
+f. mass of 500 molecules
+500 * 165.4 u
+82700 u
+
+74. YBa_2Cu_3O_7
+666.22 g/mol
+Y: 88.9 g/mol * (100% / 666.22 g/mol) = 13.3%
+Ba: 274.7 g/mol * (100% / 666.22 g/mol) = 41.23%
+Cu: 190.7 g/mol * (100% / 666.22 g/mol) = 28.62%
+O: 112.0 g/mol * (100% / 666.22 g/mol) = 16.81%
+
+77. laccase contains 0.390% percent Cu by mass. If it contains 4 Cu atoms, what is the total molar mass
+254.2 g/mol * (100% / m g/mol) = 0.390%
+100% / m g/mol = 0.001534 %mol/g
+1 / m g/mol = 1.534 x 10^-5 mol/g
+m = 65180 g/mol
+
+94. A compound contains only C, H, and O. Combustion of 10.68 mg of the compound yeilds 16.01 mg CO_2 and 4.37 mg H_2O. The molar mass of the compound is 176.1 g/mol. What are the empirical and molecular formulas of the compound?
+I'm not really sure how to do this, so I'll ask you about it in class?
+
+102. Balance
+
+a. 16Cr + 3S_8 -> 8Cr_2S_3
+
+b. 2NaHCO_3 -> Na_2CO_3 + CO_2 + H_2O
+
+c. 2KClO_3 -> 2KCl + 3O_2
+
+d. 2Eu + 6HF -> 2EuF_3 + 3H_2
+
+115. 6O_2 + 6NO -> 6NO_2 + 3 O_2; give the balanced reaction and the limiting reactant
+O_2 + 2NO -> 2NO_2
+The limiting reactant is NO
+
+121. Hydrogen cyanide is produced industrially from the reaction of gaseous ammonia, oxygen, and methane: 
+2NH_3 + 3O_2 + 2CH_4 -> 2HCN + 6H_2O
+If 5.00 x 10^3 kg each of NH_3, O_2, and CH_4 are reacted, what mass of HCN and H_2O will be produced, assuming 100% yeild
+
+2NH_3: 34.07 g/mol
+3O_2: 96.00 g/mol  <- limiting factor
+2CH_4: 32.08 g/mol
+
+5.00 x 10^3 * 1000 g/kg / 96.00 g/mol
+52100 mol
+
+52100 mol * 14.02 g/mol = 730200 g / 1000 g/kg = 730.2 kg of HCN
+3(52100 mol) * 18.02 g/mol = 2816000 g / 1000 g/kg = 2816 kg of H_2O

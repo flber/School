@@ -16,3 +16,7 @@ I'm really not sure how to do these.
 
 26. y = 3x + 6 cos(x)
 a. find tangent @ (pi/3, pi + 3)
+y' = 3 - 6 sin(x)
+y' = 3 - 6 sin(pi/3)
+y' = 8.20
+tangent: y = 8.20 (x - pi/3) + pi + 3

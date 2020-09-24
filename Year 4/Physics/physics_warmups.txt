@@ -69,3 +69,30 @@ x = x_0 + v_0t + 1/2at^2
 v = x / t
 v = 25 m / 0.78 s
 v = 32 m/s
+
+
+-- 21-Sep-2020 
+
+An athlete performing a long jump leaves the ground at an angle of 27 degrees and lands 7.8 m away. 
+
+a. what is the takeoff speed?
+vy^2 = vy_0^2 + 2a(x - x_0)
+-vy_0^2 = vy_0^2 + 2 (-9.8 m/s^2) (7.8 m)
+-2vy_0^2 = -19.6 m/s^2 * 7.8 m
+-2vy_0^2 = -152.88 m^s/s^2
+vy_0^2 = 76.44 m^2/s^2
+vy_0 = 8.7 m/s
+tan(27) = 8.7 / vx
+vx = 8.7 / tan(27)
+vx = 17 m/s
+
+b. if the speed were increased by 5% how much longer would the jump be?
+17 + (17 / 100) * 5 = 17.85 m/s
+tan(27) = y / 17.85
+y = tan(27) * 17.85
+y = 9.1 m/s
+-(9.1 m/s)^2 = (9.1 m/s)^2 + -19.6 m/s^2 (x)
+-2(9.1 m/s)^2 = -19.6 m/s^2 (x)
+-165.62 m^s/s^2 = -19.6 m/s^2 (x)
+x = 8.45 m
+8.45 m - 7.8 m = 0.65 m farther

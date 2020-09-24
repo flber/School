@@ -103,6 +103,20 @@ x = 8.45 m
 A football is kicked at an angle of 37.0 degrees with a velocity of 31.3 m/s at a height of 1.0 m above the flat ground. 
 
 a. determine the velocity of the projectile at t = 2.8 s
+vy_0 = 31.3 m/s sin(37.0)
+vy_0 = 18.8 m/s
+
+vx_0 = 31.3 m/s cos(37.0)
+vx_0 = 25.0 m/s
+
+vy = vy_0 + at
+vy = 18.8 m/s - 9.8 m/s^2 (2.8 s)
+vy = 18.8 m/s - 27.44 m/s
+vy = 18.8 m/s - 76.8 m
+vy = -8.64 m/s
+
+v = (25.0 m/s, -8.64 m/s)
+|v| = 26.5 m/s
 
 b. find the angle made by the velocity vector of the football relative to the horizontal the moment it hits the ground
 

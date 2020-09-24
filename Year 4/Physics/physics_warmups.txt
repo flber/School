@@ -96,3 +96,14 @@ y = 9.1 m/s
 -165.62 m^s/s^2 = -19.6 m/s^2 (x)
 x = 8.45 m
 8.45 m - 7.8 m = 0.65 m farther
+
+
+-- 24-Sep-2020 
+
+A football is kicked at an angle of 37.0 degrees with a velocity of 31.3 m/s at a height of 1.0 m above the flat ground. 
+
+a. determine the velocity of the projectile at t = 2.8 s
+
+b. find the angle made by the velocity vector of the football relative to the horizontal the moment it hits the ground
+
+c. determine the maximum height reached by the projectile relative to the ground

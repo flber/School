@@ -1,0 +1,28 @@
+Balancing Chemical Equations
+
+1. C_3H_8 + 5O_2 -> 3CO_2 + 4H_2O
+C:  3      │  1     3     
+H:  8      │  2  4  4  8
+O:  2  10  │  3  4  8  10 
+
+2. Al_2(SO_3)_3 + NaOH -> Na_2SO_3 + Al(OH)_3
+
+3. Al2O3 + Fe -> Fe3O4 + Al
+
+4. KClO3 -> KCl + O2
+
+5. NH4NO3 -> N2O + H2O
+
+6. NaHCO3 -> Na2CO3 + H2O + CO2
+
+7. P4O10 + H2O -> H3PO4
+
+8. Al + H2SO4 -> Al2(SO4)3 + H2
+
+9. Be2C + H2O -> Be(OH)2 + CH4
+
+10. S + HNO3 -> H2SO4 + NO2 + H2O
+
+11. NH3 + CuO -> Cu + N2 + H2O
+
+12. Cu + HNO3 -> Cu(NO3)2 + NO + H2O

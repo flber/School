@@ -1,0 +1,65 @@
+Unknown Hydrate Lab
+
+-- Data
+
+Mass of trays: 1.53 g
+
+Na_2CO_3 - nH_2O masses:
+4.59 g
+1.52 g
+1.47 g
+1.44 g
+Dehydrated sample: 1.44 g
+Mass of water evolved: 3.15 g
+
+MgSO_4 - nH_2O masses:
+4.57 g
+1.55 g
+1.51 g
+1.51 g
+Dehydrated sample: 1.51 g
+Mass of water evolved: 3.06 g
+
+-- Analysis
+
+1. How many moles of water were in each of your samples?
+
+Na_2CO_3 - nH_2O:
+18.016 g/mol
+3.15 g / 18.016 g/mol
+0.175 mol
+
+MgSO_4 - nH_2O:
+18.016 g/mol
+3.06 g / 18.016 g/mol
+0.170 mol
+
+2. What is the proper chemical formula and name for the compounds that you tested?
+
+Na_2CO_3 - nH_2O:
+0.175 mol
+105.99 g/mol
+1.44 g / 105.99 g/mol
+0.0136 mol
+0.175 mol / 0.0136 mol
+14.0
+Na_2CO_3 - 14H_2O
+Sodium carbonate tetradecahydrate
+
+MgSO_4 - nH_2O:
+0.170 mol
+120.37 g/mol
+1.51 g / 120.37 g/mol
+0.0125 mol
+0.170 mol / 0.0125 mol
+12.5
+MgSO_4 - 13H_2O
+Magnesium sulfate tridecahydrate
+
+3. Explain how you determined the water of hydration for each of your chemical formulas.
+
+I began by calculating the molar masses for each compound, which were then used to find the moles of each compound once the water had been removed. Then by dividing the moles of water by the moles of compount the ratio between the two was found.
+
+4. If you had not heated the sample long enough to remove all the water of hydration, how would your subsequent calculations have been affected?
+
+If there had been any water remaining, the ratio between each compound and its water content (and thus, the formulas for each hydrate) would be skewed towards the compound.

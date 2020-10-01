@@ -2,7 +2,7 @@
 
 2. Every person has a creative side, and it can be expressed in many ways: problem solving, original and innovative thinking, and artistically, to name a few. Describe how you express your creative side.
 
-I like to think of myself as a generalist, and I always enjoy practicing new ways to express my ideas. Most of my projects are software-oriented, which often necessitates multiple kinds of 
+I like to think of myself as a generalist, and I always enjoy practicing new ways to express my ideas. Most of my projects are software-oriented, which often necessitates multiple kinds of thinking. My most recent project is a blog / personal wiki / digital garden I built from the ground up, where I talk about projects I've been worked on, ideas I've had, and tools I'm using. The site itself is built using several different technologies, a couple of which I had to learn for the project. I found making the site generator very rewarding, and much of my time was spent making the site code small and efficient, without sacrificing style. That sort of problem is one of my favorite types of creative expression, but I've also been writing articles and drawing diagrams for the site. I recently have been practicing more creative drawing as well, using a very nice digital drawing tool called "noodle", the sketches of which I'm planning on putting somewhere in my site. 
 
 3. What would you say is your greatest talent or skill? How have you developed and demonstrated that talent over time?
 

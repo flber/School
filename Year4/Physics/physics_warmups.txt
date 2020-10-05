@@ -121,3 +121,12 @@ v = (25.0 m/s, -8.64 m/s)
 b. find the angle made by the velocity vector of the football relative to the horizontal the moment it hits the ground
 
 c. determine the maximum height reached by the projectile relative to the ground
+
+
+-- 05-Oct-2020 
+
+A skydiver wieghing 50 kg jumps from a plane and reaches terminal velocity of 100 m/s after 30 s. What is the force of air resistance?
+
+f = ma
+f = 50 kg * 9.8 m/s
+f = 490 N

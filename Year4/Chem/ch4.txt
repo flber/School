@@ -1,0 +1,95 @@
+Chem Ch 4 # 13, 35, 41, 49, 60, 68, 69, 72, 79, 80, 83, 84, 99
+
+13. What happends when the following are added to water
+a. polar solute vs nonpolar solute
+the polar solute dissolves and the nonpolar solute does not
+b. KF vs C_6H_12O_6
+the KF will dissolve and the C_6H_12O_6 will not
+c. RbCl vs AgCl
+RbCl will dissolve and AgCl will not
+d. HNO_3 vs CO
+both are soluble in water
+
+35. How to prepare 2.00 L of each of the following
+a. 0.250 M NaOH from solid NaOH
+0.500 mol of NaOH
+b. 0.250 M NaOH from 1.00 M NaOH stock
+0.500 L of NaOH stock
+c. 0.100 M K_2CrO_4 from solid K_2CrO_4
+0.200 mol of K_2CrO_4
+d. 0.100 M K_2CrO_4 from 1.75 M K_2CrO_4 stock
+0.114 L of K_2CrO_4 stock
+
+41. A stock solution of C_20H_29FO_3 is prepared by dissolving 10.0 mg of the compound in enough water to give a total volume of 500.0 mL. A 100.0 uL volume of the solution is diluted to a final volume of 100.0 mL. Calculate the concentration of the final solution
+316.432 g/mol * 10.0 g * 0.001 mg/g = 3.16 mol
+3.16 mol / 0.5000 L = 6.33 M
+6.33 M * 0.0001 L = C * 0.1 L
+C = (6.33 M * 0.0001 L) / 0.1 L
+C = 0.00633 M
+
+49. Write balanced formula and net ionic equation for the reaction that occurs when the contents of two beakers are combined. What colors represent the spectator ions
+a. CuSO_4(aq) + Na_2S(aq) -> Na_2SO_4(aq) + SCu(s)
+Cu^2+(aq) + S^2-(aq) -> SCu(s)
+spectator ions: silver and turqoise
+b. CoCl_2(aq) + 2NaOH(aq) -> Co(OH)_2(s) + 2NaCl(aq)
+Co^2+(aq) + 2OH^-(aq) -> Co(OH)_2(s)
+spectator ions: silver and green
+c. AgNO_3(aq) + KI(aq) -> AgI(s) + KNO_3(aq)
+Ag^+(aq) + I^-(aq) -> AgI(s)
+spectator ions: pink and blue
+
+60. What mass of silver chloride can be prepared by the reaction of 100.0 mL of 0.20 M silver nitrate with 100.0 mL of 0.15 M calcium chloride? Calculate the concentrations of each ion remaning in solution after the reaction is complete
+2AgNO_3(aq) + CaCl_2(aq) -> 2AgCl(s) + Ca(NO_3)_2
+0.20 M = M / 0.1000 L
+0.20 M * 0.1000 L = M
+M = 0.020 mol Ag
+
+68. What acid and base would react in aqueous solution so that the following salts appear as products in the formula equation? Write the balanced formula for each reaction
+a. potassium perchlorate
+b. cesium nitrate
+c. calcium iodide
+
+69. What volume of each of the following acids will react completely with 50.00 mL of 0.200 M NaOH?
+a. 0.100 M HCl
+b. 0.150 M HNO_3
+c. 0.200 M HC_2H_3O_2
+
+72. Four solutions are mixed, thinking they will neutralize each other. The solutions are 50.0 mL of 0.100 M HCl, 100.0 Ml of 0.200 M HNO_3, 500.0 mL of 0.0100 M Ca(OH)_2, and 200.0 mL of 0.100 M RbOH. Do they neutralize each other? If not, calculate the concentration of excess H+ or OH- ions left in solution
+
+79. Assign oxidation states for all atoms in each of the following compounds
+a. KMnO_4
+b. NiO_2
+c. Na_4Fe(OH)_6
+d. (NH_4)_2HPO_4
+e. P_4O_6
+f. Fe_3O_4
+g. XeOF_4
+h. SF_4
+i. CO
+j. C_6H_12O_6
+
+80. Assign oxidation states for all atoms in each of the following compounds
+a. UO_2^2+
+b. As_2O_3
+c. NaBiO_3
+d. As_4
+e. HAsO_2
+f. Mg_2P_2O_7
+g. Na_2S_2O_3
+h. Hg_2Cl_2
+i. Ca(NO_3)_2
+
+83. Specify which of the following are oxidation-reduction reactions, and identify the oxidizing agent, the reducing agent, the substance being oxidized, and the substance being reduced
+a. Cu(s) + 2Ag^+(aq) -> 2Ag(s) + Cu^2+(aq)
+b. HCl(g) + NH_3(g) -> NH_4Cl(s)
+c. SiCl_4(l) + 2H_2O(l) -> 4HCl(aq) + SiO_2(s)
+d. SiCl_4(l) + 2Mg(s) -> 2MgCl_2(s) + Si(s)
+e. Al(OH)_4^-(aq) -> AlO_2^-(aq) + 2H_2O(l)
+
+84. Specify which of the following are oxidation-reduction reactions, and identify the oxidizing agent, the reducing agent, the substance being oxidized, and the substance being reduced
+a. CH_4(g) + H_2O(g) -> CO(g) + 3H_2(g)
+b. 2AgNO_3(aq) + Cu(s) -> Cu(NO_3)_2(aq) + 2Ag(s)
+c. Zn(s) + 2HCl(aq) -> ZnCl_2(aq) + H_2(g)
+d. 2H^+(aq) + 2CrO_4^2-(aq) -> Cr_2O_7^2-(aq) + H_2O(l)
+
+99. A student added 50.0 mL of an NaOH solution to 100.0 mL of 0.400 M HCl. The solution was then treated with an excess of aqueous chromium(III) nitrate, resulting in formation of 2.06 g of precipitate. Determine the concentration of the NaOH solution.

@@ -135,3 +135,19 @@ CaCl_2: 110.98 g/mol
 Ca_3(PO_4)_2: 310.18 g/mol
 0.0005 mol * 310.18 g/mol
 0.155 g
+
+
+-- 06-Oct-2020 
+
+assign oxidation states to each of the atoms
+
+Cs_2UO_2Cl_4
+Cs: +1
+O: -2
+Cl: -1
+U: +6
+
+C_2H_4O_2
+H: +1
+O: -2
+C: 0

@@ -130,3 +130,12 @@ A skydiver wieghing 50 kg jumps from a plane and reaches terminal velocity of 10
 f = ma
 f = 50 kg * 9.8 m/s
 f = 490 N
+
+
+-- 08-Oct-2020 
+
+T_3 = 98 N
+T_2 = 98 / sin(60)
+ = 110 N
+T_1 = 98 / tan(60)
+ = 57 N

@@ -1,0 +1,61 @@
+Ben Hammond
+Period 3
+13/10/20
+
+Newton's Laws of Motion Virtual Lab Experiment
+
+
+1. Acceleration of cart and tensions on string
+
+f_1 ->
+cart -----------o
+------------+   |    g
+            |   |    |
+            |   |    V
+            | weight
+
+cart mass | weight mass | acceleration | tension
+----------|-------------|--------------|---------
+0.50 kg   | 0.050 kg    | 0.98 m/s^2   | 0.54 N
+0.50 kg   | 0.060 kg    | 1.2 m/s^2    | 0.66 N
+0.50 kg   | 0.070 kg    | 1.4 m/s^2    | 0.78 N
+0.50 kg   | 0.080 kg    | 1.6 m/s^2    | 0.91 N
+0.50 kg   | 0.100 kg    | 2.0 m/s^2    | 1.2 N
+
+
+2. Acceleration of cart and tensions on string
+
+     <- f_2    f_1 ->
+   o-------cart-------o
+g  |  +------------+  |  g
+|  |  |            |  |  |
+V  |  |            |  |  V
+  w_1 |            | w_2
+
+cart mass | weight mass      | acceleration | tension
+----------|------------------|--------------|---------
+0.50 kg   | 0.250 & 0.050 kg | -3.9 m/s^2   | 4.2 N
+0.50 kg   | 0.250 & 0.070 kg | -3.5 m/s^2   | 4.5 N
+0.50 kg   | 0.250 & 0.10 kg  | -2.9 m/s^2   | 4.9 N
+
+The accelerations are primarily negative, as a result of the greater mass in the negative direction. The tensions are larger, because there is overall more force exerted on the system.
+
+
+3. Determine the angle at which there is no acceleration
+
+   ^
+  /   .--o
+f_1  /   | g
+    / /| | |
+cart /ϴ| | V
+    /  | w
+
+cart mass | weight mass | angle | tension
+----------|-------------|-------|---------
+1.0 kg    | 0.050 kg    | 2.9°  | 0.54 N
+1.0 kg    | 0.10 kg     | 5.7°  | 1.2 N
+1.0 kg    | 0.20 kg     | 12°   | 2.2 N
+
+The mass is different for each angle to compensate for the difference in the force which is exerted on the cart
+
+The hanging weight and the angle increase and decrease together

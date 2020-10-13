@@ -139,3 +139,17 @@ T_2 = 98 / sin(60)
  = 110 N
 T_1 = 98 / tan(60)
  = 57 N
+
+
+ -- 13-Oct-202
+
+A 500. g cart traveling at 5.0 m/s goes up a 30° ramp. How far up the ramp does it go?
+
+(9.8 * 0.5)sin(30°) = 2.45 N
+2.45 N = 0.5 kg * a
+2.45 N / 0.5 kg = a
+a = -4.9 m/s^2
+
+0 = (5.0 m/s)^2 + -9.8 m/s^2 x
+25 m^2/s^2 = 9.8 m/s^2 x
+2.6 m = x

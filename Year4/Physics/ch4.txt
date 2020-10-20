@@ -1,0 +1,27 @@
+Physics Ch 4 #3, 7, 10, 12, 13, 16, 24, 25, 27, 31, 35
+
+3. The rope must withstand 1450 N
+
+7. The force to stop the car is 11000 N
+
+10. The cable must withstand 12600 N
+
+12. The bucket has an acceleration of 1.84 m/s^2
+
+13. The thief can escape by sliding down the rope with a downward acceleration of 7.6 m/s^2
+
+16. The acceleration of the elevator was 2.5 m/s^2 downward
+
+24. She must pull herself with a force of 72 N, and if that force increases by 15% her acceleration will be 1.15 m/s^2
+
+25. 
+a. The tension on the top cord is 6.4 N and the tension on the bottom cord is 3.2 N
+b. If the buckets are pulled up with an acceleration of 1.25 m/s^2 the tension on the top cord will be 8 N and the tension on the bottom cord will be 4 N
+
+27. F_t1 will be twice that of F_t2
+
+31. 
+a. the angle is 27 degrees
+b. It will swing toward the windshield
+
+35. The tension on the cord just after the masses are released is 43 N

@@ -1,0 +1,20 @@
+Physics Friction Worksheet
+
+4. The largest steam locomotive ever built was the Union Pacific Big Boy Steam Locomotive. It operated between 1941 and 1959 and had a mass of 345,637 kg. If a fully loaded Box Car has a mass of 130,000 kg, how many box cars could the Big Boy pull on flat ground assuming friction is the limiting factor? Use the value of 0.0004 for the rolling friction of the Box Cars. The steepest grade on the rail line was 1.14%. How many Box Cars could the locomotive pull up this grade?
+
+theta = tan^-1(0.0114)
+theta = 0.653°
+
+F_fr = μMg
+
+nμmg = μMg
+n = μMg/μmg
+n = μM/μm
+n = 0.1M/0.0004m
+n = (0.1 * 345,637) / (0.0004 * 130,000)
+n = 664
+
+F_fr = μMg cos(theta) - Mg sin(theta)
+nF = nμmg cos(theta) + nmg sin(theta)
+
+nμmg cos(theta) + nmg sin(theta) = μMg cos(theta) - Mg sin(theta)

@@ -141,7 +141,7 @@ T_1 = 98 / tan(60)
  = 57 N
 
 
- -- 13-Oct-202
+ -- 13-Oct-2020
 
 A 500. g cart traveling at 5.0 m/s goes up a 30° ramp. How far up the ramp does it go?
 
@@ -153,3 +153,43 @@ a = -4.9 m/s^2
 0 = (5.0 m/s)^2 + -9.8 m/s^2 x
 25 m^2/s^2 = 9.8 m/s^2 x
 2.6 m = x
+
+
+-- 15-Oct-2020
+
+Top fuel drag racers can cover a distance of 305 m in 3.7 seconds. What minimum coefficient of friction between the tires and the road is required?
+
+a = 2x/t^2
+a = 45 m/s^2
+
+μ = a/g
+μ = 4.5
+
+
+-- 19-Oct-2020
+
+A rock climber climbs a 70° slope without using his hands. What is the minimum coefficient of friction required?
+
+F_n - mg cos(theta) = 0
+F_n = mg cos(theta)
+
+F_fr - mg sin(theta) = 0
+F_fr = mg sin(theta)
+μ F_n = mg sin(theta)
+μ (mg cos(theta)) = mg sin(theta)
+μ = sin(theta)/cos(theta)
+μ = tan(theta)
+
+μ = tan(70°)
+μ = 2.7
+
+A truck driver with a crate in the back of the truck is at a stoplight and accelerates over the course of 100 m. If the coefficient of friction between the crate and the truck is 0.5, how quickly can the driver cover this distance?
+
+ma = μmg
+a = μg
+a = 4.9
+
+100 m = 1/2 (4.9 m/s^2) t^2
+100 m = 2.45 m/s^2 t^2
+40.8 s^2 = t^2
+6.39 s = t

@@ -1,0 +1,44 @@
+Physics Ch 4.2 # 40, 45, 47, 59, 67, 94
+
+40. A flatbed truck is carrying a heavy crate. The coefficient of static friction between the crate and the bed of the truck is 0.75. What is maximum rate at which the driver can decelerate and still avoid having the crate slide?
+
+F_fr = 0.75 * 9.8
+F_fr = 7.35
+
+
+45. Drag-race tires in contact with an asphalt surface have a very high coefficient of static friction. Assuming a constant acceleration and no slipping of tires, estimate the coefficient of static friction needed for a drag racer to cover 1.0 km in 12 s, starting from rest.
+
+a = 2x/t^2
+a = 2(1000 m)/12 s^2
+a = 13.9 m/s^2
+13.9 m/s^2 * m = μ 9.8 * m
+μ = 1.42
+
+47. In the figure, the coefficient of static friction between mass m_a and the table is 0.40, whereas the coefficient of kinetic friction is 0.20. a) What minimum value of m_a will keep the system from starting to move? b) What value(s) of m_a will keep the system moving at constant speed?
+
+m_a ----o
+-----+  |
+     |  |
+     | m_b (2.0 kg)
+
+F_b = 19.6 N
+19.6 N = 0.40 * 9.8 m/s^2 * m
+49 = 9.8 m/s^2 * m
+5 g = m
+
+Not sure how to balance accelerations?
+
+59. A crate lies on a plane tilted at an angle 25.0° to the horizontal, with μ_k = 0.19. a) Determine the acceleration of the crate as it slides down the plan. b) If the plane starts from rest 8.15 m up along the plane from its base, what will be the crate's speed when it reaches the bottom of the incline?
+
+F_fr = 1.86
+F_m = sqrt((9.8cos(65))^2 + (tan(-25)/9.8cos(65))^2) - 1.86
+F_m = 4.14 - 1.86
+F_m =  2.27 N
+Can't find acceleration without mass?
+
+67. a) Suppose the coefficient of the kinetic friction between m_a and the plane in the figure is μ_k = 0.15, and that m_a = m_b = 2.7 kg. As m_b moves down, determine the magnitude of the acceleration of m_a and m_b, given theta = 34°. b) What smallest value of μ_k will keep the system from accelerating?
+
+I'm sorry I really don't understand how to solve these last two.
+
+94. Two blocks made of different materials, connected by a thin cord, slide down a plane ramp inclined at an angle theta to the horizontal. The masses of the blocks are m_a and m_b, and the coefficients of friction are μ_a and μ_b. If m_a = m_b = 5.0 kg, and μ_a = 0.20 and μ_b = 0.30, determine a) the acceleration of the blocks and b) the tension in the cord for an angle theta = 32°
+

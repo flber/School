@@ -151,3 +151,18 @@ C_2H_4O_2
 H: +1
 O: -2
 C: 0
+
+
+-- 16-Oct-2020
+
+The level of water in a water barometer is 1.000 m. If the atmospheric pressure is 1.000 x 10^5 Pa (0.9869 atm), what is the pressure inside the barometer?
+
+1 g/cm^3 * 1000000 cm/m / 1000 g/kg
+1000 kg/m^3
+
+P_w = (1000 kg/m^3) * (9.8 m/s^2) * (1 m)
+P_w = 9800 Pa
+
+P_t = P_a - P_w
+P_t = 1.000 x 10^5  Pa - 9.8 x 10^3 Pa
+P_t = 9.02 x 10^4 Pa

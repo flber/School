@@ -1,0 +1,32 @@
+Chem Ch 5 # 41, 42, 54, 63, 123, 133
+
+41. 
+Not sure how to calculate the differences in height
+
+42. 
+
+54. A person accidentally swallows a drop of liquid oxygen, O_2(l), which has a density of 1.149 g/mL. Assuming the drop has a volume of 0.050 mL, what volume of gas will be produced in the person's stomach at body temperature (37 C) and a pressure of 1 atm?
+
+1.149 g/mL * 0.050 mL
+0.05745 g
+32 g/mol * 0.05745 g
+1.8384 mol
+V = nRT
+V = 1.8384 * 0.0821 * 310
+V = 47 L
+
+63. A sealed balloon is filled with 1.00 L of helium at 23 C and 1.00 atm. The balloon rises to a point in the atmosphere where the pressure is 220. torr and the temperature is -31 C. What is the change in volume of the balloon as it ascends from 1.00 atm to a pressure of 220. torr?
+
+1 L / 296 K = (0.289474 atm * V) / 242 K
+1/296 * 242 = 0.289474 atm * V
+(1/296 * 242) / 0.289474 = V
+2.8 L
+
+123. Draw a qualitative graph to show how the first property varies with the second in each of the following (assume 1 mole of an ideal gas and T in kelvin)
+
+133. A 2.00 L sample of O_2(g) was collected over water at a total pressure of 785 torr and 25 C. when the O_2(g) was dried, the gas had a volume of 1.94 L at 25 C and 785 torr. Calculate the vapor pressure of water at 25 C
+
+1.033 atm * 2.00 L = P * 1.94 L
+P = (1.033 atm * 2.00 L) / 1.94 L
+P = 1.064 atm
+P_v = 0.032 atm

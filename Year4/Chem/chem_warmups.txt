@@ -10,7 +10,7 @@ LiCl solid has a density of 2.068 g/cm^3. If 84.25g of LiCl are dissolved in 100
 
 -- 04-Sep-2020
 
-A sample of chloroform is fournd to contain 12.0g of carbon, 106.4g of chlorine, and 1.01g of hydrogen. If a second sample of chloroform is found to contain 30.0g of carbon, what is the total mass of chloroform in the second sample?
+A sample of chloroform is found to contain 12.0g of carbon, 106.4g of chlorine, and 1.01g of hydrogen. If a second sample of chloroform is found to contain 30.0g of carbon, what is the total mass of chloroform in the second sample?
 
 (12.0 g + 106.4g + 1.01g) total / 12.0g carbon
 119.41 g total / 12.0 g carbon
@@ -166,3 +166,24 @@ P_w = 9800 Pa
 P_t = P_a - P_w
 P_t = 1.000 x 10^5  Pa - 9.8 x 10^3 Pa
 P_t = 9.02 x 10^4 Pa
+
+
+-- 20-Oct-2020
+
+Neon is found in a concentration of 18.2 ppm by volume in the earth's atmosphere. What volume of air at STP would need to be processed to isolate 1.0 kg of Neon?
+
+1000 g / 20.18 g/mol
+49.55 mol
+
+22.4 * 49.55
+1110. L
+
+(1,000,000 / 18.2) * 1110 L
+61,000,000 L
+
+
+-- 23-Oct-2020
+
+A fire piston is an ancient south east Asian device for creating fire. A piston is rapidly compressed causing the temperature of the gas to exceed 260° C. The compression ratio is 25:1. What is the pressure of the gas when it is compressed? What is the average velocity of the gas molecules at 260° C?
+
+

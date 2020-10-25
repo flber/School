@@ -1,0 +1,60 @@
+Chem Notes
+
+## Ch 5.7
+
+Effect of temp on velocity distribution
+	- as the temperature increases, range of velocities becomes larger
+	
+Effusion and Diffusion
+	- Diffusion: describes the mixing of gases
+		- rate of diffusion is the rate of mixing of gases
+		- Graham's law of effusion
+			- relative rates of effusion of two gases at the same T and P are given by the inverse ration of the square roots of the masses of the gas particles:
+				┌───────────────────────────────────────────────────────┐
+				│ RoE for gas 1 / RoE for gas 2 = sqrt(M_2) / sqrt(M_1) │
+				└───────────────────────────────────────────────────────┘
+			- Graham's law is derived from the kinetic molecular model for gas velocities
+	- Effusion: describes the passage of a gas through a tiny orifice into an evacuated chamber
+		- rate of effusion measures the speed at which the gas is transferred into the chamber
+			- inversely proportional to the square root of the mass of the gas particles
+		- diffusion is roughly based on mass (complicated equation)
+
+## Ch 5.8
+
+Ideal Gas Behavior
+	- exhibited by real gases under certain conditions of:
+		- low pressure
+		- high temperature
+
+van der Waals Equation
+	- Actual volume of a given gas molecule can be calculated with:
+		┌────────┐
+		│ V - nb │
+		└────────┘
+		- V: volume of the container
+		- nb: correction factor for the volume of the molecules
+			- n: number of moles
+			- b: empirical constant
+	- ideal gas equation can be modified as follows:
+		┌───────────────────────┐
+		│ P' = (nRT) / (V - nb) │
+		└───────────────────────┘
+	- Size of the correction factor depends on the concentration of gas molecules
+		- higher the concentration, the more likely that the particles will attract each other
+			- causes the particles to hit the very slightly less often
+		┌───────────────────────┐
+		│ P_obs = P' - a(n/V)^2 │
+		└───────────────────────┘
+			- a: proportionality constant whose value can be determined by observing the actual behavior of the gas
+	- Final van der Waals equation
+		┌─────────────────────────────────────┐
+		│ [P_obs + a(n/V)^2] * (V - nb) = nRT │
+		└─────────────────────────────────────┘
+			- values of a and b vary until the best fit for the observed pressure is obtained
+
+## Ch 5.9
+
+Behavior of Real Gases
+	- for a real gas, the actual observer pressure is lower than the pressure expected for an ideal gas
+		- caused due to intermolecular attractions that occur in real gases, which increase in the following order
+			H_2 < N_2 < CH_4 < CO_2

@@ -1,0 +1,50 @@
+Math Ch 3.4 # 9, 11, 19, 21
+
+9. 
+a. the particles moves forward over (0, 1) and (5, 7), backward over (1, 5), speeds up over (3, 5), and slows down over (0, 2) and (6, 7)
+b. the acceleration is positive over (3, 6), negative over (0, 2) and (6, 7), and zero over (2, 3) and (7, 9)
+c. the particle's greatest speed is at t = 0
+d. the particle stands still over (7, 9)
+
+11. 
+a. the body reverses direction at t = 1, 6, and 8
+b. the body is moving at a constant speed over (2, 6)
+c. the speed is the absolute value graph of velocity
+d. a(0, 1) = 3, a(1, 3) = -3, a(3, 6) = 0, a(6, 8) = 3, a(8, 10) = -3/1
+
+19. s(t) = t^2 - 3t + 2
+a. t = 5
+x = (5)^2 - 3(5) + 2
+x = 12
+
+b. average velocity during first 5 seconds
+12 m / 5 s = 2.4 m/s
+
+c. instantaneous velocity at t = 4
+s'(t) = 2t - 3
+s'(4) = 2(4) - 3
+s'(4) = 5 m/s
+
+d. acceleration at t = 4
+s''(t) = 2
+a = 2 m/s^2
+
+e. at what t does the particle change direction
+at t = 1.5
+
+f. Where is the particle when s is a minimum
+(1.5, -0.25)
+
+21. s(t) = (t - 2)^2 (t - 4)
+a. find instantaneous velocity
+s(t) = (t^2 + 4) (t - 4)
+s(t) = t^3 - 4t^2 + 4t - 16
+s'(t) = 3x^2 - 8x + 4
+
+b. acceleration
+s''(t) = 6x - 8
+
+c. the particle is at rest at t = 2
+
+d. the particle is following an almost cubic graph, and changes direction at t = 2, 10/3
+

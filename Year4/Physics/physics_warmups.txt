@@ -193,3 +193,24 @@ a = 4.9
 100 m = 2.45 m/s^2 t^2
 40.8 s^2 = t^2
 6.39 s = t
+
+
+-- 22-Oct-2020
+
+A 5.5 kg box is pulled by a 2.5 N force applied at an angle of 30° above the horizontal. The coefficients of friction are μ_s = 0.30 and μ_k = 0.25. Does the box move? If so, what is its acceleration?
+
+F_y = 25 sin(30°)
+F_y = 12.5
+
+F_x = 25 cos(30°)
+F_x = 21.7
+
+F_n = 12.5 - (9.8 * 5.5)
+F_n = -41.4
+
+21.7 - μ_s * 41.4 N > 0
+9.28 N > 0
+
+ma = 21.7 N - (0.25 * 41.7 N)
+a = 11.28 / 4.4 kg
+a = 2.1

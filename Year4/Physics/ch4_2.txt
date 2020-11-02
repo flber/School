@@ -42,3 +42,6 @@ I'm sorry I really don't understand how to solve these last two.
 
 94. Two blocks made of different materials, connected by a thin cord, slide down a plane ramp inclined at an angle theta to the horizontal. The masses of the blocks are m_a and m_b, and the coefficients of friction are μ_a and μ_b. If m_a = m_b = 5.0 kg, and μ_a = 0.20 and μ_b = 0.30, determine a) the acceleration of the blocks and b) the tension in the cord for an angle theta = 32°
 
+m_ag sin(theta) + m_bg sin(theta) - μ_am_ag cos(theta) - μ_bm_bg cos(theta) = (m_a + m_b)a
+
+m_ag sin(theta) - F_t - μ_am_ag cos(theta) = m_aa

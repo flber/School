@@ -19,6 +19,7 @@ Effusion and Diffusion
 			- inversely proportional to the square root of the mass of the gas particles
 		- diffusion is roughly based on mass (complicated equation)
 
+
 ## Ch 5.8
 
 Ideal Gas Behavior
@@ -52,9 +53,130 @@ van der Waals Equation
 		└─────────────────────────────────────┘
 			- values of a and b vary until the best fit for the observed pressure is obtained
 
+
 ## Ch 5.9
 
 Behavior of Real Gases
 	- for a real gas, the actual observer pressure is lower than the pressure expected for an ideal gas
 		- caused due to intermolecular attractions that occur in real gases, which increase in the following order
 			H_2 < N_2 < CH_4 < CO_2
+
+
+## Ch 6.1
+
+Energy
+	- Laws of thermodynamics
+		- 1st Law: the energy of the universe is constant
+		- 2nd:
+	- the capacity to do work or produce heat
+	- law of conservation of energy
+		- total energy of universe is constant
+	- potential energy: energy due to position or composition
+	- kinetic energy: energy due to motion
+	- heat: transfer of energy due to a temperature difference
+	- work: force acting over difference
+	- pathway
+		- specific conditions that define the path by which energy is transferred
+		- work and heat are dependent on pathway
+		- energy change is independent of pathway
+	- state function: property that does not depend in any way on the system's past or future
+	- parts of the universe
+		- system: focus of attention
+		- surroundings: everything else
+	- exothermic: emits heat
+	- endothermic: absorbs heat
+		- result from a lowered potential energy of the reaction system
+	- Change in potential energy stored in the bonds of products as compared with the bonds of reactants
+		- for an exothermic process, more energy is released while forming new bonds than is consumed while breaking the bonds in the reactants
+		- in an endothermic reaction, energy that flows into the system as heat is used to increase the potential energy of the system
+	- Internal energy
+	    ┌────────────┐
+		│ ΔE = q + w │
+		└────────────┘
+		- number indicates magnitude of change
+		- sign indicates direction of flow
+			- in an endothermic system q is +
+			- in an exothermic system q is -
+			- when a system does work on surroundings w is -
+			- when the surrounding do work on a system w is +
+	- types of work:
+		- work done by a gas through expansion
+		- work done to a gas through compression
+		┌──────────┐
+		│ w = -PΔV │
+		└──────────┘
+
+
+## Ch 6.2
+
+Enthalpy
+	- a state function that is defined as
+		┌────────────┐
+		│ H = E + PV │
+		└────────────┘
+	- at a constant pressure, ΔH = q_p
+		- q_p = heat at constant pressure
+	- for a chemical reaction, the enthalpy change is given by
+		┌───────────────────────────────┐
+		│ ΔH = H_products - H_reactants │
+		└───────────────────────────────┘
+Calorimetry
+	- science of measuring heat
+		- based on observations of temperature change when a body absorbs or discharges energy in the form of heat
+	- calorimeter: device used to determine the heat associated with a chemical reaction
+	- specific heat capture: energy required to raise the temperature of one gram of a substance by on degree Celsius
+		- units: J/K*g
+	- molar heat capacity: energy required to raise the temperature of one mole of a substance by one degree Celsius
+	- calculation of heat for a neutralization reaction
+		- energy as (heat) released by the reaction 
+			= energy absorbed by the solution
+	- constant volume calorimetry
+		- used in conditions when experiments are to be performed under constant volume
+Hess's Law
+	- in going from a set of reactants to a set of products, the change in enthalpy is the same whether the reaction takes place in one step or in a series of steps
+
+
+## Ch 6.4
+
+Standard Enthalpy of Formation ΔH_f° (kJ/mol)
+	- change in enthalpy that accompanies the formation of one mole of a compound from its elements with all substance in their standard states
+		- standard state: precisely defined reference state
+			- for a gaseous substance is at a pressure of 1 atm
+			- for a pure substance in condensed state, the pure liquid or solid
+			- if in solution, 1 molar
+			- 1 atm and 25° C
+		- a degree symbol on a thermodynamic function indicates
+	- when a reaction is reversed, magnitude stays the same but sign changes
+	- when the balanced equation is multiplied by an integer, the value of ΔH must also be multiplied by that integer
+	- change in enthalpy for a given reaction be be calculated from the enthalpies of formation of the reactants and products:
+		┌───────────────────────────────────────────────────────────┐
+		│ ΔH°_reaction = Σn_pΔH_f°(products) - Σn_rΔH_f°(reactants) │
+		└───────────────────────────────────────────────────────────┘
+	- example:
+		- 2Al(s) + Fe_2O_3(s) -> Al_2O_3(s) + 2Fe(s)
+			- ΔH_f° for Fe_2O_3(s) = -826 kJ/mol
+			- ΔH_f° for Al_2O3 : -1676 kJ/mol
+			- ΔH°_reaction = ΔH_f° for Al_2O3 - ΔH_f° for Fe_2O_3(s)
+			  ΔH°_reaction = -1676 kJ/mol - -1676 kJ/mol
+			  ΔH°_reaction = -850 kJ
+		- methanol (CH_3OH) vs gasoline (C_8H_18)
+			- 2CH_3OH(l) + 3O_2 -> 2CO_2(g) + 4H_2O(l)
+				- ΔH°_reaction = Σn_pΔH_f°(products) - Σn_rΔH_f°(reactants)
+				  ΔH°_reaction = 2 * ΔH_f° of CO_2 + 4 * ΔH_f° of H_2O - ΔH_f° for CH_3OH
+				  ΔH°_reaction = 1450 kJ/2 mol
+				  ΔH°_reaction = -22.6 kJ/g
+			- 2C_8H_18(l) + 24O_2(g) -> 16CO_2(g) + 18H_2O(l)
+				- ΔH°_reaction = Σn_pΔH_f°(products) - Σn_rΔH_f°(reactants)
+				  ΔH°_reaction = 16 * ΔH_f° of CO_2 + 18 * ΔH_f° of H_2O - ΔH_f° for C_8H_18
+				  ΔH°_reaction = 16 * (-394 kJ) + 18 * (-286 kJ) - ΔH_f° for C_8H_18
+				  ...
+	- hydrocarbons:
+		- methane
+		- ethane
+		- propane
+		- butane
+		- pentane
+		- hexane
+		- heptane
+		- octane
+	

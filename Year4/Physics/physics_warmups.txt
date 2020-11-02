@@ -28,7 +28,7 @@ h = 1.2 m
 
 A student throws a set of keys up to a second student who is in a window 4.00 m above. The second student catches the keys 1.5 seconds later.
 
-a. With what inital velocity were the keys thrown?
+a. With what initial velocity were the keys thrown?
 x = x_0 + v_0t + 1/2at^2
 4.00 m = v_0 (1.5 s) + -4.9 m/s^2 (1.5 s)^2
 4.00 m = v_0 (1.5 s) - 11.025 m
@@ -214,3 +214,10 @@ F_n = -41.4
 ma = 21.7 N - (0.25 * 41.7 N)
 a = 11.28 / 4.4 kg
 a = 2.1
+
+
+-- 26-Oct-2020
+
+How many accelerators do you have in your car? There area at least three controls in the car which can be used to cause the car to accelerate. What are they? What accelerations do they produce?
+
+The gas petal, which accelerates the car forward, the brakes, which decelerate the car, and the steering wheel, which changes the direction of velocity. 

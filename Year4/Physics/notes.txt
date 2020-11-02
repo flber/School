@@ -1,0 +1,16 @@
+Physics Notes
+
+Ch 4
+
+F_n = mg cos(theta)
+F_p = mg sin(theta)
+
+mg sin(theta) = μmg cos(theta)
+sin(theta) = μ cos(theta)
+μ = tan(theta)
+theta = tan^-1(μ)
+
+
+Ch 5
+
+

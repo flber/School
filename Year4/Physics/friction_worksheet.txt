@@ -1,5 +1,41 @@
 Physics Friction Worksheet
 
+1. A top fuel drag racer weighs about 2100lbs. Calculate the maximum expected acceleration for a drag racer. How long would it take to complete a ¼ mile from a standing start?
+
+μ = 0.49
+ma = μmg
+a = μg
+a = 0.49 * 9.8
+a = 4.802 m/s^2
+
+1 mi * 1.60934 km/mi * 1000 m/km
+1609 m
+1609 m / 4
+402.25 m
+
+402.25 m = 1/2 (4.802 m/s^2) t^2
+402.25 m = 2.401 m/s^2 t^2
+167.53 s^2 = t^2
+12.94 s = t
+
+2. What is the steepest hill a dragster could climb?
+
+μ = tan(theta)
+0.49 = tan(theta)
+tan^-1(0.49) = theta
+26.1 = theta
+
+3. Actual drag racers complete the ¼ mile in 4 seconds. What is their acceleration? How many g’s? Their actual acceleration is much larger than the coefficient of friction should allow. What are some tricks that dragsters might use to increase their acceleration?
+
+402.25 m = 1/2 a (4 s)^2
+201.125 m = a 16 s^2
+12.57 m/s^2 = a
+
+12.57 m/s^ / 9.8 m/s^2
+1.283 g
+
+Dragsters primarily use aerodynamic surfaces to increase their normal force by creating air pressures above the surfaces which push the dragster down.
+
 4. The largest steam locomotive ever built was the Union Pacific Big Boy Steam Locomotive. It operated between 1941 and 1959 and had a mass of 345,637 kg. If a fully loaded Box Car has a mass of 130,000 kg, how many box cars could the Big Boy pull on flat ground assuming friction is the limiting factor? Use the value of 0.0004 for the rolling friction of the Box Cars. The steepest grade on the rail line was 1.14%. How many Box Cars could the locomotive pull up this grade?
 
 theta = tan^-1(0.0114)
@@ -18,3 +54,92 @@ F_fr = μMg cos(theta) - Mg sin(theta)
 nF = nμmg cos(theta) + nmg sin(theta)
 
 nμmg cos(theta) + nmg sin(theta) = μMg cos(theta) - Mg sin(theta)
+n(μmg cos(theta) + mg sin(theta)) = μMg cos(theta) - Mg sin(theta)
+n = (μMg cos(theta) - Mg sin(theta)) / (μmg cos(theta) + mg sin(theta))
+n = (0.1 * 345,637 kg * 9.8 * cos(0.653°) - 345,637 kg * 9.8 * sin(0.653°)) / (0.0004 * 130,000 kg * 9.8 * cos(0.653°) + 130,000 kg * 9.8 * sin(0.653°))
+n = 20
+
+5. If each box car has its own brakes how much distance would be required to stop a 100 box car train traveling at 100 miles per hour on flat ground? How much distance would be required to stop the same train on a 1.14% down grade?
+
+M = 100 * 130,000 kg + 345,637 kg
+M = 13345637 kg
+
+F_fr = μMg cos(theta) - Mg sin(theta)
+F_fr = μMg cos(0°) - Mg sin(0°)
+F_fr = μMg
+F_fr = 0.1 * 13345637 kg * 9.8
+F_fr = 13,078,724 N
+a = -0.98
+
+100 mi * 1.60934 km/mi * 1000 m/km
+160934 m/h / 3600 s/h
+44.70 m/s
+
+v^2 = v_0^2 + 2a(x - x_0)
+0 = (44.70 m/s)^2 + 2 (-0.98 m/s^2) x
+0 = 1998.09 m^2/s^2 - 1.96 m/s^2 x
+1998.09 m^2/s^2 = 1.96 m/s^2 x
+1019.43 m = x
+
+F_fr = μMg cos(theta) - Mg sin(theta)
+F_fr = μMg cos(0.653°) - Mg sin(0.653°)
+a = μg cos(0.653°) - g sin(0.653°)
+a = 0.1 * 9.8 * 0.99993505 - 9.8 * 0.0113968
+a = -0.8682
+
+v^2 = v_0^2 + 2a(x - x_0)
+0 = (44.70 m/s)^2 + 2 (-0.8682 m/s^2) x
+0 = 1998.09 m^2/s^2 - 1.736 m/s^2 x
+1998.09 m^2/s^2 = 1.736 m/s^2 x
+1150.6 m = x
+
+6. If the locomotive was hauling 10 box cars up the grade and one box car had its brakes lock up, would the train come to a stop or continue up the hill?
+
+μ_sMg cos(theta) = Mg sin(theta) + μ_kmg cos(theta) + 9(μ_rmg cos(theta)) + 10(mg sin(theta))
+
+
+7. What distance is required for a car traveling 60 mph to stop on a concrete surface?
+
+60 mi * 1.60934 km/mi * 1000 m/km
+96560.4 m/h / 3600 s/h
+26.82 m/s
+
+μ = 0.49
+ma = μmg
+a = μg
+a = 0.49 * 9.8
+a = 4.802 m/s^2
+
+v^2 = v_0^2 + 2a(x - x_0)
+0 = (26.82 m/s)^2 + 2 (-4.802 m/s^2) x
+719.3 m^2/s^2 = 9.604 m/s^2 x
+74.9 m = x
+
+8. What distance is required for a car traveling 60 mph to stop on ice? What stopping distance would be required on an icy 10% down grade?
+
+60 mi * 1.60934 km/mi * 1000 m/km
+96560.4 m/h / 3600 s/h
+26.82 m/s
+
+μ = 0.01
+ma = μmg
+a = μg
+a = 0.01 * 9.8
+a = 0.098 m/s^2
+
+v^2 = v_0^2 + 2a(x - x_0)
+0 = (26.82 m/s)^2 + 2 (-0.098 m/s^2) x
+719.3 m^2/s^2 = 0.1961 m/s^2 x
+3668 m = x
+
+theta = tan^-1(0.1)
+theta = 5.711°
+
+a = μg sin(theta)
+a = 0.01 * 9.8 sin(-5.711°)
+a = -0.009752 m/s^2
+
+v^2 = v_0^2 + 2a(x - x_0)
+0 = (26.82 m/s)^2 + 2 (-0.009752 m/s^2) x
+719.3 m^2/s^2 = 0.0195 m/s^2 x
+36890 m = x

@@ -1,0 +1,69 @@
+Ch 5 # 101, 107, 108, 109, 113, 115
+
+101. Calculate the kinetic energies of CH_4(g) and N_2(g) molecules at 273 K and 546 K
+
+u_rms = sqrt((3RT)/M)
+u_rms = sqrt((3 * 8.3145 * 273)/16.042)
+u_rms = 20.6030
+
+u_rms = sqrt((3 * 8.3145 * 546)/28.02)
+u_rms = 22.0466
+
+107. Consider a 1.0 L container of neon gas at STP. will the average kinetic energy, average velocity, and frequency of collisions of gas molecules with the walls of the container increase, decrease, or remain the same under each of the following conditions?
+a. the temperature is increased to 100° C
+increase
+b. the temperature is decreased to -50° C
+decrease
+c. the volume is decreased to 0.5 L
+increase
+d. the number of moles of neon is doubled
+increase
+
+108. Consider two gases, A and B, each in a 1.0 L container with both gases at the same temperature and pressure. The mass of gas A in the container is 0.34 g and the mass of gas B in the container is 0.48 g.
+a. Which gas sample has the most molecules present?
+They have the same number of molecules
+b. Which gas sample has the largest average kinetic energy?
+Gas B has the largest average kinetic energy
+c. Which gas sample has the fastest average velocity?
+Sample B has the fastest average velocity
+d. How can the pressure in the two containers be equal to each other since the larger gas molecules B collide with the container walls more forcefully?
+Though gas B collides with the walls more forcefully, it happens less often than with gas A
+
+109. Consider three identical flasks filled with different gases.
+Flask A: CO at 760 torr (1.0 atm) and 0° C
+Flask B: N_2 at 250 torr (0.329 atm) and 0° C
+Flask C: H_2 at 100 torr (0.132 atm) and 0° C
+a. in which flask will the molecules have the greatest average kinetic energy?
+I can't find the equations for these which include pressure
+b. in which flask will the molecules have the greatest average velocity?
+
+113. One way of separating oxygen isotopes is by gaseous diffusion of carbon monoxide. The gaseous diffusion process behaves like an effusion process. Calculate the relative rates of effusion of 12^C16^O, 12^C17^O, and 12^C18^O. Name some advantages and disadvantages of separating oxygen isotopes by gaseous diffusion of carbon dioxide instead of carbon monoxide.
+Rate of effusion for 12^C16^O and 12^C17^O:
+RoE = sqrt(M_2) / sqrt(M_1)
+RoE = sqrt(29) / sqrt(28)
+RoE = 1.018
+
+Rate of effusion for 12^C17^O and 12^C18^O:
+RoE = sqrt(M_2) / sqrt(M_1)
+RoE = sqrt(30) / sqrt(29)
+RoE = 1.017
+
+Using diffusion of carbon dioxide would increase the RoE's by increasing the difference in masses, which would result in a more accurate result. However, separating the oxygen from the carbon with carbon dioxide is more difficult than with carbon monoxide.
+
+115. Calculate the pressure exerted by 0.5000 mole of N_2 in a 1.0000 L container at 25.0° C
+a. using the ideal gas law.
+P = nRT/V
+P = 0.5 * 0.0831 * 298 / 1
+P = 12.4
+
+b. using the van der Waals equation
+[P_obs + a(n/V)^2] * (V - nb) = nRT
+P_obs + a(n/V)^2 = (nRT) / (V - nb)
+P_obs = ((nRT) / (V - nb)) - a(n/V)^2
+P_obs = ((0.5 * 0.0831 * 298) / (1 - 0.5 * b)) - a(0.5 / 1)^2
+[van der Waals constants found from http://www2.ucdsb.on.ca/tiss/stretton/database/van_der_waals_constants.html]
+P_obs = ((0.5 * 0.0831 * 298) / (1 - 0.5 * 0.0387)) - 1.370 * (0.5 / 1)^2
+P_obs = 12.3
+
+c. compare results
+The observed volume from the van der Waals equations is actually slightly smaller than the ideal gas law predicted

@@ -13,4 +13,7 @@ theta = tan^-1(μ)
 
 Ch 5
 
+Uniform circular motion: motion in a circle of constant radius at a constant speed
 
+centripetal acceleration points toward the center of the circle:
+a_r = v^2 / r

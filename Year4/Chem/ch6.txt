@@ -1,0 +1,77 @@
+Chem Ch 6 # 32, 33, 40, 41, 46, 68, 76, 83
+
+32. A system undergoes a process consisting of the following two steps: 1) the system absorbs 72 J of heat while 35 J of work is done on it. 2) The system absorbs 35 J of heat while performing 72 J of work. Calculate ΔE for the overall process
+
+74 J
+
+33. If the internal energy of a thermodynamic system is increased by 300. J while 75 J of expansion work is done, how much heat was transferred and in which direction, to or from the system?
+
+225 J of energy is transferred into the system.
+
+40. One mole of H_2O(g) at 1.00 atm and 100.°C occupies a volume of 30.6 L. When 1 mole of H_2O(g) is condensed to 1 mole of H_2O(l) at 1.00 atm and 100.°C, 40.66 kJ of heat is released. If the density of H_2O(l) at this temperature and pressure is 0.996 g/cm^3, calculate ΔE for the condensation of 1 mole of water at 1.00 atm and 100.°C.
+
+ΔE = -40.66 kJ
+
+41. One of the components of polluted air is NO. It is formed in the high=temperature environment of internal combustion engines by the following reaction:
+N_2(g) + O_2(g) -> 2NO(g) ΔH = 180 kJ
+Why are high temperatures needed to convert N_2 and O_2 to NO?
+
+High temperatures are needed to convert N_2 and O_2 into NO because each compound has a relatively high enthalpy of formation, and so require a similarly high amount of energy to break apart to be reformed into NO.
+
+46. Consider the following reaction:
+2H_2(g) + O_2(g) -> 2H_2O(l) ΔH = -572 kJ
+
+a. how much heat is evolved for the production 1.00 mole of water
+-286 kJ of heat is evolved
+
+b. how much heat is evolved when 4.03 g hydrogen are reacted with excess oxygen
+4.03 g / 1.01 g/mol
+3.99 mol
+3.99 mol / 2 mol
+2.00
+2.00 * -572 kJ
+-1144 kJ is evolved
+
+c. how much heat is evolved when 186 g oxygen are reacted with excess hydrogen
+186 g / 16.00 g/mol
+11.63 mol
+11.63 * -572 kJ
+6650 kJ is evolved
+
+d. the total volume of hydrogen gas needed to fill the Hindenburg was 2.0 x 10^8 L at 1.0 atm and 25° C. How much heat was evolved when the Hindenburg exploded, assuming all of the hydrogen reacted?
+PV = nRT
+2.0 x 10^8 L = n 0.08314 * 298 K
+(2.0 x 10^8 L) / 0.08314 * 298 K = n
+n = 8.07 x 10^6 mol
+8.07 x 10^6 mol / 2 mol
+4036200
+4036200 * -572 kJ
+2,308,706,400 kJ
+
+68. The combustion of 0.1584 g benzoic acid increases the temperature of a bomb calorimeter by 2.54° C. Calculate the heat capacity of this calorimeter. (The energy released by combustion of benzoic acid is 26.42 kJ/g). A 0.2130 g sample of vanillin (C_8H_8O_3) is then burned in the same calorimeter, and the temperature increases by 3.25° C. What is the energy of combustion per gram of vanillin? Per mole of vanillin?
+
+0.1584 g * 26.42 kJ/g
+4.185 kJ
+4185 J / 2.54 K (diff)
+Heat capacity = 1648 J/K
+
+1648 J/K * 3.25 K
+5.356 kJ
+5.356 kJ / 0.2130 g
+25.15 kJ/g
+
+0.2130 g / 152.144 g/mol
+0.0014 mol
+5.356 kJ / 0.0014 mol
+3824 kJ/mol
+
+
+76. Given the following data:
+P_4(s) + 6Cl(g) -> 4PCl_3(g) ΔH = -1225.6 kJ
+P_4(s) + 5O_2(g) -> P_4O_10(s) ΔH = -2967.3 kJ
+PCl_3(g) + Cl_2(g) -> PCl_5(g) ΔH = -84.2 kJ
+PCl_3(g) + 1/2O_2(g) -> Cl_3PO(g) ΔH = -285.7 kJ
+
+83. The reusable booster rockets of the space shuttle use a mixture of aluminum and ammonium perchlorate as fuel. A possible reaction is:
+3Al(s) + 3NH_4ClO_4(s) -> Al_2O_3(s) + AlCl_3(s) + 3NO(g) + 6H_2O(g)
+Calculate ΔH° for this reaction

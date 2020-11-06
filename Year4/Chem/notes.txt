@@ -179,4 +179,92 @@ Standard Enthalpy of Formation ΔH_f° (kJ/mol)
 		- hexane
 		- heptane
 		- octane
-	
+
+
+## Ch 7.1
+
+Electromagnetic radiation
+	- one of the means by which energy travels through space
+	- wavelike behaviour
+	- wavelength (λ): distance between wave peaks
+	- frequency (ν): number of cycles per second
+	- speed of light: 299,792,458 m/s
+	- short wavelength radiation has higher frequency
+		- inverse relationship
+		┌────────┐
+		│ λν = c │
+		└────────┘
+Max Planck & Albert Einstein
+	- Planck's constant h = 6.626 x 10^-34 J * s
+	- change in energy can be represented as follows:
+		┌──────────┐
+		│ ΔE = nhν │
+		└──────────┘
+		- n: integer
+		- h: Planck's constant
+		- ν: frequency
+	- energy is quantized and can occur in discrete units of hν.
+		- quantum: a packet of energy
+			- a system can transfer energy only in whole quanta
+			- energy seems to have particulate properties
+	- EM radiation is a stream of particles called photons
+		- the energy of each photon is given by
+			┌──────────────────────┐
+			│ E_photon = hν = hc/λ │
+			└──────────────────────┘
+	- photoelectric effect
+		- phenomenon in which electrons are emitted from a surface of a metal when light strikes it
+		- observations:
+			- when frequency of light is varied, no electrons are emitted by a given metal below the threshold frequency (ν_0)
+			- when ν < ν_0, no electrons are emitted, regardless of the intensity of the light
+			- when ν > ν_0:
+				- the number of electrons emitted increased with the intensity of the light
+				- the kinetic energy of the 
+		┌──────────────────────────────────┐
+		│ KE_electron = 1/2 mv^2 hν - hν_0 │
+		└──────────────────────────────────┘
+			- m: mass of electron
+			- v: velocity of electron
+	- Einstein proposed that energy has mass
+		┌──────────┐
+		│ E = mc^2 │
+		└──────────┘
+	- electromagnetic radiation exhibits wave and particulate properties
+	- Louis de Broglie equation:
+		┌──────────┐
+		│ λ = h/mv │
+		└──────────┘
+	- Diffraction
+		- results when light is scattered from a regular array of points or lines
+			- colors result from various wavelengths of visible light that are not scattered in the same way
+	- continuous spectrum: results when white light is passed through a prism (all wavelengths)
+	- line spectrum: shows only certain discrete wavelengths
+	- only certain energies are allowed for the electron in the hydrogen atom
+		- change between two discrete energy levels emits a photon of light
+The Bohr Model
+	- expression for energy levels available in the hydrogen atom:
+		┌───────────────────────────────────┐
+		│ E = -2.178 x 10^-18 J (Z^2 / n^2) │
+		└───────────────────────────────────┘
+		- n: an integer (a large n value implies a large orbit radius)
+		- Z: the atomic number
+		- negative sign implies that the energy of the electron bound to the nuvleus is lower than it would be if the electrons were at an infinite distance from the nucleus
+	- the energy of the photon is energy of the final state - energy of initial state
+	- calculation of the wavelength of the emitted photon:
+		┌───────────────────────────────────┐
+		│                                   │
+		└───────────────────────────────────┘
+Schrödinger
+	- Schrödinger equation:
+		┌─────────┐
+		│ ĤΨ = EΨ │
+		└─────────┘
+		- Ψ: wave function
+			- function of coordinates of the electron's position in 3d space
+		- Ĥ: operator
+			- 
+Heisenberg
+	- uncertainty principle: a fundamental limitation to just how precisely we can know both the position and momentum of a particle at a given time
+		┌────────────────────┐
+		│ Δx * Δ(mv) >= h/4π │
+		└────────────────────┘

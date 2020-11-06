@@ -65,13 +65,31 @@ Heat capacity = 1648 J/K
 5.356 kJ / 0.0014 mol
 3824 kJ/mol
 
-
 76. Given the following data:
+
 P_4(s) + 6Cl(g) -> 4PCl_3(g) ΔH = -1225.6 kJ
 P_4(s) + 5O_2(g) -> P_4O_10(s) ΔH = -2967.3 kJ
 PCl_3(g) + Cl_2(g) -> PCl_5(g) ΔH = -84.2 kJ
 PCl_3(g) + 1/2O_2(g) -> Cl_3PO(g) ΔH = -285.7 kJ
 
+Calculate ΔH for the reaction:
+
+P_4O_10(s) + 6PCl_5(g) -> 10Cl_3PO(g)
+
+PCl_3(g) + 1/2O_2(g) -> Cl_3PO(g) ΔH = -285.7 kJ
+* 10
+10PCl_3(g) + 5O_2(g) -> 10Cl_3PO(g) ΔH = -2857 kJ
++
+10PCl_5(g) -> 10PCl_3(g) + 10Cl_2(g) ΔH = 84.2 kJ
+=
+5O_2(g) + 10PCl_5(g) -> 10Cl_3PO(g) + 10Cl_2(g) ΔH = -2772.8 kJ
++
+P_4O_10(s) -> P_4(s) + 5O_2(g) ΔH = 2967.3 kJ
+=
+P_4O_10(s) + 10PCl_5(g) -> 10Cl_3PO(g) + 10Cl_2(g) + P_4(s) ΔH = 194.5 kJ
+I'm not sure how to finish this
+
 83. The reusable booster rockets of the space shuttle use a mixture of aluminum and ammonium perchlorate as fuel. A possible reaction is:
 3Al(s) + 3NH_4ClO_4(s) -> Al_2O_3(s) + AlCl_3(s) + 3NO(g) + 6H_2O(g)
 Calculate ΔH° for this reaction
+I couldn't find the data for this

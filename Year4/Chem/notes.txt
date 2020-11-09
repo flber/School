@@ -248,7 +248,7 @@ The Bohr Model
 		└───────────────────────────────────┘
 		- n: an integer (a large n value implies a large orbit radius)
 		- Z: the atomic number
-		- negative sign implies that the energy of the electron bound to the nuvleus is lower than it would be if the electrons were at an infinite distance from the nucleus
+		- negative sign implies that the energy of the electron bound to the nucleus is lower than it would be if the electrons were at an infinite distance from the nucleus
 	- the energy of the photon is energy of the final state - energy of initial state
 	- calculation of the wavelength of the emitted photon:
 		┌───────────────────────────────────┐

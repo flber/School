@@ -1,0 +1,104 @@
+Ch 7 # 47, 53, 62, 67, 69, 72, 82, 85, 91, 103, 109, 115, 119
+
+47. Carbon absorbs energy at a wavelength of 150. nm. The total amount of energy emitted by a carbon sample is 1.98 x 10^5 J. Calculate the number of carbon atoms present in the sample, assuming that each atom emits one photon.
+
+E_1 = hc/λ
+E_1 = (6.626 x 10^-34 J * s) * (299,792,458 m/s) / (1.50 x 10^-7 m)
+E_1 = 1.32 x 10^-18 J
+n = 1.98 x 10^5 J / 1.32 x 10^-18 J
+n = 1.5 x 10^23
+
+53. Calculate the de Broglie wavelength for each of the following.
+
+a. an electron with a velocity of 10.% the speed of light
+
+λ = h/mv
+λ = (6.626 x 10^-34 J * s) / ((9.10938356 × 10^-31 kg) * (29,979,245.8 m/s))
+λ = 2.4 × 10^-11 m
+
+b. a tennis ball (55 g) served at 35 m/s
+
+λ = h/mv
+λ = (6.626 x 10^-34 J * s) / ((0.055 kg) * (35 m/s))
+λ = 3.446 × 10^-34 m
+
+62. Assume that a hydrogen atom's electron has been excited to the n = 5 level, How many different wavelengths of light can be emitted as this excited atom loses energy?
+
+5 wavelengths
+
+67. An excited hydrogen atom with an electron in the n = 5 state emits light having a frequency of 6.90 x 10^14 s^-1. Determine the principal quantum level for the final state in this electronic transition
+
+
+
+69. using the Heisenberg uncertainty principle, calculate Δx for each of the following.
+a. an electron with Δv = 0.100 m/s
+b. a baseball (mass = 145 g) with Δv = 0.100 m/s
+c. How does the answer in part a compare with the size of a hydrogen atom?
+d. How does the answer in part b correspond to the size of a baseball?
+
+72. Identify each of the following orbitals and determine the n and l quantum numbers. Explain your answers.
+a. n = 3, l = p; it looks like a p orbital but has 1 node
+b. n = 2, l = s; it is an s orbital, but has 1 node
+c. n = 3, l = d; it looks like a d orbital and has no apparent nodes
+
+82. Give the maximum number of electrons in an atom that can have these quantum numbers:
+a. n = 0, l = 0, m_l = 0
+0
+b. n = 2, l = 1, m_l = -2, m_s = -1/2
+1
+c. n = 3, m_s = +1/2
+10
+d. n = 2, l = 2
+10
+e. n = 1, l = 0, m_l = 0
+2
+
+85. the elements Si, Ga, As, Ge, Al, Cd, S, and Se are all used in the manufacture of various semiconductor devices. Write the expected electron configuration for these atoms.
+Si: [Ne] 3s^2 3p^2
+Ga: [Ar] 4s^2 3d^10 4p^1
+As: [Ar] 4s^2 3d^10 4p^3
+Ge: [Ar] 4s^2 3d^10 4p^2
+Al: [Ne] 3s^2 3p^1
+Cd: [Kr] 4s^2 4p^10
+S: [Ne] 3s^2 3p^4
+Se: [Ar] 4s^2 3d^10 4p^4
+
+91. Given the valence electron orbital level diagram and the description, identify the element or ion.
+a. a ground state atom:
+3s(ud) 3p(ud|u|u)
+S
+b. an atom in an excited state (assume two electrons occupy the 1s orbital)
+2s(u) 2p(ud|u|u)
+N
+c. a ground-state ion with a charge of -1
+4s(ud) 4p(ud|ud|u)
+Fe^-
+
+103. Consider the ground-state electron configurations for Li, N, Ni, Te, Ba, and Hg. Which of these atoms would be expected to be paramagnetic, and how many unpaired electrons are present in each paramagnetic atom?
+Li: 1 unpaired
+N: 1 unpaired
+
+109. In each of the following sets, which atom or ion has the smallest radius?
+a. H, He
+He
+b. Cl, In, Se
+Cl
+c. element 120, element 119, element 116
+116
+d. Nb, Zn, Si
+Si
+e. Na^-, Na, Na^+
+Na^+
+
+115. Consider the following ionization energies for aluminum:
+Al(g) -> Al^+(g) + e^-			I_1 = 580 kJ/mol
+Al^+(g) -> Al^2+(g) + e^-		I_2 = 1815 kJ/mol
+Al^2+(g) -> Al^3+(g) + e^-		I_3 = 2740 kJ/mol
+Al^3+(g) -> Al^4+(g) + e^-		I_4 = 11,600 kJ/mol
+a. account for the trend in the values of the ionization energies
+The ionization energies go up because it becomes progressively more and more difficult to remove electrons
+b. explain the large increase between I_3 and I_4
+I_4 results in Al loosing its entire 3 shell, requiring significantly more energy
+
+119. The electron affinities of the elements from aluminum to chlorine are -44, -120, -74, -200.4, and -3847 kJ/mol, respectively. Rationalize the trend in these values.
+I'm not sure. It seems as though the alternating affinities are due to the pairing of electrons, but that doesn't seem to make sense because all of the electrons from Al to P are unpaired. 

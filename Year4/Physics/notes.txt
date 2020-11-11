@@ -17,3 +17,11 @@ Uniform circular motion: motion in a circle of constant radius at a constant spe
 
 centripetal acceleration points toward the center of the circle:
 a_r = v^2 / r
+
+
+Ch 5.5
+
+Law of universal gravitation:
+
+F_g = G((m_1*m_2)/r^2)
+G = 6.67 x 10^-11 N*m^2/kg^2

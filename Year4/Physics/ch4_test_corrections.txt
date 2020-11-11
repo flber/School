@@ -1,0 +1,120 @@
+Ch 4 Test Corrections
+
+9. The figure shows a 100-kg block being released from rest from a height of 1.0 m. It then takes 0.53 s for it to reach the floor. What is the mass m of the block on the left? There is no friction or mass in the pulley, and the connecting rope is very light.
+
+mg - 100g = (100+m)a
+mg - 100g = 100a + 100m
+mg = 100a + 100m + 100g
+mg - 100m = 100a + 100g
+m(g - 100) = 100a + 100g
+m = 100(a + g) / (g - 100)
+
+1 / 0.53 s
+1.89 s^-1
+1.89 s^-1 * 1 m
+1.89 m/s
+
+v^2 = v_0^2 + 2a(x - x_0)
+(1.89 m/s)^2 = 2(a m/s^2)(-1 m)
+3.56 m^2/s^2 = 2(a m/s^2)(-1 m)
+1.78 m^s/s^2 = (a m/s^2)(-1 m)
+-1.78 m/s^2 = a
+
+m = (100a + 100g) / (g - 100)
+m = 100 kg(9.8 m/s^2 + -1.78 m/s^2) / (9.8 m/s^2 - 100 kg)
+
+a. 11 kg
+b. 14 kg
+c. 16 kg
+d. 13 kg
+
+This defeated me
+
+
+10. A 3.0-kg and a 5.0-kg box rest side-by-side on a perfectly smooth, level floor. A horizontal force of 32 N is applied to the 3.0-kg box pushing it against the 5.0-kg box, and, as a result, both boxes slide along the floor. How hard do the two boxes push against each other?
+
+Once the boxes are pushed, they stop accelerating and coast at a constant velocity. If there is no acceleration as the boxes are sliding, they are also not exerting force on each other.
+
+a. 24 N
+b. 20 N
+c. 32 N
+┌────────┐
+│ d. 0 N │
+└────────┘
+e. 12 N
+
+
+11. A person who normally weighs 700 N is riding in an elevator that is moving upward but slowing down at a steady rate. If this person is standing on a bathroom scale inside the elevator, what would the scale read?
+
+If the elevator is decelerating while moving upward, the person will experience an upward force, resulting in a weight less than 700 N
+
+a. more than 700 N
+b. 700 N
+┌────────────────────┐
+│ c. less than 700 N │
+└────────────────────┘
+d. It could be more or less than 700 N, depending on whether the magnitude of the acceleration is greater than or less than 9.8 m/s^2.
+
+
+12. A crate is sliding down an inclined ramp at a constant speed of 0.55 m/s. The vector sum of all the forces acting on this crate must point
+
+If the crate is moving at a constant velocity and is not accelerating, then the net force acting on the crate must be zero. As such, none of the options a through d are correct, as in those situations the crate would accelerate.
+
+a. up the ramp.
+b. vertically downward.
+c. perpendicular to the ramp.
+d. down the ramp.
+┌──────────────────────────────────────────┐
+│ e. None of the above choices is correct. │
+└──────────────────────────────────────────┘
+
+18. A tightrope walker walks across a 30-m long wire tied between two poles. The center of the wire is displaced vertically downward by 1.0 m when he is halfway across. If the tension in both halves of the wire at this point is 6294N what is the mass of the tightrope walker? Neglect the mass of the wire.
+
+Θ = sin^-1(1 m / 15 m)
+Θ = 3.82°
+
+6294 N / 2
+3147 N
+3147 N sin(3.82°) = T_y
+T_y = 210. N
+m_p = 210. N / 9.8 m/s^2
+m_p = 21.4 kg
+m = 21.4 kg * 2
+m = 43.0 kg
+
+a. 91 kg
+b. 85 kg
+c. 74 kg
+┌──────────┐
+│ d. 43 kg │
+└──────────┘
+
+
+20. Jason takes off across level water on his jet-powered skis. The combined mass of Jason and his skis is 75 kg (the mass of the fuel is negligible). The skis produce a forward thrust of 200 N and have a coefficient of kinetic friction with water of 0.10. Unfortunately, the skis run out of fuel after only 41 s. How far from his starting point has Jason traveled when he finally coasts to a stop?
+
+a = (200 N / 75 kg) - (0.10 * 9.8 m/s^2)
+a = 1.69 m/s^2
+
+x = x_0 + v_0t + 1/2at^2
+x_1 = 1/2 1.69 m/s^2 (41 s)^2
+x_1 = 0.843 m/s^2 * 1681 s^2
+x_1 = 1418 m
+
+v = 1.69 m/s^2 * 41
+v = 69.29 m/s
+
+v^2 = v_0^2 + 2a(x - x_0)
+0 = (69.29 m/s)^2 + 2 * 1.69 m/s^2 x
+-4801 m^2/s^2 = 2 * 1.69 m/s^2 x
+1420 m = x
+
+x_final = 1418 m + 1420 m = x
+x_final = 2838 m
+
+┌───────────┐
+│ a. 2900 m │
+└───────────┘
+a. 2900 m
+b. 3900 m
+c. 2000 m
+d. 1400 m

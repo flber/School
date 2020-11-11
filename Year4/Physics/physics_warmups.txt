@@ -228,3 +228,12 @@ The gas petal, which accelerates the car forward, the brakes, which decelerate t
 Why are astronauts aboard the space station weightless?
 
 They're weightless because they are falling at exactly the same acceleration as gravity, so to them everything is stationary.
+
+
+-- 9-Nov-2020
+
+You are on a large asteroid drifting in deep space. It has a radius of 1000 m. You have a mass of 70 kg and you discover that if you run with a velocity of 10 m/s and jump, you will orbit the asteroid. What do you weigh when you are stationary on the surface of the asteroid?
+
+F_g = mv^2/r
+F_g = (7 kg * (10 m/s)^2) / 1000 m
+F_g = 7 N

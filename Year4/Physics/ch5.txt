@@ -2,9 +2,19 @@ Ch 5 #9, 15, 16, 18, 44, 71, 73, 78, and 84
 
 9. What is the maximum speed with which a 1200-kg car can round a turn of radius 90.0 m on a flat road if the coefficient of friction between the tires and the road is 0.65? Is the result dependent on the mass of the car?
 
+(1200 kg v^2) / 90.0 m = 1200 kg * 9.8 m/s^2 * 0.65
+v^2 / 90.0 m = 6.37 m/s^2
+v^2 = 573.3 m^2/s^2
+v = 24 m/s
 
 
 15. A coin is placed 13.0 cm from the axis of a rotating turntable of variable speed. When the speed of the turntable is slowly increased, the coin remains fixed on the turntable until a rate of 38.0 rpm is reached, at which point the coin slides off. What is the coefficient of static friction between the coin and the turntable?
+
+38.0 rpm / 60 s/min
+0.63 rps
+0.63 rps * 2 pi 0.130 m
+0.52 m/s
+
 
 16. The design of a new road includes a straight stretch that is horizontal and flat but suddenly dips down a steep hill at 18°. The transition should be rounded with what minimum radius so that cars traveling 95 km/h will not leave the road?
 

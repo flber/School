@@ -84,3 +84,21 @@ A day would be 1.41 hours
 
 84. The sun revolves around the center of the milky way galaxy at a distance of about 30,000 light years from the center (11 y = 9.5 x 10^15 m). If it takes about 200 million years to make one revolution, estimate the mass of our galaxy. Assume that the mass distribution of our galaxy is concentrated mostly in a central uniform sphere. If all the stars had about the mass of our sun (2 x 10^30 kg), how many stars would there be in our galaxy?
 
+1/200,000,000 rpy / 31,536,000 s/y
+1.5855 x 10^-16 rps
+1.5855 x 10^-16 rps * 2 pi 9.5 x 10^15 m
+9.464 m/s
+
+(9.464 m/s)^2 / 9.5 x 10^15 m = a
+a = 89.57 m^2/s^2 / 9.5 x 10^15 m
+a = 9.428 x 10^-15 m/s^2
+
+9.428 x 10^-15 m/s^2 = G(M)/(9.5 x 10^15 m)^2
+9.428 x 10^-15 m/s^2 / M = G / (9.5 x 10^15 m)^2
+m = G / (9.5 x 10^15 m)^2 * 9.428 x 10^-15 m/s^2
+m = (9.5 x 10^15 m)^2 * 9.428 x 10^-15 m/s^2 / 6.67 x 10^-11 N*m^2/kg^2
+m = 1.276 x 10^28 kg
+
+1.276 x 10^28 kg / 2 x 10^30 kg
+0.00638 suns?
+I know this doesn't make sense, but I really can't find the error

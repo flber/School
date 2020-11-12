@@ -15,17 +15,72 @@ v = 24 m/s
 0.63 rps * 2 pi 0.130 m
 0.52 m/s
 
+(0.52 m/s)^2 / 0.13 m = 9.8 m/s^2 * μ
+μ = (0.52 m/s)^2 / (0.13 m * 9.8 m/s^2)
+μ = 0.27 m^s/s^2 / 1.27 m^2/s^2
+μ = 0.210
+
 
 16. The design of a new road includes a straight stretch that is horizontal and flat but suddenly dips down a steep hill at 18°. The transition should be rounded with what minimum radius so that cars traveling 95 km/h will not leave the road?
 
+95 km/h / 3.6 m/s/km/h
+26.39 m/s
+
+(26.39 m/s)^2 / r = 9.8 m/s^2
+1/r = 9.8 m/s^2 / (26.39 m/s)^2
+r = (26.39 m/s)^2 / 9.8 m/s^2
+r = 696.43 m^2/s^2 / 9.8 m/s^2
+r = 71 m
+
+
 18. Tarzan plans to cross a gorge by swinging in an arc from a hanging vine. If his arms are capable of exerting a force of 1150 N on the vine, what is the maximum speed he can tolerate at the lowest point of his swing? His mass is 78 kg and the vine is 4.7 m long.
+
+(78 kg * v^2) / 4.7 m = 1150 N
+v^2 / 4.7 m = 14.74 m/s^2
+v^2 = 69.29 m^2/s^2
+v = 8.3 m/s
+
 
 44. A certain neutron star has five times the mass of our sun packing into a sphere about 10 km in radius. Estimate the surface gravity on this monster.
 
+a = G(1 x 10^31 kg)/(10000 m)^2
+a = 6.67 x 10^-11 N*m^2/kg^2 * 10^31 kg / 100000000 m
+a = 6.67 x 10^-11 N*m^2/kg^2 * 10^23 kg/m
+a = 6.67 x 10^12 N*m/kg
+a = 6.67 x 10^12 m/s^2 (?)
+
+
 71. In a rotor-ride at a carnival, people rotate in a vertical cylindrically walled room. If the room radius is 5.5 m, and the rotation frequency 0.50 revolutions per second when the floor drops out, what minimum coefficient of static friction keeps the people from slipping down? People on this ride said they were pressed against the wall. Is there really an outward force pressing them against the wall? If so , what is its source? If not, what is the proper description of their situation?
+
+0.50 rps * 2 pi 5.5 m
+2.75 m/s
+
+(2.75 m/s)^2 / 5.5 m = 9.8 m/s^2 * μ
+μ = (2.75 m/s)^2 / (5.5 m * 9.8 m/s^2)
+μ = 7.56 m^s/s^2 / 53.9 m^2/s^2
+μ = 0.14
+
 
 73. At what minimum speed must a roller coaster be traveling so that passengers upside down at the top of the circle do not fall out? Assume a radius of 8.6 m.
 
+v^2 / 8.6 m = 9.8 m/s^2
+v^2 = 84.28 m^2/s^2
+v = 9.2 m/s
+
+
 78. How long would a day be if the Earth were rotating so fast that objects at the equator were apparently weightless?
 
+v^2 / 6,378,000 m = 9.8 m/s^2
+v^2 = 62504400 m^2/s^2
+v = 7906 m/s
+40,075,000 m / 7906 m/s
+5069 s
+5069 s / 60 min/s
+84.5 min
+84.5 min / 60 hr/min
+1.41 hr
+A day would be 1.41 hours
+
+
 84. The sun revolves around the center of the milky way galaxy at a distance of about 30,000 light years from the center (11 y = 9.5 x 10^15 m). If it takes about 200 million years to make one revolution, estimate the mass of our galaxy. Assume that the mass distribution of our galaxy is concentrated mostly in a central uniform sphere. If all the stars had about the mass of our sun (2 x 10^30 kg), how many stars would there be in our galaxy?
+

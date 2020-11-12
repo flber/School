@@ -1,5 +1,58 @@
 Gravity Worksheet
 
+2. In 1998 NASA launched the Mars Climate Orbiter in an attempt to gain knowledge about the weather patterns on Mars. The intended altitude of the M.C.O. was 140km, however, due to a “navigational error” the $100 million robotic spacecraft entered the Martian atmosphere and attempted to orbit at an altitude of 57km. The orbiter disintegrated within minutes of entering the atmosphere due to intense frictional stresses caused by air drag. Calculate the intended orbital velocity of the M.C.O. (at an altitude of 140km) above the Martian surface.
+
+h = 1.40 x 10^5 m
+r_mars = 3.38 x 10^6 m
+m_mars = 6.39 x 10^23 kg
+r = r_mars + h
+r = 3.52 x 10^6 m
+
+v^2 / r = Gm_mars / r^2
+v^2 = Gm_mars / r
+v = sqrt(Gm_mars / r)
+v = sqrt(6.67 x 10^-11 N*m^2/kg^2 * 6.39 x 10^23 kg / 3.52 x 10^6 m)
+v = 3.48 x 10^3 m/s
+
+
+3. The Pioneer Venus Orbiter was a NASA project that was launched in 1978. It followed a near circular orbit and had an orbital velocity of 3,074.5m/s. Perform an Internet search for the mass of Venus and other relevant information to calculate the altitude this satellite must have had.
+
+v = 3.074.5 m/s
+m_v = 4.867 x 10^24 kg
+r_v = 6.051 x 10^6 m
+
+v^2 / r = Gm_v / r^2
+r = Gm_v / v^2
+r = 6.67 x 10^-11 N*m^2/kg^2 * 4.867 x 10^24 kg / (3.074.5 m/s)^2
+r = 3.434 x 10^7 m
+
+h = 3.434 x 10^7 m - 6.051 x 10^6 m
+h = 2.83 x 10^7 m
+
+
+4. The Geostationary Operational Environmental Satellites (GOES) was launched in 2010 and provides cutting edge information regarding weather patterns for the United States. It has a near circular orbit, a period of 23 hours and 56 minutes, and is at an altitude of 35,780km. Determine the tangential velocity of GOES.
+
+T = 24 hr 56 min
+h = 3.578 x 10^4 m
+m_earth = 5.98 x 10^24 kg
+r_earth = 6.38 x 10^6 m
+
+r = r_earth + h
+r = 6.42 x 10^6 m
+
+v^2 / r = Gm_earth / r^2
+v = sqrt(Gm_earth / r)
+v = sqrt(6.67 x 10^-11 N*m^2/kg^2 * 5.98 x 10^24 kg / 6.42 x 10^6 m)
+v = 7882 m/s
+
+
+5. Mars is 228 million kilometers from the sun, on average. Use the Earth’s average distance from the sun and the accepted orbital period (365.25 days) to calculate the length of a Martian year (in Earth days).
+
+(365.25 / T)^2 = (1.48 x 10^11 / 2.28 x 10^11 m)^3
+t = 365.25 / sqrt((1.48 x 10^11 m / 2.28 x 10^11 m)^3)
+t = 698.39 days
+
+
 6. Determine the height above the Earth’s surface a geostationary communications satellite must orbit. (Hint: You’ll need to know the mass of Earth as well as the radius of Earth)
 
 T = 2pi sqrt(r^3 / (Gm_planet))
@@ -13,3 +66,15 @@ r_0 = cubrt(Gm_planet(T / 2pi)^3)
 
 r_a = cubrt(Gm_planet(T / 2pi)^3) - 6.38 x 10^6 m
 r_a = cubrt(6.67 x 10^-11 N*m^2/kg^2 * 5.98 x 10^24 kg * (86,400 s / 2pi)^3) - 6.38 x 10^6 m
+r_a = 3.59 x 10^7 m
+
+
+7. A black hole occurs when a star’s mass collapses into a single point. A super massive black hole has a mass of 1.15 x 10^9 solar masses. Calculate your orbital radius if you could achieve a velocity of the speed of light (3.00 x 10^8 m/s). Would you expect light to orbit at the same radius?
+
+M_bh = (1.15 x 10^9)(1.99 x 10^30 kg)
+v = 2.9979 x 10^8 m/s
+
+mv^2 / r = GM_bh / r^2
+r = GM_bh / v^2
+r = 6.67 x 10^-11 N*m^2/kg^2 * (1.15 x 10^9)(1.99 x 10^30 kg) / (2.9979 x 10^8 m/s)^2
+r = 1.70 x 10^12 m

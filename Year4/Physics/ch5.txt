@@ -1,0 +1,21 @@
+Ch 5 #9, 15, 16, 18, 44, 71, 73, 78, and 84
+
+9. What is the maximum speed with which a 1200-kg car can round a turn of radius 90.0 m on a flat road if the coefficient of friction between the tires and the road is 0.65? Is the result dependent on the mass of the car?
+
+
+
+15. A coin is placed 13.0 cm from the axis of a rotating turntable of variable speed. When the speed of the turntable is slowly increased, the coin remains fixed on the turntable until a rate of 38.0 rpm is reached, at which point the coin slides off. What is the coefficient of static friction between the coin and the turntable?
+
+16. The design of a new road includes a straight stretch that is horizontal and flat but suddenly dips down a steep hill at 18°. The transition should be rounded with what minimum radius so that cars traveling 95 km/h will not leave the road?
+
+18. Tarzan plans to cross a gorge by swinging in an arc from a hanging vine. If his arms are capable of exerting a force of 1150 N on the vine, what is the maximum speed he can tolerate at the lowest point of his swing? His mass is 78 kg and the vine is 4.7 m long.
+
+44. A certain neutron star has five times the mass of our sun packing into a sphere about 10 km in radius. Estimate the surface gravity on this monster.
+
+71. In a rotor-ride at a carnival, people rotate in a vertical cylindrically walled room. If the room radius is 5.5 m, and the rotation frequency 0.50 revolutions per second when the floor drops out, what minimum coefficient of static friction keeps the people from slipping down? People on this ride said they were pressed against the wall. Is there really an outward force pressing them against the wall? If so , what is its source? If not, what is the proper description of their situation?
+
+73. At what minimum speed must a roller coaster be traveling so that passengers upside down at the top of the circle do not fall out? Assume a radius of 8.6 m.
+
+78. How long would a day be if the Earth were rotating so fast that objects at the equator were apparently weightless?
+
+84. The sun revolves around the center of the milky way galaxy at a distance of about 30,000 light years from the center (11 y = 9.5 x 10^15 m). If it takes about 200 million years to make one revolution, estimate the mass of our galaxy. Assume that the mass distribution of our galaxy is concentrated mostly in a central uniform sphere. If all the stars had about the mass of our sun (2 x 10^30 kg), how many stars would there be in our galaxy?

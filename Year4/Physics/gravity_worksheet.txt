@@ -1,0 +1,15 @@
+Gravity Worksheet
+
+6. Determine the height above the Earth’s surface a geostationary communications satellite must orbit. (Hint: You’ll need to know the mass of Earth as well as the radius of Earth)
+
+T = 2pi sqrt(r^3 / (Gm_planet))
+
+T = 86,400 s
+m_planet = 5.98 x 10^24 kg
+
+(T / 2pi)^2 = r^3 / (Gm_planet)
+Gm_planet(T / 2pi)^3 = r^3
+r_0 = cubrt(Gm_planet(T / 2pi)^3)
+
+r_a = cubrt(Gm_planet(T / 2pi)^3) - 6.38 x 10^6 m
+r_a = cubrt(6.67 x 10^-11 N*m^2/kg^2 * 5.98 x 10^24 kg * (86,400 s / 2pi)^3) - 6.38 x 10^6 m

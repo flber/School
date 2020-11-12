@@ -237,3 +237,15 @@ You are on a large asteroid drifting in deep space. It has a radius of 1000 m. Y
 F_g = mv^2/r
 F_g = (7 kg * (10 m/s)^2) / 1000 m
 F_g = 7 N
+
+
+-- 11-Nov-2020
+
+An asteroid orbits the sun with a period of 510 days. What is its average distance from the sun? Hint: the distance between the earth and the sun is 1.49 x 10^11 m.
+
+(365.25 / 510)^2 = (1.49 x 10^11 m / d)^3
+0.513 = 3.31 x 10^33 m^3 / d^3
+d^3 * 0.513 = 3.31 x 10^33 m^3
+d^3 = 3.31 x 10^33 m^3 / 0.513
+d^3 = 2.45 x 10^33
+d = 1.86 x 10^11

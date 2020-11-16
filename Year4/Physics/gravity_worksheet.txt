@@ -1,5 +1,20 @@
 Gravity Worksheet
 
+1. Isaac Newton thought that the tangential velocity of a cannon ball orbiting Earth just above the surface would be about 8km/s. Prove or disprove his conjecture by calculating the speed of a projectile in a circular orbit 100m above the Earth’s surface. Do not consider the cannon ball to be geosynchronous!
+
+h = 100 m
+m_earth = 5.98 x 10^24 kg
+r_earth = 6.38 x 10^6 m
+r = r_earth + h
+r = 6380100 m
+
+v^2 / r = Gm_earth / r^2
+v^2 = Gm_earth / r
+v = sqrt(Gm_earth / r)
+v = sqrt(6.67 x 10^-11 N*m^2/kg^2 * 5.98 x 10^24 kg / 6380100 m)
+v = 7.907 x 10^3 m/s
+
+
 2. In 1998 NASA launched the Mars Climate Orbiter in an attempt to gain knowledge about the weather patterns on Mars. The intended altitude of the M.C.O. was 140km, however, due to a “navigational error” the $100 million robotic spacecraft entered the Martian atmosphere and attempted to orbit at an altitude of 57km. The orbiter disintegrated within minutes of entering the atmosphere due to intense frictional stresses caused by air drag. Calculate the intended orbital velocity of the M.C.O. (at an altitude of 140km) above the Martian surface.
 
 h = 1.40 x 10^5 m

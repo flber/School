@@ -249,3 +249,17 @@ d^3 * 0.513 = 3.31 x 10^33 m^3
 d^3 = 3.31 x 10^33 m^3 / 0.513
 d^3 = 2.45 x 10^33
 d = 1.86 x 10^11
+
+
+-- 16-Nov-2020
+
+You are adrift in deep space. You notice a small spacecraft the size of a gold ball 1.0 m away from you. The spacecraft is in a uniform circular orbit around you. How long will it take to complete one orbit if your mass is 100 kg.
+
+v = sqrt(G((m_1)/r))
+v = sqrt(6.67 x 10^-11 N*m^2/kg^2 * 100 kg / 1 m)
+v = sqrt(6.67 x 10^-9 m^2/s^2)
+v = 0.0000816701 m/s
+
+t = 2pi m / 0.0000816701 m/s
+t = 76933.7 s
+t = 21.37 hr

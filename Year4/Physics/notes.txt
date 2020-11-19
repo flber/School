@@ -25,3 +25,7 @@ Law of universal gravitation:
 
 F_g = G((m_1*m_2)/r^2)
 G = 6.67 x 10^-11 N*m^2/kg^2
+
+v = sqrt(Gm/r)
+
+mv^2/r = Gm*m_2/r^2

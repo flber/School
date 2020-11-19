@@ -1,5 +1,6 @@
 Panel Presentations on Pandemic
 
+
 Panel Topic: Testing
 Members: Maya, Alexandra, Malcolm
 Major Points:
@@ -9,6 +10,7 @@ Major Points:
 Overall critique: concise presentation which effectively communicated ideas
 What needed improvements: not much
 
+
 Panel Topic: School reopening
 Members: Patrick, Griffin, Jack, Jack
 Major Points:
@@ -17,3 +19,15 @@ Major Points:
 Overall critique: pretty information dense, but good content
 What needed improvements: could have done with some reduction in the amount of text
 
+
+Panel Topic: Possible Vaccine
+Members: Kanoa, Aneesh, Chase, Isaac
+Major Points:
+	- Pfizer announced 90% effectiveness
+	- Government funding w/ $1.95 billion 
+	- Scientists call for long-term studies
+	- Vaccine may be difficult to distribute
+	- High-risk may get the vaccine in January
+	- Pfizer, Johnson & Johnson, and AstraZeneca are closest
+Overall critique: provided good information, but was dense
+What needed improvements: could have done with reducing slide text content

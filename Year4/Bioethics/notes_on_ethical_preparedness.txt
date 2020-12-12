@@ -19,3 +19,41 @@ Notes on Article from Markkula Center For Applied Ethics: "Ethical Preparedness 
 - VA
 	- duty to provide care for patients even at personal risk
 	- employer's duty to provide decent work environment
+- Obligation to plan
+	- planning leads to better (more ethical) action
+	- plan must:
+		- maximise preparedness
+		- be implemented fairly
+		- be open and transparent
+- Alternative Care Centers
+	- pandemic will last a long time
+	- planning also involves assumptions about core values
+- Triage Guidelines
+	- rationing must minimize harm
+	- procedural justice
+		- requires protocol developed to provide guidance
+		- maximize help for people
+		- most at risk should be helped most
+	- distributive justice
+		- many ways to prioritize aid
+		- can save most people, but difficult to implement
+		- utilitarianism can lead to injustice
+		- CDC recommends modulating pure utilitarianism
+		- second goal is to minimize suffering of impacted
+- Applying Principles of Justice
+	- admission and denial of admission
+	- first come, first serve has issues
+	- minimize health and social impacts
+	- prioritize essential personnel may be best
+	- process should be transparent and open to input
+- Restrictive Measures
+	- autonomy can be restricted when minimizes risk of harm
+	- such decisions weigh freedom against common good
+	- isolation should only happen w/ scientific oversight
+	- evidence-based model
+	- plans should be made in advance
+- Next Step
+	- framework should be developed
+	- decisions should be heavily reviewed
+	- should also address how to keep society functioning
+	- issues need to be publicly vetted before a crisis

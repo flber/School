@@ -268,3 +268,16 @@ Heisenberg
 		┌────────────────────┐
 		│ Δx * Δ(mv) >= h/4π │
 		└────────────────────┘
+
+Ch 12
+
+Reaction rates
+	- change in concentration per unit of time
+	- rate of reactants always decreases (negative)
+	- rate decreases with time
+	- aroc: slope of tangent line
+	- rates are based on stoichiometry
+	- differential rate law
+		- rate depends on concentration of reactant
+	- integrated rate law
+		- concentration based on time

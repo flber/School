@@ -1,0 +1,16 @@
+Related Rate Problem
+
+Beach sand is poured created a cone whose radius is always equal to twice its height. If the sand is poured at a rate of 20 in^3/sec, how fast is the height changing at the time of the two heights
+
+V = (pi r^2 h)/3
+V = (pi (2h)^2 h)/3
+dV/dt = d/dt((pi (2h)^2 h)/3)
+dV/dt = 4 pi h^2 dh/dt
+
+a. 2 inches
+20 in^3/sec = 4 pi (2in)^2 dh/dt
+dh/dt = 0.398 in/sec
+
+b. 6 inches
+20 in^3/sec = 4 pi (6in)^2 dh/dt
+dh/dt = 0.0442 in/sec

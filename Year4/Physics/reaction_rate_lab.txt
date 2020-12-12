@@ -1,0 +1,35 @@
+what is the concentration of [H_2O_2] in moles/liter?
+
+(0.03)(1000g/L)(1/34.0g/mol)
+0.882 M
+
+how much O_2 is released for 6 mL
+
+(0.882 M)(1 O_2/2H_2O_2)(0.0060 L) = 2.64 x 10^-3 mol O_2
+
+(need correction factor)
+PartialPressure_[H_2O] = 0.0231 atm
+
+V = nRT/P = (2.65 x 10^-3)(0.08206)(293 K) / (1.0 atm - 0.0231 atm)
+6.52 x 10^-2 L
+
+final volume should be 65.2 mL
+
+[H_2O_2] = 0.882 M - (2 * V_o2 * (0.977 atm)) / RT(0.0060 L)
+		   ^^^^^^^ 	 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^	
+		   initial moles				       current moles
+
+make plots
+
+if [H_2O_2] vs time is linear -> zero order
+if ln[H_2O_2] vs time is linear -> 1st order
+if 1/[H_2O_2] vs time is linear -> second order
+
+slope in linear case is k
+
+can use final volume to find initial molarity 
+
+k as a function of T to find activation energy
+
+lnK = (-E_a/R)(1/T) + lnA
+R = 8.32 J/K

@@ -1,0 +1,54 @@
+Ch 12 # 23, 28, 29, 32, 40, 43, 45, 84
+
+23. 
+
+0.0024 mol/s / 4
+P_4 rate: 0.0006 mol/s
+
+0.0024 * 1.5
+H_2 rate: 0.0036 mol/s
+
+
+28. 
+
+units of k: M^-1 s^-1
+
+
+29. 
+
+a. the rate law is k[A]
+
+b. what is the rate constant
+
+0.18 = k[0.10]
+k = 1.8
+
+
+
+32. 
+rate law: k[A]
+2.26 x 10^-3 = k[0.190]
+k = 0.0120
+
+40. 
+a. 
+rate law: k[a]^2
+integrated rate law: 1/[A] = kt + 1/[A]_0
+3.60 x 10^-2 = k[2.80 x 10^-3]^2
+k = 4590
+rate constant: 4590
+
+b. 
+t_1/2 = 1/k[A]_0
+t_1/2 = 0.778
+
+c. 
+
+
+43. 
+I just really don't understand these
+
+
+45. 
+
+84. 

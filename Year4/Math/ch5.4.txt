@@ -1,0 +1,80 @@
+Ch 5.4 # 1, 5, 9, 12, 17, 20
+
+2nd derivative negative = concave down
+
+1. The sum of two nonnegative numbers is 20. Find the numbers if
+
+a. the sum of their squares is as large as possible; as small as possible
+10, 10; 20, 0
+
+b. one number plus the square root of the other is as large as possible; as small as possible
+f(x) = sqrt(x) + 20 - x
+f'(x) = 1/2sqrt(x) - 1
+
+1 = 1/2sqrt(x)
+1/2 = sqrt(x)
+x = 1/4
+
+f''(x) = -1/4x^(3/2)
+f''(1/4) = negative
+
+max: 1/4
+min: 20
+
+
+5. The figure shows a rectangle inscribed in an isosceles right triangle whose hypotenuse is 2 units long.
+
+              │A
+            .'│'.
+          .'  │  '.
+        .'    │    '.P(x, ?)
+      .'┌─────┼─────┐'.
+    .'  │     │     │  '.B
+   ─┼───┴─────┼─────┴───┼─
+   -1         0     x   1
+
+a. express the y-coordinate of P in terms of x [hint: write a formula for line AB]
+b. express the area of the rectangle in terms of x
+c. What is the largest area the rectangle can have, and what are its dimensions
+
+
+9. A rectangular plot of farmland will be bounded on one side by a river and on the other three sides by a single-strand electric fence. With 800 m of wire at your disposal, what is the largest area you can enclose, and what are its dimensions
+800 / 3
+266 m
+(266 m)^2
+71,111 m^s, 266 m x 266 m
+
+
+12. A 1125-ft^3 open-top rectangular tank with a square base x ft on a side and y ft deep is to be built with its top flush with the ground to catch runoff water. The costs associated with the tank involve not only the material from which the tank is made but also an excavation charge proportional to the product xy. 
+
+a. if the total cost is
+c = 5(x^2 + 4xy) + 10xy
+what values of x and y will minimize it?
+
+b. give a possible scenario for the cost function
+
+
+17. You are designing a 1000 cm^3 right circular cylindrical can whose manufacture will take waste into account. There is no waste in cutting the aluminum for the side, but the top and bottom radius r will be cut from squares that measure 2r units on a side. The total amount of aluminum used up by the can will therefore be
+A = 8r^2 + 2 pi r h
+In example 4 the ratio of h to r for the most economical can was 2 to 1. What is the ratio now?
+
+
+20. Jan is 2 mi offshore in a boat and wishes to reach a coastal village 6 mi down a straight shoreline from the point nearest the boat. She can row 2 mph and walk 5 mph. Where should she land her boat to reach the village in the least amount of time?
+
+d_w = 6 - x
+d_r = sqrt(4 + x^2)
+
+t_w = (6 - x) / 5
+t_r = sqrt(4 + x^2) / 2
+
+f(x) = (6 - x) / 5 + sqrt(4 + x^2) / 2
+f(x) = 6/5 - 1/5 x + 1/2 sqrt(4 + x^2)
+f'(x) = -1/5 + x / (2 sqrt(4 + x^2))
+
+1/5 = x / (2 sqrt(4 + x^2))
+5x = 2 sqrt(4 + x^2)
+25x^2 = 4(4 + x^2)
+25x^2 = 16 + 4x^2
+21x^2 = 16
+x^2 = 0.762
+x = 0.873

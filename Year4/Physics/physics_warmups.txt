@@ -263,3 +263,22 @@ v = 0.0000816701 m/s
 t = 2pi m / 0.0000816701 m/s
 t = 76933.7 s
 t = 21.37 hr
+
+
+-- 19-Nov-2020
+
+The USS New Jersey was fitted with nine 16" guns with a length of 20. m capable of firing a 1200 kg shell at 760 m/s. a) What is the average force exerted on the shell during firing? b) In 1962 the USS New Jersey was armed with nuclear shells, each with a mass of 860 kg.
+
+
+v^2 = v_0^2 + 2a(x - x_0)
+(760 m/s)^2 = 2a(20 m)
+577600 m^2/s^2 = a 40m
+14440 m/s^2 = a
+
+f = 14440 m/s^2 * 1200 kg
+f = 1.7 x 10^7 N
+
+1.7 x 10^7 N * 20 m = 860 kg * v^2 / 2
+2(1.7 x 10^7 N * 20 m) / 860 kg = v^2
+v = sqrt(2(1.7 x 10^7 N * 20 m) / 860 kg)
+v = 890 m/s

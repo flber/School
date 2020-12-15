@@ -79,7 +79,7 @@
 	\end{figure}
 	
 	\paragraph{Description}
-	
+	Similar to the inclined plane and wedge, the screw translates a rotational force $F_1$ over a rotated distance $d_1$ into a larger vertical force $F_2$ over a shorter vertical distance $d_2$. In some cases this application of force is used to move the screw into a material (in which case the edges of the screw are functioning as wedges), but in others it is used to raise an object, such as with grain elevators or the Archimedes screw.
 
 	
 	\section{Energy Storage}
@@ -87,17 +87,98 @@
 
 	\subsection{Mouse Trap}
 	For this device, also estimate the velocity of the end of the bar when the trap is triggered.
-	\paragraph{Experimental Design:}
+	\paragraph{Experimental Design:} The mouse trap was set perpendicular to the ground, and a force gauge was used to measure how much force it took to move the spring loaded bar to parallel with the ground, or at a 90$^{\circ}$ angle to the mouse trap. This force was then used in subsequent calculations to find the spring constant, potential energy, and velocity.
 	\paragraph{Data:}
-	\paragraph{Calculations:}
+	\begin{flushleft}
+	\begin{tabular}{ l|l }
+		test & force \\
+		\hline
+		1 & 0.50 kg \\
+		2 & 0.57 kg \\
+		3 & 0.59 kg \\
+		4 & 0.58 kg \\
+		5 & 0.55 kg \\
+		avg. & 0.558 kg \\
+	\end{tabular}
+	\end{flushleft}
+	Radius of spring arc: 4.5 cm or 0.045 m
+	\paragraph{Calculations:} The first step was to calculate the spring constant from the experimentally found force and distance . This was done first by calculating the arc length of the spring arm to 90$^{\circ}$:
+	\begin{equation}
+		s = r\theta
+	\end{equation}
+	$$ s = 0.045 \text{ m} * \frac{1}{2}\pi $$
+	$$ s = 0.07069 \text{ m} $$
+	With the distance and force now known, the spring constant $k$ was solved for from the Hooke's Law equation
+	\begin{equation}
+		F = kx
+	\end{equation}
+	$$ \frac{0.558 \text{ kg}}{9.8 \text{ m/s}^2} = \\
+	k * 0.07069 \text{ m} $$
+	$$ 0.05694 \text{ N} = k * 0.07069 \text{ m} $$
+	$$ k = \frac{0.05694 \text{ N}}{0.07069 \text{ m}} $$
+	$$ k = 0.8055 \text{ N/m} $$
+	Using this spring constant, the elastic potential energy can be solved for with the equation
+	\begin{equation}
+		PE = \frac{1}{2}kx^2
+	\end{equation}
+	and a new arc length
+	$$ s = 0.045 \text{ m} * \pi $$
+	$$ s = 0.1414 \text{ m} $$
+	With known values substituted, the potential energy is solved as follows:
+	$$ PE = \frac{1}{2}(0.8055\text{ N/m})(0.1414\text{ m})^2 $$
+	$$ PE = 0.4048\text{ N/m} * 0.01999\text{ m}^2 $$
+	$$ PE = 0.0081\text{ Nm} = 0.0081\text{ J} $$
+	The velocity of the trap when it is triggered can also now be calculated with the equation for kinetic energy 
+	
 	
 	\subsection{Constant Acceleration Cars}
 	For this device determine both the energy required to fully "charge" the car and the kinetic energy of the car when it is released. The percent efficiency of the device is the energy released divided by the energy required to charge it multiplied by 100.
-	\paragraph{Experimental Design:}
+	\paragraph{Experimental Design:} The car was fully wound up, and placed on an inclined surface. The surface's angle was then slowly lowered until the car accelerated, and then that angle was measured. The mass of the car was also measured. Separately, the distance it took to wind the car was measured. The time it took to unwind that distance was also recorded.
 	\paragraph{Data:}
-	\paragraph{Calculations:}
+	\begin{flushleft}
+	\begin{tabular}{ l|l }
+		angle & 5$^{\circ}$ \\
+		\hline
+		mass of car & 0.11437 kg \\
+		\hline
+		winding dist. & 0.40 m \\
+		\hline
+		time to unwind & 7 s \\
+	\end{tabular}
+	\end{flushleft}
+	\paragraph{Calculations:} By finding the force of gravity acting on the car at a 5$^{\circ}$ angle, the force of the spring can also be found:
+	\begin{equation}
+		F = mg \sin(\theta)
+	\end{equation}
+	$$ F = 0.11437 \text{ kg} * 9.8 \text{ m/s}^2 * \sin(5) $$
+	$$ F = 0.09769 \text{ N} $$
+	Then, by multiplying the force by the winding distance, the potential energy was found
+	$$ PE = 0.09769 \text{ N} * 0.40 \text{ m} $$
+	$$ PE = 0.03908 \text{ J} $$
+	The average velocity of the car was found through the equation
+	\begin{equation}
+		\bar{v} = \frac{\Delta t}{\Delta x}
+	\end{equation}
+	$$ \bar{v} = \frac{0.40 \text{ m}}{7 \text{ s}} $$
+	$$ \bar{v} = 0.5714 \text{ m/s} $$
+	the result of which was then multiplied by two to find the final velocity:
+	$$ v_f = 2 * 0.5714 \text{ m/s} $$
+	$$ v_f = 0.1143 \text{ m/s} $$
+	With that velocity, the kinetic energy was found
+	\begin{equation}
+		KE = \frac{1}{2}mv^2
+	\end{equation}
+	$$ KE = \frac{1}{2} 0.11437 \text{ kg} (0.1143 \text{ m/s})^2 $$
+	$$ KE = 0.05719 \text{ kg} 0.01306 \text{ (m/s)}^2 $$
+	$$ KE = 7.471 \times 10^-4 \text{ J} $$
+	The efficiency was then found through
+	\begin{equation}
+		\text{efficiency} = \frac{KE}{PE}*100\%
+	\end{equation}
+	$$ \text{efficiency} = \frac{7.471 \times 10^-4 \text{ J}}{0.3908 \text{ J}}*100\% $$
+	$$ \text{efficiency} = 1.912\% $$
 	
-	\subsection{Household Item}
+	\subsection{Household Item (Rubber Band)}
 	Experimentally determine the energy stored in the device and the device's efficiency.
 	\paragraph{Experimental Design:}
 	\paragraph{Data:}
@@ -105,8 +186,53 @@
 	
 	\subsection{Nerf Gun}
 	Experimentally determine the work required to fully charge the Nerf Gun, the kinetic energy of the projectile, and the Nerf Gun's efficiency.
-	\paragraph{Experimental Design:}
+	\paragraph{Experimental Design:} The force required to pull back the action was measured, as well as the distance it was pulled. The Nerf Gun was then placed at 0$^{\circ}$ and 0.36 m above the ground, and was fired, ten times to find an average.
 	\paragraph{Data:}
+	\begin{flushleft}
+	\begin{tabular}{ l|l }
+		force & 10. N \\
+		\hline
+		distance & 0.017 m \\
+		\hline
+		action dist. & 0.054 m
+	\end{tabular} \\
+	\begin{tabular}{ l|l }
+		test & distance \\
+		\hline
+		1 & 1.65 m \\
+		2 & 1.73 m \\
+		3 & 1.79 m \\
+		4 & 1.81 m \\
+		5 & 1.87 m \\
+		6 & 1.96 m \\
+		7 & 1.98 m \\
+		8 & 2.00 m \\
+		9 & 2.06 m \\
+		10 & 2.15 m \\
+		avg. & 1.900 m \\
+	\end{tabular}
+	\end{flushleft}
 	\paragraph{Calculations:}
+	With the distance and force known, the spring constant $k$ was solved for from the Hooke's Law equation
+		\begin{equation}
+			F = kx
+		\end{equation}
+		$$ 10. N = k * 0.017 \text{ m} $$
+		$$ k = \frac{10. \text{ N}}{0.017 \text{ m}} $$
+		$$ k = 588.2 \text{ N/m} $$
+		Using this spring constant, the elastic potential energy can be solved for with the equation
+		\begin{equation}
+			PE = \frac{1}{2}kx^2
+		\end{equation}
+		and the total distance of the action
+		$$ PE = \frac{1}{2}(588.2\text{ N/m})(0.054\text{ m})^2 $$
+		$$ PE = 294.1\text{ N/m} * 0.002916\text{ m}^2 $$
+		$$ PE = 0.8576\text{ Nm} = 0.8576\text{ J} $$
+		The time the dart took to drop was solved with the 2d motion equation
+		\begin{equation}
+			t = \sqrt{2 * \frac{x}{9.8\text{ m/s}^2}}
+		\end{equation}
+		$$ t = \sqrt{2 * \frac{0.36\text{ m}}{9.8\text{ m/s}^2}} $$
+		$$ t =  0.27\text{ s} $$
 	
 \end{document}

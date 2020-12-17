@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=latex 2020.12.6)  16 DEC 2020 00:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=latex 2020.12.6)  16 DEC 2020 20:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -160,14 +160,31 @@ LaTeX Font Info:    ... okay on input line 18.
 
 [1
 
-] [2] [3] [4] [5] (./final.aux) ) 
+]
+File: images/selfie.EPS Graphic file (type eps)
+ <images/selfie.EPS> [2] [3] [4] [5]
+File: images/lnMvstime225.EPS Graphic file (type eps)
+ <images/lnMvstime225.EPS> [6]
+File: images/lnmvstime50.EPS Graphic file (type eps)
+
+<images/lnmvstime50.EPS>
+File: images/initial_scatter.EPS Graphic file (type eps)
+ <images/initial_scatter.EPS> [7]
+File: images/second_scatter.EPS Graphic file (type eps)
+
+<images/second_scatter.EPS> [8]
+File: images/page1.EPS Graphic file (type eps)
+ <images/page1.EPS>
+File: images/page2.EPS Graphic file (type eps)
+ <images/page2.EPS> [9]
+(./final.aux) ) 
 Here is how much of TeX's memory you used:
- 1541 strings out of 480479
- 20232 string characters out of 5905985
- 264866 words of memory out of 5000000
- 17591 multiletter control sequences out of 15000+600000
+ 1575 strings out of 480479
+ 20916 string characters out of 5905985
+ 268866 words of memory out of 5000000
+ 17616 multiletter control sequences out of 15000+600000
  538017 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,7n,25p,1219b,172s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,9n,25p,1219b,311s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on final.dvi (5 pages, 6772 bytes).
+Output written on final.dvi (9 pages, 15988 bytes).

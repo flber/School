@@ -1,0 +1,7 @@
+Physics Notes
+
+Momentum:
+p = mv
+F = Δp / Δt
+
+If momentum and energy are conserver, the collision is elastic. If energy is not conserved, the collision is inelastic. 

@@ -1,0 +1,9 @@
+Physics Warmups
+
+
+070121
+
+Two trucks each with a mass of 5000. kg are traveling toward each other at 20. m/s. Before they collide, what is the total kinetic energy? After they collide, what is the total kinetic energy? What happened during the collision?
+
+Before, their kinetic energies are quite high, and after they hit both of their kinetic energies are zero. During the collision, their energy was used to twist metal, heat each other, etc
+

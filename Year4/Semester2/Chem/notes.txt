@@ -1,0 +1,19 @@
+Chem Notes
+
+
+chemical equilibrium:
+
+- reactants or products can be favored
+- visible changes cannot be detected in reactions at equilibrium
+	- equilibrium is not static, but equally dynamic
+
+law of mass action:
+k = [p]^c_p / [r]^c_r
+
+equilibrium position: 
+	- refers to each set of equilibrium concentrations
+equilibrium constant:
+	- one constant for a particular system at a particular temperature
+
+heterogeneous equilibria:
+(pure) solids and liquids don't affect the law of mass action, and should not be included in the equilibrium constant equation

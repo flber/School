@@ -1,0 +1,56 @@
+Ch 7 # 8, 11, 14, 16, 21
+
+
+8. 
+(2.8 x 10^5 m/s) / 57
+4.9 x 10^3 m/s
+
+
+11. 
+0.022 kg * 240 m/s = 0.022 kg * 150 m/s + 2.0 kg * v
+5.28 kg * m/s = 3.3 kg * m/s + 2.0 kg * v
+1.98 kg * m/s = 2.0 kg * v
+0.99 m/s = v
+
+
+14. 
+KE_i = 1/2mv^2
+KE_i = 1/2 725 kg 6.60 x 10^3 m/s
+KE_i = 2.39 x 10^6 J
+
+2.80 x 10^3 m/s / 2
+1.40 x 10^3 m/s
+
+v_a  = 6.60 x 10^3 m/s + 1.40 x 10^3 m/s
+v_a  = 8.00 x 10^3 m/s
+
+v_b  = 6.60 x 10^3 m/s - 1.40 x 10^3 m/s
+v_b  = 5.20 x 10^3 m/s
+
+725 kg / 2 = 362.5 kg
+
+KE_e = 1/2mv^2
+KE_e = 1/2 725 kg 2.80 x 10^3 m/s
+KE_e = 1.02 x 10^6 J
+
+
+16. 
+Impulse = mvΔt
+Impulse = 0.045 kg * 38 m/s * 3.5 x 10^-3 s
+Impulse = 0.0060 kg * m
+
+F_avg = mv / Δt
+F_avg = 0.045 kg * 38 m/s / 3.5 x 10^-3 s
+F_avg = 490 kg * m/s^2
+
+
+21. A 95 kg fullback is running at 3.0 m/s to the east and is stopped in 0.85 s by a head-on tackle by a tackler running due west. Calculate a) the original momentum of the fullback, b) the impulse exerted on the fullback, c) the impulse exerted on the tackler, and d) the average force exerted on the tackler
+
+p_f = 95 kg * 3.0 m/s
+p_f = 285 kg * m/s
+
+i_t = 285 kg * m/s * 0.85 s
+i_t = 240 kg * m
+
+p_avg_f = 285 kg * m/s / 0.85 s
+p_avg_f = 340 kg * m/s^2

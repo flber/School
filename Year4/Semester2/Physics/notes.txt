@@ -2,6 +2,16 @@ Physics Notes
 
 Momentum:
 p = mv
-F = Δp / Δt
+F(net) = Δp / Δt
+
+m_av_a + m_bv_b = m_av'_a + m_bv'_b
+
+Impulse = FΔt
 
 If momentum and energy are conserver, the collision is elastic. If energy is not conserved, the collision is inelastic. 
+
+For elastic collisions:
+v_a + v_a' = v_b' + v_b
+
+conversion of horizontal velocity to upward movement
+h = v^2 / 2g

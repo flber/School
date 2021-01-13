@@ -9,6 +9,7 @@ chemical equilibrium:
 
 law of mass action:
 k = [p]^c_p / [r]^c_r
+(if k is > 1 is favors products)
 
 equilibrium position: 
 	- refers to each set of equilibrium concentrations
@@ -17,3 +18,14 @@ equilibrium constant:
 
 heterogeneous equilibria:
 (pure) solids and liquids don't affect the law of mass action, and should not be included in the equilibrium constant equation
+
+ICE (initial, change, equilibrium) table
+* are given values
+
+		|	Initial			|	Change		|	Equilibrium
+--------+-------------------+---------------+-----------------
+PCl_3	|	*0.298 M		|	+2.0 x 10^3	|	0.300 M
+PCl_5	|	*8.7 x 10^-3 M	|	-2.0 x 10^3	|	6.7 x 10^-3 M
+Cl_2	|	*0 M			|	+2.0 x 10^3	|	*2.0 x 10^-3 M
+									∧				 │
+									└──derived from──┘

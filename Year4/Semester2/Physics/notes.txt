@@ -15,3 +15,5 @@ v_a + v_a' = v_b' + v_b
 
 conversion of horizontal velocity to upward movement
 h = v^2 / 2g
+
+Momentum is conserved in two dimensions

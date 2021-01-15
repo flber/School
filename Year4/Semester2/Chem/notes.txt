@@ -7,7 +7,7 @@ chemical equilibrium:
 - visible changes cannot be detected in reactions at equilibrium
 	- equilibrium is not static, but equally dynamic
 
-law of mass action:
+law of mass action (multiply top and bottom terms if > 1):
 k = [p]^c_p / [r]^c_r
 (if k is > 1 is favors products)
 

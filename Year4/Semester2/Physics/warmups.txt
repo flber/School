@@ -7,3 +7,23 @@ Two trucks each with a mass of 5000. kg are traveling toward each other at 20. m
 
 Before, their kinetic energies are quite high, and after they hit both of their kinetic energies are zero. During the collision, their energy was used to twist metal, heat each other, etc
 
+
+140121
+
+A 1.0 kg ball traveling at 10. m/s collides with a 10.0 kg ball at rest. a) What is the final velocity if the balls stick together? b) What are the final velocities if the collision is elastic?
+
+a. 
+1.0 kg * 10 m/s = 11.0 kg * v
+(10 kg * m/s) / 11.0 kg = v
+v = 0.91 m/s
+
+b. 
+v_a + v_a' = v_b
+
+m_a v_a = m_a v'_a + m_b v'_b
+1.0 kg * 10. m/s = 1.0 kg * v'_a + 10. kg * (10. m/s + v_a')
+10. kg * m/s = 1.0 kg * v'_a + 100 kg * m/s + 10v_a'
+10. kg * m/s = 1.0 kg * v'_a + 100 kg * m/s + 10v_a'
+10 = v'_a + 100 + 10v'_a
+-90 = 11v'_a
+v'_a = -8.18 m/s

@@ -43,6 +43,9 @@ Not sure how to do this seeing as how we're not given any concentrations or pres
 
 at 1200 K it was observed that when the equilibrium partial pressure of water vapor is 15.0 torr, the total pressure at equilibrium is 36.3 torr. Calculate the value of k_p for this reaction at 1200 K. (Hint: Apply Dalton's law of partial pressures)
 
+k_p = (21.3 torr)^4 / (15.0 torr)^4
+k_p = 4.1
+
 
 39. The equilibrium constant is 0.0900 at 25°C for the reaction
 

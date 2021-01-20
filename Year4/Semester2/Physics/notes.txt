@@ -17,3 +17,8 @@ conversion of horizontal velocity to upward movement
 h = v^2 / 2g
 
 Momentum is conserved in two dimensions
+
+
+Center of mass:
+
+x_cm = (m_1x_1 + m_2x_2) / (m_1 + m_2)

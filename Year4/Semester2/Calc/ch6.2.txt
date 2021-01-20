@@ -1,0 +1,33 @@
+Ch 6.2: Finding Integrals by Signed Areas
+
+desmos: https://www.desmos.com/calculator/w4apywsgla
+
+1. ∫(π, 2π) sin x dx
+-2; as this is simply the base equation shifted by π. In the sine wave this corresponds to a dip opposite of the first rise.
+
+2. ∫(0, 2π) sin x dx
+0; over the period (0, 2π) the sine wave ends where it begins.
+
+3. ∫(0, π/2) sin x dx
+1: 1/2 of the initial period results in 1/2 the area
+
+4. ∫(0, 2π) (2 + sin x) dx
+12.57; not really sure how to explain this, but this is what I got from graphing it.
+
+5. ∫(0, π) 2 sin x dx
+4; doubling the height of the original equation doubles the area.
+
+6. ∫(2, π+2) sin(x - 2) dx
+2; this is just the base equation moved right by 2.
+
+7. ∫(-π, π) sin u du
+0; the areas across the y-axis cancel each other out.
+
+8. ∫(0, 2π) sin(x/2) dx
+4; this stretches the original wave's first rise out to 2π, doubling the area.
+
+9. ∫(0, π) cos x dx
+0; (0, π) on a cosine wave goes from a peak to a trough, and the areas cancel out.
+
+10. Suppose k is any positive number. Make a conjecture about ∫(-k, k) sin x dx
+∫(-k, k) sin x dx will always be zero.

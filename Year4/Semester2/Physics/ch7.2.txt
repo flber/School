@@ -1,0 +1,62 @@
+Ch 7.2 # 26, 29, 36, 37, 61, 65
+
+
+26. A 0.450-kg hockey puck, moving east with a speed of 5.80 m/s, a has a head-on collision with a 0.900-kg puck initially at rest. Assuming a perfectly elastic collision, what will be the speed and direction of each puck after the collision?
+
+v_a + v_a' = v_b'
+
+m_a v_a = m_a v'_a + m_b v'_b
+0.450 kg * 5.80 m/s = 0.450 kg * v'_a + 0.900 kg * (5.80 m/s + v_a')
+2.61 kg m/s = 0.450 kg v'_a + 5.22 kg m/s + 0.900 kg v_a'
+-2.61 kg m/s = 0.450 kg v'_a + 0.900 kg v_a'
+-2.61 = 1.35 v_a'
+-1.93 = v_a'
+
+m_a v_a = m_a v'_a + m_b v'_b
+0.450 kg * 5.80 m/s = 0.450 kg * -1.93 m/s + 0.900 kg * v_b'
+2.61 kg m/s = -0.8685 kg m/s + 0.900 kg v_b'
+3.4785 kg m/s = 0.900 kg v_b'
+3.865 m/s = v_b'
+
+
+29. A 0.280-kg croquet ball makes an elastic head-on collision with a second ball initially at rest. The second ball moves off with half the original speed of the first ball. a) What is the mass of the second ball? b) What fraction of the original kinetic energy gets transferred to the second ball?
+
+a. the mass of the second ball is 0.56 kg
+
+b. 1/2
+
+
+36. An internal explosion breaks an object, initially at rest, into two pieces, one of which has 1.5 times the mass of the other. If 5500 J is released in the explosion, how much kinetic energy does each piece acquire?
+
+5500 J / 2.5 = 2200 J
+2200 * 1.5 = 3300 J
+
+
+37. A 980-kg sports car collides into the rear end of a 2300-kg SUV stopped at a red light. The bumpers lock, the brakes are locked, and the two cars skid forward 2.6 m before stopping. The police officer, estimating the coefficient of kinetic friction between tires and road to be 0.80, calculates the speed of the sports car at impact. What was that speed?
+
+d = v^2 / 2μg
+2.6 m = v^2 / 2 * 0.80 * 9.8 m/s^2
+2.6 m = v^2 / 15.68 m/s^2
+40.768 m^2/s^2 = v^2
+6.384 m/s = v
+
+m_a * v_a = m_ab' * v_ab'
+980 kg * v_a = 3280 kg * 6.384 m/s
+980 kg * v_a = 20942.7 kg m/s
+v_a = 21.37 m/s
+
+
+61. The masses of the Earth and Moon are 5.98 x 10^24 kg and 7.35 x 10^22 kg respectively, and their centers are separated by 3.84 x 10^8 m. a) Where is the CM of the Earth–Moon system located? b) What can you say about the motion of the Earth–Moon system about the Sun, and of the Earth and Moon separately about the Sun?
+
+a. 
+cm = 3.84 x 10^8 m * (7.35 x 10^22 kg / (5.98 x 10^24 kg + 7.35 x 10^22 kg))
+cm = 4.662 x 10^6 m
+
+b. The motion of the Earth–Moon system around the Sun is elliptical, and the motion of the earth and moon separately around the Sun is spirally elliptical?
+
+
+65. Two people, one of mass 85 kg and the other of mass 55 kg, sit in a rowboat of mass 58 kg. With the boat initially at rest, the two people, who have been sitting at opposite ends of the boat, 3.0 m apart from each other, now exchange seats. How far and in what direction will the boat move?
+
+
+d = 2 * (1.5 m - (85 kg * 0 m + 58 kg * 1.5 m + 55 kg * 3 m) / (85 kg + 58 kg + 55 kg))
+d = 0.4545 m

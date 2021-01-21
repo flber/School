@@ -53,22 +53,46 @@ H_2O(g) + Cl_2O(g) <=> 2HOCl(g)
 
 For which of the following sets of conditions is the system at equilibrium? For those that are not at equilibrium, in which direction will the system shift?
 
-a. A 1.0 l flask contains 1.0 mole of H)Cl, 0.10 mole of Cl_2, and 0.98 mole of H_2O
+a. A 1.0 l flask contains 1.0 mole of HOCl, 0.10 mole of Cl_2, and 0.98 mole of H_2O
+
+Q = 1^2 / 0.1 * 0.98 = 9.0; shifts left
 
 b. A 2.0 L flask contains 0.084 mole of HOCl, 0.080 mole if Cl_2O, and 0.98 mole of H_2O
 
+Q = 0.084^2 / 0.080 * 0.98 = 0.09; at equilibrium
+
 c. A 3.0 L flask contains 0.25 mole of HOCl, 0.0010 mole of Cl_2O, and 0.56 mole of H_2O
+
+Q = 0.25^2 / 0.0010 * 0.56 = 111; shifts left
 
 
 56. At a particular temperature, k_p = 0.25 for the reaction 
 
 N_2O_4(g) <=> 2NO_2(g)
 
-a. A flask containing only N_2O_4 at an initial pressure of 4.5 arm is allowed to reach equilibrium. Calculate the equilibrium partial pressures of the gases.
+a. A flask containing only N_2O_4 at an initial pressure of 4.5 atm is allowed to reach equilibrium. Calculate the equilibrium partial pressures of the gases.
+
+0.25 = p_1^2 / p_2
+4.5 atm = p_1 + p_2
+p_2 = 4.5 atm - p_1
+0.25 = p_1^2 / (4.5 atm - p_1)
+p_1 (2NO_2) = 0.943 atm
+p_2 = 4.5 atm - 0.943 atm
+p_2 (N_2O_4) = 3.6 atm
 
 b. A flask containing only NO_2 at an initial pressure of 9.0 atm is allowed to reach equilibrium. Calculate the equilibrium partial pressures of the gases.
 
+0.25 = p_1^2 / p_2
+9.0 atm = p_1 + p_2
+p_2 = 9.0 atm - p_1
+0.25 = p_1^2 / (9.0 atm - p_1)
+p_1 (2NO_2) = 1.380 atm
+p_2 = 9.0 atm - 1.380 atm
+p_2 (N_2O_4) = 7.62 atm
+
 c. From your answers to parts a and b, does it matter form which direction an equilibrium position is reached?
+
+No
 
 
 59. At a particular temperature, k = 2.0 x 10^-6 for the reaction
@@ -77,19 +101,25 @@ c. From your answers to parts a and b, does it matter form which direction an eq
 
 If 2.0 moles of CO_2 is initially placed into a 5.0 L vessel, calculate the equilibrium concentrations of all species.
 
+2.0 x 10^-6 = ([CO]^2 * [O_2]) / 2^2
+8.0 x 10^-6 = [CO]^2 * [O_2]
+...
+
 
 63. Suppose the reaction system
 
 UO_2(s) + 4HF(g) <=> UF_4(g) + 2H_2O(g)
 
-has already reached equilibrium. Predict the effect that each of the following changes will have on the equilivrium position. Tell whether the equilibrium will shift to the right, will shift to the left, or will not be affected. 
+has already reached equilibrium. Predict the effect that each of the following changes will have on the equilibrium position. Tell whether the equilibrium will shift to the right, will shift to the left, or will not be affected. 
 
 a. Additional UO_2(s) is added to the system.
+Right
 
 b. The reaction is performed in a glass reaction vessel; HF(g) attacks and reacts with glass.
+Left
 
 c. Water vapor is removed.
-
+Right
 
 67. In which direction will the position of the equilibrium
 
@@ -98,13 +128,19 @@ c. Water vapor is removed.
 be shifted for each of the following changes?
 
 a. H_2(g) is added.
+Left
 
 b. I_2(g) is removed. 
+Right
 
 c. HI(g) is removed. 
+Left
 
 d. In a rigid reaction container, some Ar(g) is added.
+No movement
 
 e. the volume of the container is doubled.
+No movement
 
 f. The temperature is decreased (the reaction is exothermic)
+Right

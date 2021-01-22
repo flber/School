@@ -1,0 +1,70 @@
+Chapter 7 Quiz
+
+Two 1.1 kg blocks of wax are 1.5 m apart on a frictionless table. A 20. g bullet is fired at 520m/s toward the blocks. It passes all the way through the first block, then embeds itself in the second block. The speed of the first block immediately afterward is 5.5 m/s What is the speed of the second block after the bullet stops?
+
+a: bullet
+b: 1st block
+c: 2nd block
+
+m_av_a = m_av_a' + m_bv_b'
+
+0.020 kg * 520 m/s = 0.020 kg * v_a' + 1.1 kg * 5.5 m/s
+10.4 kg m/s = 0.020 kg * v_a' + 6.05 kg m/s
+4.35 kg m/s = 0.020 kg * v_a'
+v_a' = 217.5 m/s
+
+m_av_a = (m_a + m_c)v_ac
+
+0.020 kg * 217.5 m/s = (0.020 kg + 1.1 kg) * v_ac
+0.020 kg * 217.5 m/s = 1.12 kg * v_ac
+4.35 kg m/s = 1.12 kg * v_ac
+v_ac = 3.884 m/s
+
+┌───────────────────────────────────────────────────┐
+│ The final velocity of the second block is 3.9 m/s │
+└───────────────────────────────────────────────────┘
+
+@ t = 0 s
+
+v_a = 217.5 m/s
+d_a = 0 m
+
+v_b = 5.5 m/s
+d_b = 0 m
+
+v_c = 0 m/s
+d_c = 1.5 m
+
+1.5 m / 217.5 m/s
+0.006897 s
+
+@ t = 0.006897 s
+
+v_b = 5.5 m/s
+5.5 m/s * 0.006897 s
+0.3793 m
+d_b = 0.3793 m
+
+v_ac = 3.884 m/s
+d_ac = 1.5 m
+
+y = 5.5x + 0.3793
+y = 3.884x + 1.5
+
+5.5x + 0.3793 = 3.884x + 1.5
+1.6161x + 0.3793 = 1.5
+1.6161x = 1.4621
+x = 0.9047
+
+@ t = 0.9047 s
+
+m_b v_b + m_ac v_ac = m_abc v_abc
+
+1.1 kg * 5.5 m/s + 1.12 kg * 3.884 m/s = 2.22 kg * v_abc
+6.05 kg m/s + 4.35 kg m/s = 2.22 kg * v_abc
+10.4 kg m/s = 2.22 kg * v_abc
+v_abc = 4.6847 m/s 
+
+┌ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ┐
+  After 0.90 s, the final velocity of everything is 4.7 m/s 
+└ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ┘

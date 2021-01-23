@@ -29,3 +29,17 @@ PCl_5	|	*8.7 x 10^-3 M	|	-2.0 x 10^3	|	6.7 x 10^-3 M
 Cl_2	|	*0 M			|	+2.0 x 10^3	|	*2.0 x 10^-3 M
 									∧				 │
 									└──derived from──┘
+
+Spectral analysis
+
+compares incident of light I_0 to the intensity of light after it has passed through the sample I. The ratio I/I_0, called the transmittance, is a measure of the fraction of light that passes through the sample. 
+
+The amount of light absorbance is given by
+
+A = -log(I/I_0)
+
+The absorbance can be expressed by the Beer-Lambert law:
+
+A = εlc
+
+where ε is the molar absorptivity or the molar extinction coefficient (in L/mol * cm), l is the distance light travels through the solution (in cm), and c is the concentration of the absorbing species (in mol/L)

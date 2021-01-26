@@ -22,3 +22,26 @@ Momentum is conserved in two dimensions
 Center of mass:
 
 x_cm = (m_1x_1 + m_2x_2) / (m_1 + m_2)
+
+
+Angular acceleration
+
+α = a/r
+
+Torque
+
+an application of a force to cause something to rotate, distance from point of rotation increases torque
+
+τ = r⊥F
+
+τ = mr^2α
+
+Στ = (Σmr^2)α
+
+Rotational inertia:
+
+I = Σmr^2
+
+(solid cylinder: I = 0.5mr^2)
+
+τ = Iα

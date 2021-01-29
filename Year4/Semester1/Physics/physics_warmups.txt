@@ -13,7 +13,6 @@ Greeks estimated the radius of the earth to be 6.6 x 10^6 meters. Estimate the m
 6.31032 x 10^27 g * 0.001 kg/g
 6.31032 x 10^24 kg  ->  6.3 x 10^24 kg
 
-Physics warmups
 -- 08-Sep-2020
 
 Michael Jordan had a "hang time" of 1.0 sec. How high could he jump?

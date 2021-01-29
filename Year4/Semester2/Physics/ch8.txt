@@ -1,0 +1,91 @@
+Ch 8 # 3, 8, 9, 12, 15, 19, 20, 22
+
+
+3. A laser beam is directed at the Moon, 380,000 km from Earth. The beam diverges at an angle θ (Fig. 8–40) of 1.4 x 10^-5 rad. What diameter spot will it make on the Moon?
+
+d = tan(θ) / 380,000 km
+d = tan(1.4 x 10^-5 rad) / 380,000 km
+d = 3.684 x 10^-11 km
+d = 3.684 x 10^-8 m
+
+
+8. A bicycle with tires 68 cm in diameter travels 9.2 km. How many revolutions do the wheels make?
+
+c = 2 π r
+c = 2 π 0.68 m
+c = 4.273 m
+
+r = 9200 m / 4.273 m
+r = 2200 rev
+
+
+9. Calculate the angular velocity (a) of a clock’s second hand, (b) its minute hand, and (c) its hour hand. State in rad s. (d) What is the angular acceleration in each case?
+
+a. π/30 rad/s
+b. π/180 rad/s
+c. π/2160 rad/s
+d. The angular acceleration is 0 in each case.
+
+
+12. Calculate the angular velocity of the Earth (a) in its
+orbit around the Sun, and (b) about its axis.
+
+a. π/157680000 rad/s
+b. π/43200 rad/s
+
+
+15. In traveling to the Moon, astronauts aboard the Apollo spacecraft put the spacecraft into a slow rotation to distribute the Sun’s energy evenly (so one side would not become too hot). At the start of their trip, they accelerated from no rotation to 1.0 revolution every minute during a 12-min time interval. Think of the spacecraft as a cylinder with a diameter of 8.5 m rotating about its cylindrical axis. Determine (a) the angular acceleration, and (b) the radial and tangential components of the linear acceleration of a point on the skin of the ship 6.0 min after it started this acceleration.
+
+a. 
+α = dω/dt
+α = (π/30 rad/s) / 720 s
+α = 1.5 x 10^-4 rad/s^2
+
+b. 
+α = 1.5 x 10^-4 rad/s^2
+a = 1.5 x 10^-4 rad/s^2 * 8.5
+a = 0.0012 rad/s^2
+
+
+19. Pilots can be tested for the stresses of flying high-speed jets in a whirling “human centrifuge,” which takes 1.0 min to turn through 23 complete revolutions before reaching its final speed. (a) What was its angular acceleration (assumed constant), and (b) what was its final angular speed in rpm?
+
+a. 
+x = x_0 + v_0t + 1/2at^2
+23 rev = 1/2 α (1.0 min)^2
+46 rev = α 1.0 min^2
+α = 46 rev/min^2
+
+b. 
+v^2 = v^2_0 + 2a(x - x_0)
+v^2 = 2 (46 rev/min^2) (23 rev)
+v^2 = 2 1058 rev^2/min^2
+v^2 = 2116 rev^2/min^2
+v = 46 rpm
+
+
+20. A cooling fan is turned off when it is running at 850 rpm. It turns 1250 revolutions before it comes to a stop. (a) What was the fan’s angular acceleration, assumed constant? (b) How long did it take the fan to come to a complete stop?
+
+a. 
+v^2 = v^2_0 + 2a(x - x_0)
+0 = (850 rpm)^2 + 2 α (1250 rev)
+0 = 722500 rpm^2 + α 2500 rev
+-722500 rpm^2 = α 2500 rev
+α = -289 rev/min^2 
+
+b. 
+x = x_0 + v_0t + 1/2at^2
+1250 rev = (850 rev/min)t + 1/2 (-289 rev/min^2) t^2
+1250 rev = (850 rev/min)t + 144.5 rev/min^2 * t^2
+t = 1.2 min
+
+
+22. The tires of a car make 75 revolutions as the car reduces its speed uniformly from 95 km/h to 55 km/h. The tires have a diameter of 0.80 m. (a) What was the angular acceleration of the tires? If the car continues to decelerate at this rate, (b) how much more time is required for it to stop, and (c) how far does it go?
+
+a. 
+75 * (2π 0.80 m)
+376.991 m
+...
+
+b. 
+
+c. 

@@ -1,0 +1,45 @@
+Ch 14.2 # 50, 57, 68, 69, 70, 82
+
+
+50. Calculate [H^+] and [OH^-] for each solution at 25°C. Identify each solution as neutral, acidic, or basic.
+
+a. pH = 7.40 (the normal pH of blood)
+[H^+] = 3.98 x 10^-8
+[OH^-] = 2.51 x 10^-7
+acidic
+
+b. pH = 15.3
+[H^+] = 5.01 x 10^-16
+[OH^-] = 20.0
+basic
+
+c. pH = -1.0
+[H^+] = 1.0 x 10^-1
+[OH^-] = 1.0 x 10^-13
+acidic
+
+d. pH = 3.20
+[H^+] = 6.31 x 10^-4
+[OH^-] = 1.58 x 10^-11
+acidic
+
+e. pOH = 5.0
+[H^+] = 1.0x 10^-9
+[OH^-] = 1.0 x 10^-5
+basic
+
+f. pOH = 9.60
+[H^+] = 3.98 x 10^-5
+[OH^-] = 2.51 x 1-^-10
+acidic
+
+
+57. 
+
+68. 
+
+69. 
+
+70. 
+
+82. 

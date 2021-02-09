@@ -1,0 +1,48 @@
+Ch 8.2 # 25, 28, 33, 34, 39, 43, 45
+
+25. Calculate the net torque about the axle of the wheel shown. Assume that a friction toque of 0.60 m·N opposes the motion.
+
+a: F = -28 N; r = 0.24 m
+b: F = 18 N; r = 0.24 m
+c: F = 35 N; r = 0.12 m
+
+τ = (-28 N * 0.24 m) + (18 N * 0.24 m) + (35 N * 0.12 m)
+τ = 1.8 m·N
+Στ = 1.8 m·N - 0.60 m·N
+┌───────────────┐
+│ Στ = 0.60 m·N │
+└───────────────┘
+
+
+28. The bolts on the cylinder head of an engine require tightening to a torque of 95 m·N. a) If a wrench is 28 cm long, what force perpendicular to the wrench must the mechanic exert at its end? b) If the six-sided bolt head is 15 mm across, estimate the force applied near each of the six points by a wrench.
+
+a. 
+F = 95 m·N / 0.28 m
+┌───────────┐
+│ F = 340 N │
+└───────────┘
+
+b. 
+F = (95 m·N / 0.015 m) / 6
+F = 6333 N / 6
+┌────────────┐
+│ F = 1100 N │
+└────────────┘
+
+
+33. An oxygen molecule consists of two oxygen atoms whose total mass is 5.3 x 10^-26 kg and whose moment of inertia about an axis perpendicular to the line joining the two atoms, midway between them, is 1.9 x 10^-46 kg·m^2. From these data, estimate the effective distance between the atoms.
+
+
+
+
+34. A grinding wheel is a uniform cylinder with a radius of 8.50 cm and a mass of 0.380 kg. Calculate a) its moment of inertia about its center, and b) the applied torque needed to accelerate it from rest to 1750 rpm in 5.00 s. Take into account a frictional torque that has been measured to slow down the wheel from 1500 rpm to rest in 55.0 s.
+
+
+39. Calculate the moment of inertia of the array of point objects shown in Fig. 8–47 about a) the y axis, and b) the x axis. Assume m = 2.2 kg, M = 3.4 kg, and the objects are wired together by very light, rigid pieces of wire. The array is rectangular and is split through the middle by the x axis.c) About which axis would it be harder to accelerate this array?
+
+
+43. Let us treat a helicopter rotor blade as a long thin rod, as shown in Fig. 8–49. a) If each of the three rotor helicopter blades is 3.75 m long and has a mass of 135 kg,calculate the moment of inertia of the three rotor blades about the axis of rotation. b) How much torque must the motor apply to bring the blades from rest up to a speed of 6.0 rev/s in 8.0 s?
+
+
+45. To get a flat, uniform cylindrical satellite spinning at the correct rate, engineers fire four tangential rockets as shown. Suppose that the satellite has a mass of 3600 kg and a radius of 4.0 m, and that the rockets each add a mass of 250 kg. What is the steady force required of each rocket if the satellite is to reach 32 rpm in 5.0 min,starting from rest?
+

@@ -1,0 +1,56 @@
+Ch 8.3 # 53, 56, 65, 67, 71, 96
+
+
+53. Estimate the kinetic energy of the Earth with respect to the Sun as the sum of two terms, a) that due to its daily rotation about its axis, and b) that due to its yearly revolution about the Sun. [Assume the Earth is a uniform sphere with mass = 6.0 x 10^24 kg, radius = 6.4 x 10^6 m, and is 1.5 x 10^8 km from the Sun]
+
+a. 
+KE_d = 0.5 Ι ω^2
+Ι = 2/5 M r^2
+KE_d = 0.5 (2/5 M r^2) ω^2
+KE_d = 0.5 (2/5 6.0 x 10^24 kg (6.4 x 10^6 m)^2) (7.3 x 10^-5 rad/s)^2
+KE_d = 0.5 (9.83 x 10^37 kg·m^2) (7.3 x 10^-5 rad/s)^2
+KE_d = 2.62 x 10^29 J
+
+b. 
+KE_y = 
+
+
+56. A sphere of radius r = 34.5 cm and mass m = 1.80 kg starts from rest and rolls without slipping down a 30.0° incline that is 10.0 m long. a) Calculate its translational and rotational speeds when it reaches the bottom. b) What is the ratio of translational to rotational kinetic energy at the bottom? Avoid putting in numbers until the end so you can answer: c) do your answers in a and b depend on the radius of the sphere or its mass?
+
+a. 
+MgH = 1/2 M v^2 + 1/2 Ι_cm ω^2
+MgH = 1/2 M v^2 + 1/2(2/5 M r^2) (v^2 / r^2)
+gH = (1/2 v^2) + (1/5 r^2) (v^2 / r^2)
+gH = (1/2 v^2) + (1/5 v^2)
+gH = 7/10 v^2
+v = sqrt(10/7 gH)
+ω = v r
+
+v = sqrt(10/7 9.8 m/s^2 (10 m / cos(30°)))
+v = 12.7 m/s
+
+ω = 12.7 m/s / 0.345 m
+ω = 36.81 rad/s(?)
+
+b. 
+v = 12.7 m/s
+ω = 36.81 rad/s
+v:ω = 12.7/36.81
+v:ω = 0.345
+
+c. 
+The answer in a does not depend on radius or mass, and the answer in b indicates that rotational velocity is just translational velocity multiplied by radius.
+
+
+65. A figure skater can increase her spin rotation rate from an initial rate of 1.0 rev every 1.5 s to a final rate of 2.5 rev/s. If her initial moment of inertia was 4.6 kg·m^2, what is her final moment of inertia? How does she physically accomplish this change?
+
+
+
+
+67. A person of mass 75 kg stands at the center of a rotating merry-go-round platform of radius 3.0 m and moment of inertia 820 kg·m^2. The platform rotates without friction with angular velocity 0.95 rad/s. The person walks radially to the edge of the platform. (a) Calculate the angular velocity when the person reaches the edge. (b) Calculate the rotational kinetic energy of the system of platform plus person before and after the person’s walk.
+
+
+71. Suppose our Sun eventually collapses into a white dwarf, losing about half its mass in the process, and winding up with a radius 1.0% of its existing radius. Assuming the lost mass carries away no angular momentum, a) what would the Sun’s new rotation rate be? Take the Sun’s current period to be about 30 days. b) What would be its final kinetic energy in terms of its initial kinetic energy of today?
+
+
+96. The radius of the roll of paper shown in Fig. 8–67 is 7.6 cm and its moment of inertia is I = 3.3 x 10^-3 kg·m^2. A force of 3.5 N is exerted on the end of the roll for 1.3 s, but the paper does not tear so it begins to unroll. A constant friction torque of 0.11 m·N is exerted on the roll which gradually brings it to a stop. Assuming that the paper’s thickness is negligible, calculate (a) the length of paper that unrolls during the time that the force is applied (1.3 s) and (b) the length of paper that unrolls from the time the force ends to the time when the roll has stopped moving.

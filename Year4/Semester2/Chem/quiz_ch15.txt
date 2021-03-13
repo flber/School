@@ -1,0 +1,24 @@
+AP Chem ch 15 Quiz B
+
+Ben Hammond
+Period 6
+
+a. Determine the pH of a buffer solution that is 0.205 M NaHCO_3 and 0.135 M in Na_2CO_3.
+
+pH = log(4.31 x 10^-7) + log(0.205 M / 0.135 M)
+pH = 6.36 + 0.181
+pH = 6.18
+
+b. A buffer solution is formed by mixing 95.0 mL of 0.300 M NaHCO_3 with 65.0 mL of 0.250 M Na_2CO_3. What is the pH of this buffer solution? 
+K_a1 = 4.31 x 10^-7 and K_a2 = 5.62 x 10^-11
+
+0.285 mol NaHCO_3
+0.1625 mol Na_2CO_3
+
+1.2 L
+
+1.2 L * 0.285 mol = 0.342 M
+1.2 L * 0.1625 mol = 0.195 M
+
+pH = log(4.31 x 10^-7) + log(0.342 M / 0.195 M)
+pH = 6.61

@@ -1,0 +1,58 @@
+Lesson 3/18/2021 Asynchronous Assignment
+# 45, 47, 49, 56, 63, 85, 92 
+
+45. Approximately what are the intensities of the first two overtones of a violin compared to the fundamental? How many decibels softer than the fundamental are the first and second overtones? (See fig. 12-15)
+
+The first and second overtone seem to be about 0.375 and 0.125 times the amplitude of the fundamental.
+
+
+47. A certain dog whistle operates at 23.5 kHz, while another (brand X) operates at an unknown frequency. If humans can hear neither whistle when played separately, but a shrill whine of frequency 5000 Hz occurs when they are played simultaneously, estimate the operating frequency of brand X.
+
+Brand X has an operating frequency around 28.5 kHz.
+
+
+49. A guitar string produces 3 beats/s when sounded with a 350-Hz tuning fork and 8 beats/s when sounded with a 355-Hz tuning fork. What is the vibrational frequency of the string? Explain your reasoning.
+
+The frequency of the string is 347 Hz, because that is the only frequency which has a difference of 3 Hz from 350 Hz and 8 Hz from 355 Hz.
+
+
+56. The predominant frequency of a certain fire truck's siren is 1650 Hz when at rest. What frequency do you detect if you move with a speed of 30.0 m/s a) toward the fire truck and b) away from it.
+
+a.
+f' = f / (1 - (v_source / v_sound))
+f' = 1650 Hz / (1 - (30.0 m/s / 343 m/s))
+f' = 1510 Hz
+
+b. 
+f' = f / (1 + (v_source / v_sound))
+f' = 1650 Hz / (1 + (30.0 m/s / 343 m/s))
+f' = 1790 Hz
+
+63. The Doppler effect using ultrasonic waves of frequency 2.25 x 10^6 Hz is used to monitor the heartbeat of a fetus. A (maximum) beat frequency of 240 Hz is observed. Assuming that the speed of sound in tissue is 1540 m/s, calculate the maximum velocity of the surface of the beating heart.
+
+85. Two trains emit 508 Hz whistles. One train is stationary.The conductor on the stationary train hears a 3.5-Hz beat frequency when the other train approaches. What is the speed of the moving train?
+
+f = 508 Hz - 3.5 Hz
+f = 504.5 Hz
+
+f' = f / (1 - (v_source / v_sound))
+504.5 Hz = 508 Hz / (1 - (v_source / 343 m/s))
+1 - (v_source / 343 m/s) = 508 Hz / 504.5 Hz
+v_source / 343 m/s = 1 + (508 Hz / 504.5 Hz)
+v_source = 343 m/s * (1 + (508 Hz / 504.5 Hz))
+v_source = 2.38 m/s
+
+
+92. The alpenhorn was once used to send signals from one alpine village to another. Since lower frequency sounds are less susceptible to intensity loss, long horns were used to create deep sounds. When played as a musical instrument, the alpenhorn must be blown in such a way that only one of the overtones is resonating. The most popular alpenhorn is about 3.4 m long, and is called the F# horn. What is the fundamental frequency of this horn, and which overtone is close to F#? (See table 12-3). Model as a tube open at both ends.
+f = v/2l
+f = 343 m/s / 2 * 3.4 m
+f = 50.44 Hz
+
+F# = 370 Hz
+
+f = (nv)/(2l)
+370 Hz = (n * 343 m/s) / (2 * 3.4 m)
+370 Hz * (2 * 3.4 m) = n * 343 m/s
+n = (370 Hz * (2 * 3.4 m)) / 343 m/s
+n = 7.335
+n ~= 7

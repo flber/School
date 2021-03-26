@@ -32,17 +32,117 @@ F = 6333 N / 6
 
 33. An oxygen molecule consists of two oxygen atoms whose total mass is 5.3 x 10^-26 kg and whose moment of inertia about an axis perpendicular to the line joining the two atoms, midway between them, is 1.9 x 10^-46 kg·m^2. From these data, estimate the effective distance between the atoms.
 
-
+I = M R^2
+1.9 x 10^-46 kg·m^2 = 5.3 x 10^-26 kg * R^2
+3.585 x 10^-21 m^2 = R^2
+R = 5.987 x 10^-11 m
+┌────────────────────┐
+│ d = 1.2 x 10^-10 m │
+└────────────────────┘
 
 
 34. A grinding wheel is a uniform cylinder with a radius of 8.50 cm and a mass of 0.380 kg. Calculate a) its moment of inertia about its center, and b) the applied torque needed to accelerate it from rest to 1750 rpm in 5.00 s. Take into account a frictional torque that has been measured to slow down the wheel from 1500 rpm to rest in 55.0 s.
 
+a. 
+I = 1/2 M R^2
+I = 1/2 * 0.380 kg * (0.0850 m)^2
+I = 0.001373 kg·m^2
+┌─────────────────────────┐
+│ I = 1.37 x 10^-3 kg·m^2 │
+└─────────────────────────┘
 
-39. Calculate the moment of inertia of the array of point objects shown in Fig. 8–47 about a) the y axis, and b) the x axis. Assume m = 2.2 kg, M = 3.4 kg, and the objects are wired together by very light, rigid pieces of wire. The array is rectangular and is split through the middle by the x axis.c) About which axis would it be harder to accelerate this array?
+b.
+ω₁ = 1750 rev/min * 2π rad/rev * 1/60 min/s
+ω₁ = 183.26 rad/s
+
+α̅₁ = 183.26 rad/s / 5.00 s
+α̅₁ = 36.65 rad/s^2
+
+ω₂ = 1500 rev/min * 2π rad/rev * 1/60 min/s
+ω₂ = 157.08 rad/s
+
+α̅₂ = -157.08 rad/s / 55.0 s
+α̅₂ = -2.856 rad/s^2
+
+α̅₃ = 36.65 rad/s^2 - (-2.856 rad/s^2)
+α̅₃ = 39.51 rad/s^2
+
+τ = Iα
+τ = 1.37 x 10^-3 kg·m^2 * 39.51 rad/s^2
+τ = 0.05413 N·m
+┌──────────────────────┐
+│ τ = 5.41 x 10^-2 N·m │
+└──────────────────────┘
 
 
-43. Let us treat a helicopter rotor blade as a long thin rod, as shown in Fig. 8–49. a) If each of the three rotor helicopter blades is 3.75 m long and has a mass of 135 kg,calculate the moment of inertia of the three rotor blades about the axis of rotation. b) How much torque must the motor apply to bring the blades from rest up to a speed of 6.0 rev/s in 8.0 s?
+39. Calculate the moment of inertia of the array of point objects shown in Fig. 8–47 about a) the y axis, and b) the x axis. Assume m = 2.2 kg, M = 3.4 kg, and the objects are wired together by very light, rigid pieces of wire. The array is rectangular and is split through the middle by the x axis. c) About which axis would it be harder to accelerate this array?
+
+                1.50 m
+          ├───────────────────┤
+                y
+       ┬  ▒▒─────|───────────▒▒
+       │  │m     |           m│
+0.50 m │ --------+--------------x
+       │  │M     |           M│
+       ┴  ██─────|───────────██
+       
+          ├──────┤
+           0.50 m
+
+a. 
+I = (m + M)r₁^2 + (m + M)r₂^2
+I = (2.2 kg + 3.4 kg)(0.50 m)^2 + (2.2 kg + 3.4 kg)(1.00 m)^2
+I = 7 kg·m^2
+
+b. 
+I = 2mr^2 + 2Mr^2
+I = 2(2.2 kg)(0.50 m)^2 + 2(3.4 kg)(0.50 m)^2
+I = 2.8 kg·m^2
+
+c.
+This array would be harder to accelerate about the y axis.
+
+
+43. Let us treat a helicopter rotor blade as a long thin rod, as shown in Fig. 8–49. a) If each of the three rotor helicopter blades is 3.75 m long and has a mass of 135 kg, calculate the moment of inertia of the three rotor blades about the axis of rotation. b) How much torque must the motor apply to bring the blades from rest up to a speed of 6.0 rev/s in 8.0 s?
+
+a.
+I = 3(1/3 M ℓ^2)
+I = 3(1/3 135 kg (3.75 m)^2)
+I = 1898 kg·m^2
+
+b.
+ω = 6.0 rev/min * 2π rad/rev * 1/60 min/s
+ω = 0.6283 rad/s
+
+α̅ = 0.6283 rad/s / 8.0 s
+α̅ = 0.07854 rad/s^2
+
+τ = Iα
+τ = 1898 kg·m^2 * 0.07854 rad/s^2
+τ = 149.069 N·m
+┌─────────────┐
+│ τ = 150 N·m │
+└─────────────┘
 
 
 45. To get a flat, uniform cylindrical satellite spinning at the correct rate, engineers fire four tangential rockets as shown. Suppose that the satellite has a mass of 3600 kg and a radius of 4.0 m, and that the rockets each add a mass of 250 kg. What is the steady force required of each rocket if the satellite is to reach 32 rpm in 5.0 min,starting from rest?
 
+M = 3600 kg + 4(250 kg)
+M = 4600 kg
+
+I = 1/2 M R^2
+I = 1/2 4600 kg (4.0 m)^2
+I = 36800 kg·m^2
+
+ω = 32 rev/min * 2π rad/rev * 1/60 min/s
+ω = 3.351 rad/s
+
+α̅ = 3.351 rad/s / 300 s
+α̅ = 0.01117 rad/s^2
+
+τ = Iα
+τ = 36800 kg·m^2 * 0.01117 rad/s^2
+τ = 411 N·m
+┌─────────────┐
+│ τ = 410 N·m │
+└─────────────┘

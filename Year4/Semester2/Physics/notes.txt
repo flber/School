@@ -45,3 +45,47 @@ I = Σmr^2
 (solid cylinder: I = 0.5mr^2)
 
 τ = Iα
+
+
+
+----------
+
+Electricity
+
+static electricity:
+	objects can be charged by rubbing
+	charge can be negative or positive, attract
+
+electrical charge:
+	is conserved
+
+in atoms:
+	protons: positive
+	electrons: negative 
+	polar: neutral overall, charge not evenly distributed
+
+in materials:
+	conductors:
+		charge flows freely
+		metals
+	insulator:
+		almost no charge flow
+		most other materials
+	some materials are semiconductors
+	
+induced charge:
+	metals can be charged through conduction
+	metals can also be charged through induction
+	nonconductors cannot be charged by either conduction or induction, just polarizes
+
+Coulomb's law:
+	F = k(Q₁*Q₂)/r^2
+	k = 8.988 x 10^9 N*m^2/C^2
+	electron = 1.602 x 10^-19 C
+	for an electric field:
+		E = k(Q/r^2)
+
+electric fields:
+	no fields lines in a conductor
+	field lines pass through conductors
+	electric fields are perpendicular to surface of conductors

@@ -1,0 +1,76 @@
+Thermo Prelab Questions
+
+1. Calculate the mass of ammonium chloride required to prepare 25 mL of a 2.0 M solution.
+0.025 L * 2.0 M
+0.05 mol
+54.292 g/mol * 0.05 mol
+2.2 g
+
+2. Calculate the mass of calcium chloride required to prepare 25 mL of a 2.0 M solution.
+0.025 L * 2.0 M
+0.05 mol
+110.98 g/mol * 0.05 mol
+5.5 g
+
+3. Write the balanced equation for the dissolution of ammonium chloride in water.
+NH_4Cl -> NH_4^+ + Cl^-
+
+4. Write the balanced equation for the dissolution of calcium chloride in water.
+CaCl_2 -> Ca^2+ + 2Cl^-
+
+5. What does a negative value of ΔH indicate about a reaction?
+A negative ΔH means that the reaction is exothermic.
+
+6. What does a negative value of ΔS indicate about a reaction?
+It means that a reaction is less likely to be spontaneous.
+
+7. What does a negative value of ΔG indicate about a reaction?
+It means that the reaction is spontaneous at the measured conditions.
+
+8. Calculate the heat of solution (q_soln) if the mass of solution is 45.6 g, specific heat is 3.98 J/g °C, and ΔT is -34.5°C.
+q_soln = m * H * ΔT
+q_soln = 45.6 g * 3.98 J/g °C * -34.5°C
+q_soln = -6261.336 (not sure about this one...)
+
+9. What is the heat of reaction (q_rxn) for the above question?
+q_rxn = -q_soln
+q_rxn = 6261.336
+
+10. If 0.612 moles of salt were used in the reaction, what is ΔH_rxn?
+ΔH_rxn = q_rxn / mol
+ΔH_rxn = 6261.336 / 0.612 mol
+ΔH_rxn = 10230.94
+
+
+CaCl_2 SDS
+
+safety:
+	harmful if swallowed
+	do not eat or drink when using
+	eye irritant
+	gear:
+		protective gloves
+		protective clothing
+		eye protection
+	wash hands after handling
+
+disposal:
+	no special disposal noted
+	(Disposal method #26a?)
+
+
+NH_4Cl SDS
+
+safety:
+	acute oral toxicity
+	do not eat or drink when using
+	serious eye irritant
+	gear:
+		protective gloves
+		protective clothing
+		eye protection
+	wash hands after handling
+
+disposal:
+	no special disposal noted
+	(Disposal method #26a?)

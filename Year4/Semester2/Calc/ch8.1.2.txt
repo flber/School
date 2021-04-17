@@ -73,3 +73,21 @@ g. The temperature of the water, in degrees Celsius, at t = k minutes.
 Not sure, definitely missed a different one.
 
 h. An equation that can be solved to determine the time k, in minutes, when the average temperature of the water, in degrees Celsius, was 85, over the time interval from t = 0 to t = k minutes8
+
+Situation C
+At 3 pm, when the box office opens, there are 75 people waiting in line to buy tickets for a new movie. The rate that the box office sells tickets and moves people out of the line is given by S(t), measured in people per hour. While tickets are being sold, more people are arriving and joining the line at a rate given by L(t), also measured in people per hour.
+
+a. The number of people to whom tickets have been sold between 3 pm and 5 pm
+2
+
+b. The number of people standing in line at 5 pm
+3
+
+c. The total number of people who have stood in line beginning at 3 pm and ending at 5 pm
+5
+
+d. The change in the number of people in the line between 3 pm and 5 pm
+1
+
+e. The number of people who have arrived to join the line between 3 pm and 5 pm
+4

@@ -1,0 +1,104 @@
+Ch 12, 17, 19, 27, 30, 49, 62
+
+12. Three positive particles of equal charge, +17.0 µC, are located at the corners of an equilateral triangle of side 15.0 cm (Fig. 16–53). Calculate the magnitude and direction of the net force on each particle due to the other two.
+
+F = k(Q₁*Q₂)/r^2
+F = k(17.0 µC * 17.0 µC) / (15.0 cm)^2
+F = k(1.7 x 10^-5 C * 1.7 x 10^-5 C) / (0.15 m)^2
+F = k (2.89 x 10^-10 C^2) / 0.0225 m^2
+F = k * 1.284 x 10^-8 C^2 / m^2
+F = 8.988 x 10^9 N*m^2/C^2 * 1.284 x 10^-8 C^2 / m^2
+F = 115 N
+
+F_y = sin(60) * 115 N
+F_y = 99.6 N
+F_x = cos(60) * 115 N
+F_x = 57.5 N
+
+v = (57.5 N + 115 N, 99.6 N)
+v = (173 N, 99.6 N)
+
+F = √((173 N)^2 + (99.6 N)^2)
+F = 200. N
+
+
+17. Two small nonconducting spheres have a total charge of 90.0 µC. a) When placed 28.0 cm apart, the force each exerts on the other is 12.0 N and is repulsive. What is the charge on each? b) What if the force were attractive?
+
+90 µC = a + b
+12 N = k ((a)*(90-a)) / (0.28 m)^2
+12 N = k (90a - a^2) / 0.0784 m^2
+12 N = 8.988 x 10^9 N*m^2/C^2 / 0.0784 m^2 * (90a - a^2)
+12 N = 1.146 x 10^11 N/C^2 * (90a - a^2)
+90a - a^2 = 12 N / 1.146 x 10^11 N/C^2
+90a - a^2 = 1.047 x 10^-10 C^2
+
+
+19. Determine the magnitude and direction of the electric force on an electron in a uniform electric field of strength 2460 N/C that points due east.
+
+F = 2460 N/C * 1.602 x 10^-19 C
+F = 3.94 x 10^-16 N east
+
+
+27. An electron is released from rest in a uniform electric field and accelerates to the north at a rate of 105 m/s^2. Find the magnitude and direction of the electric field.
+
+F = ma
+F = 9.11 x 10^-31 kg * 105 m/s^2
+F = 9.565 x 10^-29 N north
+F = qE
+E = F / 1.602 x 10^-19 C
+E = 9.565 x 10^-29 N / 1.602 x 10^-19 C
+E = 5.971 x 10^-10 N/C north
+
+
+30. Calculate the electric field at the center of a square 42.5 cm on a side if one corner is occupied by a -38.6 µC charge and the other three are occupied by -27.0 µC charges.
+
+E₁ = k (Q/r^2)
+E₁ = k (-3.86 x 10^-5 C / (0.301 m)^2)
+E₁ = k * -4.26 x 10^-4 C/m^2
+E₁ = 8.988 x 10^9 N*m^2/C^2 * -4.26 x 10^-4 C/m^2
+E₁ = -3.828 x 10^6 N/C
+
+E₂ = k (Q/r^2)
+E₂ = k (-2.70 x 10^-5 C / (0.301 m)^2)
+E₂ = k * -2.98 x 10^-4 C/m^2
+E₂ = 8.988 x 10^9 N*m^2/C^2 * -2.98 x 10^-4 C/m^2
+E₂ = -2.678 x 10^6 N/C
+
+E = (-3.828 x 10^6 N/C) - (-2.678 x 10^6 N/C)
+E = -1.15 x 10^6 N/C  
+
+
+49. A water droplet of radius 0.018 mm remains stationary in the air. If the downward-directed electric field of the Earth is 150 N/C how  many  excess  electron  charges  must  the water droplet have?
+
+V = (4πr^3)/3
+V = (4π(0.0018 cm)^3)/3
+V = 2.443 x 10^-8 cm^3
+m = 2.443 x 10^-8 g
+
+F = 2.443 x 10^-11 kg * 9.8 m/s^2
+F = 2.394 x 10^-10 N
+
+Q = 2.394 x 10^-10 N / 150 N/C
+Q = 1.596 x 10^-12 C
+
+n = 1.596 x 10^-12 C / 1.602 x 10^-19 C
+n = 9.96 x 10^6 electrons
+
+
+62. An electron with speed v₀ = 5.32 x 10^6 m/s is traveling parallel to an electric field of magnitude E = 9.45 x 10^3 N/C (a) How far will the electron travel before it stops? (b) How much time will elapse before it returns to its starting point?
+F = 9.45 x 10^3 N/C * 1.602 x 10^-19 C
+F = 1.514 x 10^-15 N
+
+a = F/m
+a = 1.514 x 10^-15 N / 9.11 x 10^-31 kg
+a = 1.662 x 10^15 m/s^2
+
+x = x_0 + v_0t + at^2
+0 = 5.32 x 10^6 m/s t - 1.662 x 10^15 m/s^2 t^2
+5.32 x 10^6 m/s = 1.662 x 10^15 m/s^2 t^2
+t^2 = 3.201 x 10^-9 s
+
+...(I couldn't figure this out by hand, so I used desmos)
+
+a. 8.08 x 10^-12 m
+b. 3.2 x 10^-9 s

@@ -1,0 +1,15 @@
+Ch 17 # 3, 5, 10, 15, 18, 23, 28
+
+3. What potential difference is needed to stop an electron that has an initial velocity v = 6.0 x 10^5 m/s?
+
+5. An electron acquires 6.45 x 10^-16 J of kinetic energy when it is accelerated by an electric field from plate A to plate B. What is the potential difference between the plates, and which plate is at the higher potential?
+
+10. Two parallel plates, connected to a 45-V power supply, are separated by an air gap. How small can the gap be if the air is not to become conducting by exceeding its breakdown value of E = 3 x 10^6 V/m
+
+15. An electric field greater than about 3 x 10^6 V/m causes air to break down (electrons are removed from the atoms and the recombine, emitting light). See section 17-2 and table 17-3. If you shuffle along a carpet and then reach for a doorknob, a spark flies across a gap you estimate to be 1 mm between your finger and the doorknob. Why is no harm done?
+
+18. What is the electric potential 15.0 cm from a 3.00 μC point charge?
+
+23. An electron starts from rest 24.5 cm from a fixed point charge with Q = -6.50 nC. How fast will the electron be moving when it is very far away?
+
+28. Many chemical reactions release energy. Suppose that at the beginning of a reaction, an electron and proton are separated by 0.110 nm, and their final separation is 0.100 nm. How much electric potential energy was lost in this reaction (in units of eV)?

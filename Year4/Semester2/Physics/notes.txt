@@ -91,3 +91,22 @@ electric fields:
 	no fields lines in a conductor
 	field lines pass through conductors
 	electric fields are perpendicular to surface of conductors
+
+electric current:
+	flows from positive to negative
+	battery:
+		chemical energy to electrical energy
+		create a potential difference between the terminals
+		cells can be connected in series to add voltages
+		cells are connected in parallel to add lifetimes
+	the rate of flow of charge
+	I = ΔQ / Δt
+	unit of electric current: the ampere, A
+	1 A = 1 C/s
+	Ohm's law:
+		V = IR
+
+electrical power
+	P = IV
+	  = I^2R
+	  = V^2/R

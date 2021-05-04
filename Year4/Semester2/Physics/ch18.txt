@@ -1,0 +1,24 @@
+Ch 18 # 1, 4, 6, 32, 35, 37
+
+1. A current of 1.60 A flows in a wire. How many electrons are flowing past any point in the wire per second?
+1.60 / 1.602 x 10^-19 C/s/e
+9.99 x 10^18 e
+
+4. What is the resistance of a toaster if 120 V produces a current of 4.6 A?
+120 V / 4.6 A
+26 Ω
+
+6. How many coulombs are there in a 75 ampere-hour car battery?
+270 kC
+
+32. An electric car uses a 45 kW motor. If the battery pack is designed for 340 V, what current would the motor need to draw from the battery?
+45 kW / 340 V
+130 A
+
+35. A 120 V fish-tank heater is rated at 130 W. Calculate a) the current through the heater when it is operating, and b) its resistance.
+a. 120 V * 130 W = 15600 A
+b. 120 V / 15600 A = 0.0078 Ω
+
+37. How many kWh of energy does a 550 W toaster use in the morning if it is in operation for a total for 5.0 min? At a cost of 9.0 cents/kWh, estimate how much this would add to your monthly electric energy bill is you made toast four mornings per week.
+a. 550 W / (60 min/hr / 5.0 min) = 0.046 kWh
+b. 0.046 kWh * 16 * 9.0 cents/kWh = 6.6 cents

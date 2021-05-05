@@ -20,15 +20,15 @@ Cereal & milk	1 bowl		. . .
 Sandwich		1/2 pc		Fried chicken, coleslaw, bread
 
 *Dinner*
-. . .			. . .		. . .
+Soup			1 bowl		Vegetable soup, bread
 
 ---
 
 *Breakfast*
-. . .			. . .		. . .
+Cereal & milk	1 bowl		. . .
 
 *Lunch*
-. . .			. . .		. . .
+Sandwich		1/2 pc		Fried chicken, coleslaw, bread
 
 *Dinner*
-. . .			. . .		. . .
+Mac&Cheese		1 serv		Macaroni, cheese, jalapeños

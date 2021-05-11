@@ -1,0 +1,68 @@
+Circuits Lab Experiment
+
+┌ ─ ┬ ┐ │ ├ ┼ ┤ └ ┴ ┘
++B- = battery
++R- = resistor / light bulb
+
+1) Use a single aluminum foil strip to complete an electrical circuit with an AA battery and a light bulb. The circuit is complete when the light bulb “lights”. Draw a diagram of the simple circuit below using the standard symbols for a battery and represent the light bulb with the standard symbol for a resistor.
+
+┌────────┐
+-        +
+B        R
++        -
+└────────┘
+
+
+2) Stack two AA batteries in series and complete the circuit with a single light bulb. Draw the circuit using the standard symbols. How does the brightness of the light bulb compare to that in Step 1?
+
+┌────────┐
+- +─┐    +
+B B │    R
++ - │    -
+└─┘ └────┘
+The light bulb was brighter than in step 1
+
+
+3) Add a second light bulb to the circuit in Step 2 in series with the first light bulb. Draw the circuit using standard symbols. How does the brightness of the light bulbs in this configuration compare to the brightness in Step 2? Attach a photo of your completed circuit.
+
+┌────────┐
+- +────- +
+B B    R R
++ -    + -
+└─┘    └─┘
+[part3.gif]
+The light bulbs were less bright than in step 2
+
+
+4) Modify the circuit in Step 3 so that the two light bulbs are now in series. Draw the circuit. How does the brightness of the light bulbs compare to the brightness in Step 3? How does the brightness compare to the brightness of the light bulb in Step 1?  Explain your answers using Kirchhoff’s Laws. Calculate the current passing through the bulbs if each has a resistance of 30Ω.
+
+┌──────┬─┐
+- +──┐ + +
+B B  │ R R
++ -  │ - -
+└─┘  └─┴─┘
+The light bulbs were brighter than step 3 and step 1.
+Because the lights were in series, the resistance was not cumulative and so more current could flow through each.
+Each bulb has 0.2 A passing through it.
+
+
+5) Create a new circuit with the two AA batteries in parallel with each other and a single light bulb in series with them. Draw the circuit. How does the brightness of the light bulb compare to the brightness in each of the previous steps? Explain your answers using Kirchhoff’s Laws.
+
+┌─┬──────┐
+- -      +
+B B      R
++ +      -
+└─┴──────┘
+The light is the same as in step one, less bright than step 2, and more bright than step 3.
+The current is the same as in step one, so it is comparable in brightness.
+
+
+6) Create a new circuit with the two AA batteries in parallel with each other and a pair of light bulbs in series. Draw the circuit. How does the brightness of the light bulbs compare to the brightness in each of the previous steps? Explain your answers using Kirchhoff’s Laws. Calculate the current passing through the bulbs if each has a resistance of 30Ω.
+
+┌─┬──────┐
+- - ┌──- +
+B B │  R R
++ + │  + -
+└─┴─┘  └─┘
+The lights are dimmer than any other step.
+The current passing through the lights is 0.02 A

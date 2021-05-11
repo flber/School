@@ -27,3 +27,31 @@ m_a v_a = m_a v'_a + m_b v'_b
 10 = v'_a + 100 + 10v'_a
 -90 = 11v'_a
 v'_a = -8.18 m/s
+
+
+---
+
+Each resistor in the circuit dissipates 1.5 W of power. 
+What are the resistance values of R₁, R₂, and R₃
+B = 9.0 V
+
+   I₁
+┌─+R₁-─┬─┐
+-      + +
+B    I₂R₂R₃I₃
++      - -
+└──────┴─┘
+
+I^2 R₁ = (I/2)^2 R₂
+R₂ = 4R₁
+
+9.0 V - IR₁ - I/2 R₂ = 0
+9.0 V - IR₁ - I/2 4R₁ = 0
+9.0 V - IR₁ - 2IR₁ = 0
+R₁ = 3/I
+
+1.5 W = I^2 R₁
+1.5 W = I^2 (3 / I)
+I₁ = 0.5 A
+
+I₂ = I₃ = 0.25 A

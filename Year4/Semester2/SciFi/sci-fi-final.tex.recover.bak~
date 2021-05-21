@@ -1,0 +1,144 @@
+\documentclass[12pt]{article}
+
+%
+%Margin - 1 inch on all sides
+%
+\usepackage[letterpaper]{geometry}
+\usepackage{times}
+\geometry{top=1.0in, bottom=1.0in, left=1.0in, right=1.0in}
+
+%
+%Doublespacing
+%
+\usepackage{setspace}
+\doublespacing
+
+%
+%Rotating tables (e.g. sideways when too long)
+%
+\usepackage{rotating}
+
+
+%
+%Fancy-header package to modify header/page numbering (insert last name)
+%
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lhead{} 
+\chead{} 
+\rhead{Last \thepage} 
+\lfoot{} 
+\cfoot{} 
+\rfoot{} 
+\renewcommand{\headrulewidth}{0pt} 
+\renewcommand{\footrulewidth}{0pt} 
+%To make sure we actually have header 0.5in away from top edge
+%12pt is one-sixth of an inch. Subtract this from 0.5in to get headsep value
+\setlength\headsep{0.333in}
+
+%
+%Works cited environment
+%(to start, use \begin{workscited...}, each entry preceded by \bibent)
+% - from Ryan Alcock's MLA style file
+%
+\newcommand{\bibent}{\noindent \hangindent 40pt}
+\newenvironment{workscited}{\newpage \begin{center} Works Cited \end{center}}{\newpage }
+
+
+%
+%Begin document
+%
+\begin{document}
+	\begin{flushleft}
+		
+		%%%%First page name, class, etc
+		Ben Hammond\\
+		Ms. Murach\\
+		Science Fiction, Period 8\\
+		21 May 2021\\
+		
+		
+		%%%%Title
+		\begin{center}
+			The Sands of Time
+		\end{center}
+		
+		
+		%%%%Changes paragraph indentation to 0.5in
+		\setlength{\parindent}{0.5in}
+		%%%%Begin body of paper here
+		
+		Lorem ipsum dolor sit amet, "consectetur,/ adipisicing" elit (Cicero 39), sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		
+		At vero eos et accusamus\footnotemark  et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. 
+		
+		Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		
+		At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. 
+		\newpage
+		
+		
+		%%%%Title
+		\begin{center}
+			Notes
+		\end{center}
+		
+		
+		\setlength{\parindent}{0.5in}
+		
+		1. Danhof includes “Delaware, Maryland, all states north of the Potomac and Ohio rivers, Missouri, and states to its north” when referring to the northern states (11).
+		
+		
+		2. For the purposes of this paper,“science” is defined as it was in nineteenthcentury agriculture: conducting experiments and engaging in research.
+		
+		
+		3. Please note that any direct quotes from the nineteenth century texts are writtenin their original form, which may contain grammar mistakes according to twenty-first century grammar rules.
+		
+		%%%%Works cited
+		\begin{workscited}
+			
+			\bibent
+			Allen, R.L. \textit{The American Farm Book; or Compend of Ameri can Agriculture; Being a Practical Treatise on Soils, Manures, Draining, Irrigation, Grasses, Grain, Roots, Fruits, Cotton, Tobacco, Sugar Cane, Rice, and Every Staple Product of the United States with the Best Methods of Planting, Cultivating, and Prep aration for Market.} New York: Saxton, 1849. Print.
+			
+			\bibent
+			Baker, Gladys L., Wayne D. Rasmussen, Vivian Wiser, and Jane M. Porter. \textit{Century of Service: The First 100 Years of the United States Department of Agriculture.}[Federal Government], 1996. Print.
+			
+			\bibent
+			Danhof, Clarence H. \textit{Change in Agriculture: The Northern United States, 1820-1870.} Cambridge: Harvard UP, 1969. Print.
+			
+			
+		\end{workscited}
+		
+	\end{flushleft}
+\end{document}
+\}
+
+
+*Ms. Murach*
+*Science Fiction, Period 8*
+*21 May 2021*
+
+## The Sands of Time
+
+Her footsteps echoed off the marble floor, its surface perfectly reflecting the inky shadows far above. The journey up the mountain range which was all that was left of the Colossus’ spine had taken days of walking between ribs and broken bones of metal which leaned precariously, like poorly constructed skyscrapers. Thin beams of red light from the sinking star outside streamed down at a shallow angle through the orbital fissures, illuminating the dunes of old paper within. An entire world’s knowledge had been sacrificed here, offered to a being created with the hope that it could solve their problems. The craters and deserts which still marred the planet’s surface all these millenia later were testaments to their failure; even a giant with the power to move mountains and the knowledge to answer any question could not change their nature. 
+​		Alone in the sea of paper, her task felt impossible. The search for life on this planet any larger than algae went back into time immemorial, and had transformed her people into a loose collection of nomadic wanderers. They subsisted on chemicals collected from the dust, transformed into carbohydrates and proteins in the bioreactors which they carried with them. She had been traveling on her own for decades, as so many of them did, crossing desolate plains etched with the scars of that final war and mountains weathered down by wind and time. 
+​		As she walked further into the desert of knowledge forgotten by all except the remnants of the Colossus' mind, the last trickle of red light faded away, leaving the skull in a soft darkness. The sound of moving paper seemed to pick up then; dunes shifting in a quiet wind which came from nowhere. Looking around, she realized she could no longer tell where she had come from; the dunes had shifted and hidden the path behind her. In an almost imperceptible breeze, a paper was lifted from a far off dune and made its way toward her, landing at her feet. She leaned down to pick it up, moving other sheets aside. The paper almost broke apart from that light motion, and though most of the words were gone, erased by time, she could make out the words, “   .  -  rest, now    `     …  and travel   ‘       ~ nø longer   ^  _    ”
+​	The paper was carried back into the darkness as she dropped it, and she asked the wind in a hushed voice, “What do you know? What have you been hiding?” 
+A path slowly revealed itself, lit by paper with glowing writing, winding off into the dunes. As she followed the path deeper into the desert the wind began to pick up, the dunes rustling like dry leaves. 
+[...]
+​	She struggled up an enormous dune of parchment, the sheets shifting and whispering with each step as she slowly ascended. Finally, at the crest of the dune she spotted a bright green mass below her, which appeared to be contained in a larger glass building. Looking down, she struggled to make out what it was. Was it a collection of algae? Some sort of mineral deposit? 
+
+
+
+
+
+
+
+
+
+### Works Cited
+
+De Farias Silva, C. E., Bertucco, A. “Bioethanol from microalgae and cyanobacteria: A review and technological outlook.” Process Biochemistry, 51(11), 1833–1842, 2016, doi:10.1016/j.procbio.2016.02.016
+K. Elkins, J. Chun, et al. “GPT-3: Its Nature, Scope, Limits, and Consequences.” Minds and Machines, Springer Netherlands, 1 Nov. 2020, https://doi.org/10.1007/s11023-020-09548-1.
+Radakovits, R., Jinkerson, R. E., Darzins, A., Posewitz, M. C. “Genetic Engineering of Algae for Enhanced Biofuel Production.” Eukaryotic Cell, 9(4), 486–501, 2010, doi:10.1128/ec.00364-09.
+Regehly, M., Garmshausen, Y., Reuter, M. et al. “Xolography for linear volumetric 3D printing”. Nature 588, 620–624, 2020, https://doi.org/10.1038/s41586-020-3029-7.

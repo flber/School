@@ -1,0 +1,13 @@
+Chapter 8.3 # 53, 56, 65, 67, 71, 96
+
+53. Estimate the kinetic energy of the earth with respect to the sun as the sum of two terms, a) that due to its daily rotation about its axis, and b) that due to its yearly revolution about the sun. [Assume the earth is a uniform sphere with mass = 6.0 x 10^24 kg, radius = 6.4 x 10^6 m, and is 1.5 x 10^8 km from the sun.]
+
+56. A sphere of radius r = 34.5 cm and mass m = 1.80 kg starts from rest and rolls without slipping down a 30.0° incline that is 10.0 m long. a) Calculate its translational and rotational speeds when it reaches the bottom. b) What is the ratio of translational to rotational kinetic energy at the bottom? Avoid putting in numbers until the end so you can answer: c) do your answers in a and b depend on the radius of the sphere or its mass?
+
+65. A figure skater can increase her spin rotation rate from an initial rate of 1.0 rev every 1.5 s to a final rate of 2.5 rev/s. If her initial moment of inertia was 4.6 kg·m², what is her final moment of inertia? How does she physically accomplish this change?
+
+67. A person of mass 75 kg stands at the center of a rotating merry-go-round platform of radius 3.0 m and moment of inertia 820 kg·m². The platform rotates without friction with angular velocity 0.95 rad/s. The person walks radially to the edge of the platform. a) Calculate the angular velocity when the person reaches the edge. b) Calculate the rotational kinetic energy of the system of platform plus person before and after the the person's walk.
+
+71. Suppose our sun eventually collapses into a white dwarf, losing about half of its mass in the process, and winding up with a radius 1.0% of its existing radius. Assuming the lost mass carries away no angular momentum, a) what would the sun's new rotation be? Take the sun's current period to be about 30 days. b) what would be its final kinetic energy in terms of its initial kinetic energy of today?
+
+96. The radius of the roll of paper shown in fig. 8-67 is 7.6 cm and its moment of inertia is I = 3.3 x 10^-3 kg·m². A force of 3.5 N is exerted on the end of the roll for 1.3 s, but the paper does not tear so it begins to unroll. A constant friction torque of 0.11 m·N is exerted on the roll which gradually brings it to stop. Assuming that the paper's thickness is negligible, calculate a) the length of paper that unrolls during the time that the force is applied (1.3 s) and b) the length of paper that unrolls from the time the force ends to the time when the roll has stopped moving.

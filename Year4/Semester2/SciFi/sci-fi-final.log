@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=latex 2021.4.26)  21 MAY 2021 13:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=latex 2021.4.26)  22 MAY 2021 19:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -116,10 +116,142 @@ File: l3backend-dvips.def 2020-09-24 L3 backend support: dvips
 \g__pdf_backend_link_int=\count191
 \g__pdf_backend_link_sf_int=\count192
 )
-No file sci-fi-final.aux.
+(./sci-fi-final.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
-LaTeX Font 
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: dvips
+*geometry* verbose mode - [ preamble ] result:
+* driver: dvips
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=24.06537pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 71.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 71.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 71.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 72.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 72.
+
+Underfull \hbox (badness 3375) in paragraph at lines 76--76
+[][]\OT1/ptm/m/n/10 In this en-vi-ron-ment where there is very lit-tle avail-ab
+le biomass, these peo-ple syn-the-size the var-
+ []
+
+
+Underfull \hbox (badness 5359) in paragraph at lines 76--76
+\OT1/ptm/m/n/10 i-ous nu-tri-ents they need from their com-po-nent el-e-ments a
+nd min-er-als, uti-liz-ing a ge-net-i-cally mod-i-
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 76--76
+\OT1/ptm/m/n/10 fied form of yeast. This yeast is grown in closed ves-sels call
+ed biore-ac-tors, cham-bers with a spe-cific
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 76--76
+\OT1/ptm/m/n/10 species of small or-gan-ism and the nec-es-sary con-di-tions fo
+r it to sur-vive and pro-duce a re-quired prod-uct.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+\OT1/ptm/m/it/10 Radakovits, R., Jinker-son, R. E., Darzins, A., Pose-witz, M. 
+C. \Ge-netic En-gi-neer-ing of Al-gae
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+\OT1/ptm/m/it/10 for En-hanced Bio-fuel Pro-duc-tion." Eu-kary-otic Cell, 9(4),
+ 486{501, 2010, doi:10.1128/ec.00364-09.
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 14.49998pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 83--83
+[][]\OT1/ptm/m/n/10 This is loosely based on the new tech-nol-ogy of xolog-ra-p
+hy, a pro-cess by which 3-
+ []
+
+
+Underfull \hbox (badness 6173) in paragraph at lines 83--83
+\OT1/ptm/m/n/10 dimensional ob-jects can be cre-ated in resin by di-rect-ing mu
+l-ti-ple light sources at right an-gles to
+ []
+
+
+Underfull \hbox (badness 5119) in paragraph at lines 83--83
+\OT1/ptm/m/n/10 each other to form the shape of the ob-ject at the in-ter-sect 
+points of the light. In this scene,
+ []
+
+
+Underfull \hbox (badness 7963) in paragraph at lines 83--83
+\OT1/ptm/m/n/10 there is some very large form of xolog-ra-phy which the colos-s
+us uses to il-lu-mi-nate the pa-pers.
+ []
+
+[2] [3] [4] (./sci-fi-final.aux) ) 
+Here is how much of TeX's memory you used:
+ 1644 strings out of 479384
+ 24486 string characters out of 5875856
+ 311939 words of memory out of 5000000
+ 18778 multiletter control sequences out of 15000+600000
+ 409290 words of font info for 42 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 80i,12n,85p,1225b,265s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on sci-fi-final.dvi (4 pages, 11748 bytes).

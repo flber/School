@@ -9,6 +9,10 @@ c. A: 3 s, B: 2 s
 
 11. At what displacement of an SHO is the energy half kinetic and half potential?
 
+
+
+
+
 16. It takes a force of 91.0 N to compress the spring of a toy popgun 0.175 m to “load” a 0.160-kg ball. With what speed will the ball leave the gun if fired horizontally?
 
 19. A mass resting on a horizontal, frictionless surface is attached to one end of a spring; the other end is fixed to a wall. It takes 3.6 J of work to compress the spring by 0.13 m. If the spring is compressed, and the mass is released from rest, it experiences a maximum acceleration of 12 m/s^2. Find the value of (a) the spring constant and (b) the mass.

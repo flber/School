@@ -1,0 +1,30 @@
+Simple Harmonic Motion Notes
+
+Amplitude: max displacement
+Frequency: oscillations / sec
+Period: sec/oscillation
+
+Requires:
+	1. net force in the opposite direction
+	2. net for proportional to displacement
+
+Examples:
+	1. mass-spring oscillator
+	2. pendulum
+
+Mass-spring:
+	- Max force at ends, vectors toward equilibrium
+	- F = kx
+	- F = 0 at equilibrium
+	- max acceleration is same x as max force
+	- a = ∑F/m
+	- v = 0 at A = max
+	- v = max at x = 0
+	- v_max = √(kx_max^2 / m)
+	- KE_max = 1/2mv_max^2
+	- a = 0 @ x = 0
+	- k: N/m
+
+Oscillations:
+	- T_s = 2π√(m/k)
+	- T_p = 2π√(l/g)

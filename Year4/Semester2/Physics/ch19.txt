@@ -1,0 +1,146 @@
+Chapter 19 # 6, 7, 8, 16, 19, 29
+
+parallel: I = V/R₁ + V/R₂
+series: I = V/(R₁ + R₂)
+
+6. Suppose that you have a 580 Ω, a 790 Ω, and a 1.20 kΩ resistor. What is a) the maximum, and b) the minimum resistance you can obtain by combining these?
+
+R_max = 580 Ω + 790 Ω + 1200 Ω
+      = 2570 Ω
+
+R_min = 1/(1/580 Ω + 1/790 Ω + 1/1200 Ω)
+      = 1/(0.00382 Ω)
+      = 262 Ω
+
+
+7 .How many 10 Ω resistors must be connected in series to give an equivalent resistant to five 100 Ω resistors connected in parallel? 
+R = 1/(5/100 Ω)
+  = 1/(0.05 Ω)
+  = 20 Ω
+
+2 ten Ω resistors
+
+
+8. Design a "voltage divider" that would provide one-fifth of the battery voltage across R₂. What is the ratio of R₁/R₂?
+
+5R₁ + R₂ = (24 V / 0.48 A)
+5R₁ + R₂ = 50 Ω
+R₁ = 41.7 Ω
+R₂ = 8.33 Ω
+R₁/R₂ = 5
+
+
+16. Determine a) the equivalent resistance of the circuit shown in fig. 19-48, b) the voltage across each resistor, and c) the current through each resistor.
+
+                 ┌R₁┐
+                ┌┤  ├┐
+┌────┬────┐     +└R₂┘│
+R₁   R₂   R₃ => V    │
+└────┴─+V-┘     -    │
+V: 12.0 V       └─R₃─┘
+R₁: 750 Ω
+R₂: 680 Ω
+R₃: 990 Ω
+
+a.
+R_p = 1/(1/750 Ω + 1/680 Ω)
+    = 1/0.0028 Ω
+    = 360 Ω
+
+R = 360 Ω + 990 Ω
+  = 1300 Ω
+
+b.
+I = 12.0 V / 1300 Ω
+  = 0.0092 A
+  = 9.2 mA
+
+V_p = 0.0092 A * 360 Ω
+    = 3.3 V
+    
+R₁&R₂: 3.3 V
+
+R₃: 12.0 V - 3.3 V
+  : 8.7 V
+
+c.
+R₁: 3.3 V / 750 Ω = 4.4 mA
+R₂: 3.3 V / 680 Ω = 4.9 mA
+R₃: 8.7 V / 990 Ω = 8.8 mA
+
+
+19. What is the net resistance of the circuit connected to the battery in fig. 19-50?
+
+ B    C
+┌──R──┬──R──┐
+│ ╲   │     +
+R  R  R     V
+│   ╲ │     -
+└──R──┴─────┘
+      A
+
+∑R = 1 / (1/2R + 1/R)
+∑R = 1 / (1/2R + 2/2R)
+∑R = 1 / (3/2R)
+∑R = 1 / (3/2R)
+∑R = 2R/3
+
+
+29. a) What is the potential difference between points A nd D in fig. 19-57, and b) what is the terminal voltage of each battery?
+
+              h
+↑ ┌─────R₁────────┐
+I₁│                │
+  │   ← I₃         │
+ a─R₃────R₂─+V₁-d
+  │     b     c    │
+I₂│                R₄
+↓ └─-V₂+───R₅───┘
+    g    f       e
+
+V₁: 45 V potential difference
+V₂: 85 V potential difference
+R₁: 34 Ω
+R₂: 1 Ω
+R₃: 47 Ω
+R₄: 18 Ω
+R₅: 1 Ω
+
+I₃ = I₁ + I₂
+
+V_ah = -(I₁)(34 Ω)
+V_dc = +45 V
+V_ca = -(I₃)(48 Ω)
+
+V_ah + V_dc + V_ca = 0
+-34I₁ + 45 - 48I₃ = 0
+
+V_ah = -(I₁)(34 Ω)
+V_de = +(I₂)(18 Ω)
+V_ef = +(I₂)(1 Ω)
+V_fg = -85 V
+
+V_ah + V_de + V_ef + V_fg = 0
+-34I₁ + 19I₂ - 85 = 0
+
+-34I₁ + 45 - 48I₃ = 0
+48I₃ = -34I₁ + 45
+I₃ = 0.71I₁ + 0.94
+
+-34I₁ + 19I₂ - 85 = 0
+19I₂ = 34I₁ + 85
+I₂ = 1.8I₁ + 4.5
+
+I₃ = I₁ + I₂
+0.71I₁ + 0.94 = I₁ + 1.8I₁ + 4.5
+0.71I₁ = 2.8I₁ + 4.5 - 0.94 
+-2.0I₁ = 3.5
+I₁ = -1.8 A
+
+I₃ = 0.71I₁ + 0.94
+I₃ = 0.71(-1.8 A) + 0.94
+I₃ = -0.34 A
+
+I₂ = 1.8I₁ + 4.5
+I₂ = 1.8(-1.8 A) + 4.5
+I₂ = 1.3 A

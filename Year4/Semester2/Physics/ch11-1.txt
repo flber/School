@@ -1,0 +1,74 @@
+Chapter 11.1 # 9, 11, 16, 19, 21, 24
+
+9. Estimate the pressure exerted on a floor by a) one pointed heal of area = 0.45 cm², and b) on wide head of area 16 cm². The person wearing the shoes has a mass of 56 kg.
+
+a.
+F = 56 kg * 9.8 m/s²
+F = 548.8 N
+
+10000 cm²/m² / 0.45 cm²
+22222 1/m²
+
+548.8 N * 22000 1/m²
+1.2 x 10⁴ kPa (if standing on one foot)
+
+b.
+10000 cm²/m² / 16 cm²
+625 1/m²
+
+548.8 N * 625 1/m²
+3.4 x 10⁵ Pa (if standing on one foot)
+
+
+11. a) Calculate the total force of the atmosphere acting on the top of a table that measures 1.7 m x 2.6 m. b) What is the total force acting upward on the underside of the table?
+
+a.
+101325 Pa * (1.7 m * 2.6 m)
+101325 Pa * 4.42 m²
+447857 N
+4.4 x 10⁵ N
+
+b.
+4.4 x 10⁵ N ? (this seems very large, but I'm not sure where I would have gone wrong with the math...)
+
+
+16. a) Determine the total force and the absolute pressure on the bottom of a swimming pool 28.0 m by 8.5 m whose uniform depth is 1.8 m. b) What will the pressure against the side of the pool near the bottom?
+
+a.
+28.0 m * 8.5 m * 1.8 m = 428 m³
+428 m³ * 1000 kg/m³ = 428000 kg
+428000 kg * 9.8 m/s² = 4198320 N
+4198320 N / (28.0 m * 8.5 m)
+4198320 N / 238 m² = 17640 Pa
+17600 Pa
+
+b.
+4198320 N / 0.1 m * (2(28.0 m) + 2(8.5 m))
+4198320 N / 0.1 m * 73 m
+4198320 N / 7.3 m² = 575112 Pa
+575000 Pa
+
+
+19. How high would the atmosphere extend if it were of uniform density throughout, equal to half the present density at sea level?
+
+1.225 kg/m³ / 2 = 0.6125 kg/m³
+101325 N/m³ = 0.6125 kg/m³ * x N/kg
+I'm really not sure how to do this
+
+
+21. A hydraulic press for compacting powered samples has a large cylinder which is 10.0 cm in diameter, and a small cylinder with a diameter of 2.0 cm. A lever is attached to the small cylinder as shown. The sample, which is placed on the large cylinder, has an area of 4.0 cm². What is the pressure on the sample is 320 N is applied to the lever?
+
+2 * 320 N = 640 N
+640 N / π/10000 m² = 2037183 Pa
+2037183 Pa * 25π/10000 m² = 16000 N
+16000 N / (4.0 cm² * 1 cm²/10000 m²) = 4.0 x 10⁷ Pa
+
+
+24. A geologist finds that a moon rock whose mass is 9.28 kg, has an apparent mass of 6.18 kg when submerged in water. What is the density of the rock?
+
+9.28 kg - 6.18 kg = 3.1 kg
+3.1 kg / 1000 kg/m³ = 0.0031 m³
+0.0031 m³ * 1000000 cm³/m³ = 3100 cm³
+(9.28 kg * 1000 g/kg) / 3100 cm³
+9280 g / 3100 cm³
+2.99 g/cm³

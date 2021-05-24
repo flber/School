@@ -1,0 +1,15 @@
+Chapter 11.2 # 37, 38, 40, 45, 60, 61, 64
+
+37. On dry land, an athlete weighs 70.2 kg. The same athlete, when submerged in a swimming pool and hanging from a scale, has an "apparent weight" of 3.4 kg. Using example 10-8 as a guide, a) find the total volume V of the submerged athlete. b) Assume that when submerged, the athlete's body contains a residual volume V_r 1.3 x 10^-3 m³ of air (mainly in the lungs). Taking V = V_r to be the actual volume of the athlete's body, find the  body's specific gravity, SG. c) What is the athlete's percent body fat assuming it is given by the formula (465/SG) - 450?
+
+38. How many helium-filled balloons would it take to lift a person? Assume the person has a mass of 72 kg and that each helium-filled balloon is spherical with a diameter of 33 cm.
+
+40. A 3.65 kg block of wood (SG = 0.50) floats on water. What minimum mass of lead, hung from the wood by a string, will cause the block to sink?
+
+45. What is the volume rate of flow of water from a 1.85 cm diameter faucet if the pressure head is 12.0 cm?
+
+60. A gardener feels it is taking too long to water a garden with a 3/8 in diameter hose. By what factor will the time be cut using a 5/8 in diameter hose instead? Assume nothing else is changed.
+
+61. What diameter must a 15.5 m long air duct have if the ventilation and heating systems is to replenish the air in a room 8.0 m x 14.0 m x 4.0 m every 15.0 min? Assume the pump can exert a gauge pressure of 0.710 x 10^-3 atm.
+
+64. Assuming a constant pressure gradient, if blood flow is reduced by 65%, by what factor is the radius of a blood vessel decreased?

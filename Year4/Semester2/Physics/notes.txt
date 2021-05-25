@@ -86,6 +86,8 @@ Coulomb's law:
 		E = k(Q/r^2)
 		F = qE
 		E is a vector
+		E = -V_ba/d
+		V = k(Q/r)
 
 electric fields:
 	no fields lines in a conductor
@@ -110,3 +112,5 @@ electrical power
 	P = IV
 	  = I^2R
 	  = V^2/R
+
+v = √(-2qV_ba/m)

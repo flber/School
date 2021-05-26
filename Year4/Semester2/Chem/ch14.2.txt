@@ -34,12 +34,25 @@ f. pOH = 9.60
 acidic
 
 
-57. 
+57. Calculate the pH of each of the following solutions of a strong acid in water.
 
-68. 
+a. 0.10 M HCl
+pH = 1
 
-69. 
+b. 5.0 M HCl
+pH = -0.70
 
-70. 
+c. 1.0 x 10^-11 M HCl
+pH = 25
 
-82. 
+
+68. A solution is prepared by dissolving 0.56 g benzoic acid (C₆H₅CO₂H, K_a = 6.4 x 10^-5)  in enough water to make 1.0 L of solution. Calculate [C₆H₅CO₂H], [C₆H₅CO₂⁻], [H⁺], [OH⁻], and the pH of the solution.
+
+0.56 g / 121.110 g/mol = 4.6 x 10^-3 M
+
+
+69. Monochloroacetic acid (HC₃H₅O₂, K_a = 1.3 x 10^-5), is a skin irritant that is used in chemical peels intended to remove the top layer of dead skin from the face and improve the complexion. The value of K_a for monochloroacetic acid is 1.35 x 10^-3. Calculate the pH of a 0.10 M solution of monochloroacetic acid.
+
+70. A typical aspirin tablet contains 3.25 mg acetylsalicyclic acid (HC₉H₇O₄). Calculate the pH of a solution that is prepared by dissolving two aspirin tablets in enough water to make one cup (237 mL) of solution. Assume that the aspirin tablets are pure acetylsalicyclic acid, K_a = 3.3 x 10^-4.
+
+82. You have 100.0 g of saccharin, a sugar substitute, and you want to prepare a pH = 5.75 solution. What volume of solution can be prepared? For saccharin, HC₇H₄NSO₃, pK_a = 11.70 (pK_a = -log(K_a))

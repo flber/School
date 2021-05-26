@@ -1,0 +1,25 @@
+Acids and Bases Videos Notes
+
+amphiprotic: functions as both acid and base
+	- water
+	- bicarbonate
+
+pH = -log[H₃O⁺]
+pOH = -log[OH⁻]
+
+autoionization of water: H₂O + H₂O <=> H₃O⁺ + OH⁻
+	- very low k
+	- k_w = 1.0 x 10^-14 at 25°C
+	- lower temp: higher pK_w
+	- higher temp: lower pK_w
+
+strong acids:
+	- HCl
+	- Hbr
+	- HI
+	- HNO₃
+	- H₂SO₄
+	- HClO₃
+	- HClO₄
+
+k_w = [H₃O⁺][OH⁻] = 1.0 x 10^-14 at 25°C

@@ -1,0 +1,57 @@
+Chem Ch 14.3 # 87, 89, 101, 108, 130, 157, 158
+
+87. Use table 14.3 to answer the following.
+
+a. which is the stronger base, ClO₄⁻ or C₆H₅NH₂
+C₆H₅NH₂
+b. which is the stronger base, H₂O or C₆H₅NH₂
+C₆H₅NH₂
+c. which is the stronger base, OH⁻ or C₆H₅NH₂
+OH⁻
+d. which is the stronger base, C₆H₅NH₂ or CH₃NH₂
+C₆H₅NH₂
+
+
+89. Calculate the pH of the following solutions
+
+a. 0.10 M NaOH
+13
+b. 1.0 x 10^-10 M NaOH
+7
+c. 2.0 M NaOH
+14.3
+
+
+101. What is the percent ionization in each of the following solutions
+
+a. 0.10 M NH₃
+b. 0.010 M NH₃
+c. 0.10 M CH₃NH₂
+
+
+108. Arsenic acid (H₃AsO₄) is a triprotic acid with K_a₁ = 5.5 x 10^-3, K_a₂ = 1.7 x 10^-7, and K_a₃ = 5.1 x 10^-12. Calculate [H⁺], [OH⁻], [H₃AsO₄], [H₂AsO₄⁻], [HAsO₄²⁻], and [AsO₄³⁻] in a 0.20 M arsenic acid solution.
+
+
+130. Are solutions of the following salts acidic, basic, or neutral? For those that are not neutral, write balanced equations for the reactions causing the solution to be acidic or basic. The relevant K_a and K_b values are found in tables 14.2 and 14.3.
+
+a. NaNO₃
+b. NaNO₂
+c. C₅H₅NHClO₄
+d. NH₄NO₂
+e. KOCl
+f. NH₄OCl
+
+
+157. The equilibrium constant K_a for the reaction
+Fe(H₂O)₆³⁺ (aq) + H₂O (l) <=> Fe(H₂O)₅(OH)²⁺ (aq) + H₃O⁺ (aq)
+is 6.0 x 10^-3.
+
+a. calculate the pH of a 0.10 M solution of Fe(H₂O)₆³⁺
+b. will a 1.0 M solution of iron(II) nitrate have a higher or lower pH than a 1.0 M solution of iron(III) nitrate? Explain.
+ 
+
+158. Rand the following 0.10 M solutions is order of increasing pH
+
+a. HI, HF, NaF, NaI
+b. NH₄Br, HBr, KBr, NH₃
+c. C₆H₅NH₃NO₃, NaNO₃, NaOH, HOC₆H₅, KOC₆H₅, C₆H₅NH₂, HNO₃

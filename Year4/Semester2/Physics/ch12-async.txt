@@ -1,0 +1,25 @@
+Ch 12 Async Assignment # 3, 5, 9, 20, 23, 33, 42
+
+
+3. a) Calculate the wavelength in air at 20°C for sounds in the maximum range of human hearing, 20 Hz to 20,000 Hz. b) What is the wavelength of an 18 MHz ultrasonic wave?
+
+
+
+
+5. An ocean fishing boat is drifting just above a school of tuna on a foggy day, without warning, an engine backfire occurs on another boat 1.55 km away. How much time elapses before the backfire is heard a) by the fish, and b) by the fishermen?
+
+
+9. What is the sound level of a sound whose intensity is 1.5 x 10^-6 W/m^2?
+
+
+20. a) Estimate the power output of a sound from a person speaking in normal conversation. Use table 12-2. Assume the sound spreads roughly uniformly over a sphere centered on the mouth. b) How many people would it take to produce a total sound output of 60 W of ordinary conversation? (hint: add intensities, not dBs)
+
+
+23. What are the lowest and highest frequencies that an ear can detect when the sound level is 40 dB? (see fig 12-6)
+
+
+33. An unfingered guitar string is 0.68 m long and tuned to play E above middle C (330 Hz). a) How far from the end of this string must a fret (and your finger) be placed to play A above middle C (440 Hz)? b) What is the wave-length on the string of this 440 Hz wave? c) What are the frequency and wavelength of the sound wave produced in air at 22°C by this string?
+
+
+42. Determine the fundamental and first overtone frequencies when you are in a 9.0 m long hallway with all doors closed. Model the hallway as a tube closed at both ends.
+

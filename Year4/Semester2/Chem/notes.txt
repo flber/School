@@ -22,8 +22,8 @@ heterogeneous equilibria:
 ICE (initial, change, equilibrium) table
 * are given values
 
-		|	Initial			|	Change		|	Equilibrium
---------+-------------------+---------------+-----------------
+		|	Initial			|	Change			|	Equilibrium
+--------+-------------------+-------------------+-----------------
 PCl_3	|	*0.298 M		|	+2.0 x 10^-3	|	0.300 M
 PCl_5	|	*8.7 x 10^-3 M	|	-2.0 x 10^-3	|	6.7 x 10^-3 M
 Cl_2	|	*0 M			|	+2.0 x 10^-3	|	*2.0 x 10^-3 M

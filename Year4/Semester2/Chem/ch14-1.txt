@@ -1,0 +1,88 @@
+Ch 14.1 # 26, 36, 40, 41, 43, 44, 47
+
+
+26. The following are representations of acid-base reactions:
+
+HF + H₂O <=> H₃O⁺ + F⁻
+NH₃ + HCl <=> NH₄⁺ + Cl⁻
+
+a. label each of the species in both equations as an acid or a base and explain your answers
+
+acids: HF, HCl; both are proton donors
+bases: H₂O, NH₃; both are proton acceptors
+
+b. for those species that are acids, which labels apply: Arrhenius acid, Brønsted-Lowry acid, Lewis acid? What about the bases?
+
+HF and HCl are both Arrhenius and Brønsted-Lowry acids. H₂O and NH₃ are both Brønsted-Lowry bases.
+
+
+36. Write the dissociation reaction and the corresponding K_a equilibrium expression for each of the following acids in water.
+
+a. HCN
+HCN + H₂O <=> CN⁻ + H₃O⁺
+K_a = 6.2 x 10^-10
+
+b. HOC₆H₅
+HOC₆H₅ + H₂O <=> OC₆H₅⁻ + H₃O⁺
+K_a = 1.6 x 10^-10
+
+c. C₆H₅NH₃⁺
+C₆H₅NH₃⁺ + H₂O <=> C₆H₅NH₂ + H₃O⁺
+
+
+40. Consider the following illustrations:
+
+[strong acid] [weak acid]
+
+a. HNO₂: weak acid
+
+b. HNO₃: strong acid
+
+c. HCl: strong acid
+
+d. HF: strong acid
+
+e. HC₂H₃O₂: weak acid
+
+
+41. Use table 14.2 to order the following from the strongest to the weakest acid.
+
+HClO₂, H₂O, NH₄⁺, HClO₄
+HClO₂ > H₂O > HClO₄ > NH₄⁺
+
+
+43. You may need table 14.2 to answer the following questions.
+
+a. Which is the stronger acid, HCl or H₂O?
+HCl
+
+b. Which is the stronger acid, H₂O or HNO₂?
+HNO₂
+
+c. Which is the stronger acid, HCN or HOC₆H₅?
+HCN
+
+
+44. You may need table 14.2 to answer the following questions.
+
+a. Which is the stronger base, Cl⁻ or H₂O?
+Cl⁻
+
+b. Which is the stronger base, H₂O or NO₂⁻?
+H₂O
+
+c. Which is the stronger base, CN⁻ or OC₆H₅⁻?
+OC₆H₅⁻
+
+
+47. Values of K_w as a function of temperature are as follows:
+
+(°C)	(K_w)
+0		1.14 x 10^-15
+25		1.00 x 10^-14
+35		2.09 x 10^-14
+40.		2.92 x 10^-14
+50.		5.47 x 10^-14
+
+is the autoionization of water exothermic or endothermic?
+endothermic
